@@ -45,6 +45,14 @@
   padding-bottom: 50%;
 }
 
+main > div {
+  box-shadow: .5cm .5cm 1cm .5cm rgba(0, 0, 0, 0.5);
+  width: max-content;
+  position: relative;
+  margin: 4rem auto 5rem auto;
+  box-sizing: border-box;
+}
+
 /** Responsivity **/
 /* Compress for small windows */
 @media only screen and (max-width: 22cm) {
