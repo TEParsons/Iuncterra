@@ -2,10 +2,10 @@
 Function to populate a standard header
 */
 function populateHeader(header) {
-    header.innerHTML = (
-`
+  header.innerHTML = (
+    `
 <h1><a href="index.html">Iuncterra</a></h1>
-<h3 class=sub><a href="http://ipa-reader.xyz/?text=iʌŋktɛræ&voice=Brian" class=ipa>iʌŋktɛræ</a></h3>
+<h3 class=sub><a class=ipa>iʌŋktɛræ</a></h3>
 
 <nav>
     <a href="locations.html">Locations</a>
@@ -14,20 +14,20 @@ function populateHeader(header) {
     <a href="species.html">Species'</a>
 </nav>
 `
-    )
+  )
 }
 
 /*
 Function to populate footer
 */
 function populateFooter(footer) {
-    footer.innerHTML = (
-`
+  footer.innerHTML = (
+    `
 Content: <a href="https://github.com/TEParsons">Todd Parsons</a></br>
 Wiki Template: <a href="https://github.com/TEParsons">Todd Parsons</a></br>
 Background: <a href="https://www.pexels.com/photo/dry-leaf-on-concrete-surface-5947472/">Eva Bronzini via Pexels</a>
 `
-    )
+  )
 }
 
 /*
@@ -50,15 +50,27 @@ function populateContentsPage(contents) {
     // Get page info
     pageInfo['id'] = page.id;
     pageInfo['title'] = page.querySelector("h1");
-      if (pageInfo['id'] && pageInfo['title']) {
-        // If we have the minimum needed, make a list item
-        link = document.createElement("a");
-        link.href = `#${page.id}`;
-        contents.appendChild(link);
-        item = document.createElement("li");
-        item.textContent = pageInfo['title'].textContent;
-        link.appendChild(item);
+    if (pageInfo['id'] && pageInfo['title']) {
+      // If we have the minimum needed, make a list item
+      link = document.createElement("a");
+      link.href = `#${page.id}`;
+      contents.appendChild(link);
+      item = document.createElement("li");
+      // Get text content of title (without suffixes)
+      item.textContent = Array.prototype.filter.call(pageInfo['title'].childNodes, function (element) {
+        return element.nodeType === Node.TEXT_NODE;
+      }).map(function (element) {
+        return element.textContent;
+      }).join("")
+
+      link.appendChild(item);
     }
+  }
+}
+
+function populateIPA() {
+  for (let obj of document.getElementsByClassName("ipa")) {
+    obj.href = `http://ipa-reader.xyz/?text=${obj.textContent}&voice=Brian`
   }
 }
 
@@ -67,11 +79,11 @@ function populateContentsPage(contents) {
 Master function calling all other populate functions
 */
 function populateAll() {
-    // Populate header
-    populateHeader(document.getElementById("home-page-header"));
-    populateFooter(document.getElementById("home-page-footer"));
-    populateContentsPage(document.getElementById("contents"));
-    
+  // Populate header
+  populateHeader(document.getElementById("home-page-header"));
+  populateFooter(document.getElementById("home-page-footer"));
+  populateContentsPage(document.getElementById("contents"));
+  populateIPA()
 }
 
 // Bind to window load event

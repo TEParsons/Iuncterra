@@ -75,7 +75,12 @@ h6.sub {
 }
 .ipa:before, .ipa:after {
   content: "/";
-  margin: 0.5rem;
+  font-size: .8em;
+  line-height: 1em;
+}
+
+.suffix {
+  font-size: .4em;
 }
 
 #contents {
