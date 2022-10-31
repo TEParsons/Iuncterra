@@ -226,6 +226,7 @@ blockquote {
   border-top: 3pt solid var(--red);
   border-bottom: 3pt solid var(--red);
   break-inside: avoid;
+  margin: 2mm 2mm 2mm 2mm;
 }
 
 blockquote blockquote {
