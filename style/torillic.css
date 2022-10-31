@@ -45,6 +45,13 @@
   padding-bottom: 50%;
 }
 
+.fullwidth {
+  max-width: 100%; 
+  column-span: all; 
+  display: block;
+  margin: 1cm 0;
+}
+
 main > div {
   box-shadow: .5cm .5cm 1cm .5cm rgba(0, 0, 0, 0.5);
   width: max-content;
