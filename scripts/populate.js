@@ -61,8 +61,24 @@ function populateContentsPage(contents) {
         return element.nodeType === Node.TEXT_NODE;
       }).map(function (element) {
         return element.textContent;
-      }).join("")
+      }).join("");
+      // Add subnodes
+      for (let subpage of page.getElementsByTagName("h2")) {
+        if (subpage.id) {
+          console.log(subpage.id)
+          let sublink = document.createElement("a");
+          sublink.href = `#${subpage.id}`;
+          let subitem = document.createElement("li");
+          subitem.textContent = Array.prototype.filter.call(subpage.childNodes, function (element) {
+            return element.nodeType === Node.TEXT_NODE;
+          }).map(function (element) {
+            return element.textContent;
+          }).join("");
+          sublink.appendChild(subitem);
+          item.appendChild(sublink);
 
+        }
+      }
       link.appendChild(item);
     }
   }
