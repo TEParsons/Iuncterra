@@ -84,10 +84,11 @@ function populateContentsPage(contents) {
   }
 }
 
-function populateIPA() {
-  for (let obj of document.getElementsByClassName("ipa")) {
-    obj.href = `http://ipa-reader.xyz/?text=${obj.textContent}&voice=Brian`
-  }
+/*
+* Add a link to IPA reader to any IPA pronunciation string.
+*/
+function linkIPA(obj) {
+  obj.href = `http://ipa-reader.xyz/?text=${obj.textContent}&voice=Brian`
 }
 
 
@@ -99,7 +100,9 @@ function populateAll() {
   populateHeader(document.getElementById("home-page-header"));
   populateFooter(document.getElementById("home-page-footer"));
   populateContentsPage(document.getElementById("contents"));
-  populateIPA()
+  for (let obj of document.getElementsByClassName("ipa")) {
+    linkIPA(obj)
+  }
 }
 
 // Bind to window load event
