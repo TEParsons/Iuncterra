@@ -31,21 +31,30 @@ body {
   position: fixed;
   left: 0;
   bottom: 2rem;
+  width: 15rem;
+  margin-left: -17rem;
 
   text-align: left;
   border-radius: 0 0.5rem 0.5rem 0;
   padding: 1rem 2rem;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.6);
   opacity: 0.2;
   color: white;
 
-  transition: opacity 1s;
+  transition: opacity 1s, margin-left 1s;
 }
 #home-page-footer * {
   color: white;
 }
 #home-page-footer:hover {
   opacity: 1;
+  margin-left: 0;
+}
+#home-page-footer::after {
+  content: "i";
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
 }
 
 nav {
