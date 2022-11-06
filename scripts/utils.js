@@ -31,56 +31,92 @@ Background: <a href="https://www.pexels.com/photo/dry-leaf-on-concrete-surface-5
 }
 
 /*
-Function to create a contents page
+Function to create a contents page. 
+
+Any header (h1, h2, h3, h4, h5 or h6) is included if it has a value for `.id`, headers are sorted by level (h1 > h2 > h3 > etc.)
 */
-function populateContentsPage(contents) {
+function buildContentsBox(contents) {
   // Do nothing if no page marked as contents
   if (contents === undefined) {
     return
   }
+
+  /* 
+  * Iterative function to get subheaders
+  */
+  function addSubnodes(parentHeader, parentNode) {
+    // Get level of parent
+    let lvl = parseInt(parentHeader.tagName.replace("H", ""));
+    // List sibling headers
+    let currentSibling = parentHeader.nextElementSibling;
+    let finished = false;
+    let siblingHeaders = [];
+    while (!finished) {
+      // Get next sibling
+      currentSibling = currentSibling.nextElementSibling;
+      if (!currentSibling) {
+        // If sibling is blank, finished
+        finished = true;
+      } else if (!["H1", "H2", "H3", "H4", "H5", "H6"].includes(currentSibling.tagName)) {
+        // If sibling isn't a heading, next sibling
+      } else {
+        // Work out its level
+        siblingLvl = parseInt(currentSibling.tagName.replace("H", ""));
+        if (siblingLvl && siblingLvl <= lvl) {
+          // If its level is g/e to parent header, finished
+          finished = true;
+        } else if (currentSibling.id) {
+          // If it's a header with an ID, add to list
+          siblingHeaders.push(currentSibling);
+        }
+      }
+    }
+    // Add sibling headers
+    let item
+    for (let childHeader of siblingHeaders) {
+      // Add node for this header
+      item = addNode(childHeader, parentNode)
+      // Iteratively call this function to populate children
+      addSubnodes(childHeader, item)
+    }
+  }
+
+  /*
+  * Add node for given heading
+  */
+  function addNode(header, parentNode) {
+    // Create link to id
+    let link = document.createElement("a");
+    link.href = `#${header.id}`;
+    parentNode.appendChild(link);
+    // Get text content of title (without suffixes)
+    let item = document.createElement("li");
+    item.textContent = Array.prototype.filter.call(header.childNodes, function (element) {
+      return element.nodeType === Node.TEXT_NODE;
+    }).map(function (element) {
+      return element.textContent;
+    }).join("");
+    // Add item text to link
+    link.appendChild(item)
+
+    return item;
+  }
+
   // Create header
   let header = document.createElement("h4");
   header.textContent = "Contents";
   contents.appendChild(header);
-  // Add each page which has an id
-  let pageInfo = {};
-  let item;
-  let link;
-  for (let page of document.getElementsByClassName("wiki-page")) {
-    // Get page info
-    pageInfo['id'] = page.id;
-    pageInfo['title'] = page.querySelector("h1");
-    if (pageInfo['id'] && pageInfo['title']) {
-      // If we have the minimum needed, make a list item
-      link = document.createElement("a");
-      link.href = `#${page.id}`;
-      contents.appendChild(link);
-      item = document.createElement("li");
-      // Get text content of title (without suffixes)
-      item.textContent = Array.prototype.filter.call(pageInfo['title'].childNodes, function (element) {
-        return element.nodeType === Node.TEXT_NODE;
-      }).map(function (element) {
-        return element.textContent;
-      }).join("");
-      // Add subnodes
-      for (let subpage of page.getElementsByTagName("h2")) {
-        if (subpage.id) {
-          console.log(subpage.id)
-          let sublink = document.createElement("a");
-          sublink.href = `#${subpage.id}`;
-          let subitem = document.createElement("li");
-          subitem.textContent = Array.prototype.filter.call(subpage.childNodes, function (element) {
-            return element.nodeType === Node.TEXT_NODE;
-          }).map(function (element) {
-            return element.textContent;
-          }).join("");
-          sublink.appendChild(subitem);
-          item.appendChild(sublink);
-
-        }
-      }
-      link.appendChild(item);
+  // Add h1 nodes
+  let thisItem;
+  for (let header of document.getElementsByTagName("H1")) {
+    // Skip page header
+    if (header.parentElement.id === "home-page-header") {
+      continue;
     }
+    // Add node
+    thisItem = addNode(header, contents)
+    // Iteratively add child nodes
+    addSubnodes(header, thisItem)
   }
 }
 
@@ -99,7 +135,7 @@ function populateAll() {
   // Populate header
   populateHeader(document.getElementById("home-page-header"));
   populateFooter(document.getElementById("home-page-footer"));
-  populateContentsPage(document.getElementById("contents"));
+  buildContentsBox(document.getElementById("contents"));
   for (let obj of document.getElementsByClassName("ipa")) {
     linkIPA(obj)
   }
