@@ -48,7 +48,7 @@ function buildContentsBox(contents) {
     // Get level of parent
     let lvl = parseInt(parentHeader.tagName.replace("H", ""));
     // List sibling headers
-    let currentSibling = parentHeader.nextElementSibling;
+    let currentSibling = parentHeader;
     let finished = false;
     let siblingHeaders = [];
     while (!finished) {
