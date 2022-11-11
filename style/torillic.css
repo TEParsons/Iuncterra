@@ -54,6 +54,16 @@
   margin: 0;
   margin-bottom: 1cm;
 }
+h1 + h3,
+h1 + h4,
+h1 + h5,
+h1 + h6,
+h1 + p,
+h2 + h3,
+h2 + h4,
+h2 + h5,
+h2 + h6,
+h2 + p,
 .fullwidth + h3,
 .fullwidth + h4,
 .fullwidth + h5,
