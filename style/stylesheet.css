@@ -81,9 +81,11 @@ h6.sub {
   font-variant: normal;
   font-weight: normal;
   text-decoration: none;
+  white-space: nowrap;
 }
 .ipa:before, .ipa:after {
   content: "/";
+  display: inline;
   font-size: .8em;
   line-height: 1em;
 }
