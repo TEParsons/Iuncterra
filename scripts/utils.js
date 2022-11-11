@@ -4,14 +4,16 @@ Function to populate a standard header
 function populateHeader(header) {
   header.innerHTML = (
     `
-<h1><a href="index.html">Iuncterra</a></h1>
+<h1><a href="index">Iuncterra</a></h1>
 <h3 class=sub><a class=ipa>iʌŋktɛræ</a></h3>
 
 <nav>
-    <a href="locations.html">Locations</a>
-    <a href="organisations.html">Organisations</a>
-    <a href="people.html">People</a>
-    <a href="species.html">Species'</a>
+    <a href="locations">Locations</a>
+    <a href="organisations">Organisations</a>
+    <a href="cosmology">Cosmology</a>
+    <a href="species">Species'</a>
+    <a href="people">People</a>
+    
 </nav>
 `
   )
