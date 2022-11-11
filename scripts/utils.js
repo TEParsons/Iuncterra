@@ -52,7 +52,6 @@ function buildContentsBox(contents) {
     // List sibling headers
     let currentSibling = parentHeader;
     let finished = false;
-    let siblingHeaders = [];
     while (!finished) {
       // Get next sibling
       currentSibling = currentSibling.nextElementSibling;
@@ -68,19 +67,15 @@ function buildContentsBox(contents) {
           // If its level is g/e to parent header, finished
           finished = true;
         } else if (currentSibling.id) {
-          // If it's a header with an ID, add to list
-          siblingHeaders.push(currentSibling);
+          // If it's a header with an ID, add node for this header
+          item = addNode(currentSibling, parentNode);
+          // Also add any children
+          currentSibling = addSubnodes(currentSibling, item).previousElementSibling;
         }
       }
     }
-    // Add sibling headers
-    let item
-    for (let childHeader of siblingHeaders) {
-      // Add node for this header
-      item = addNode(childHeader, parentNode)
-      // Iteratively call this function to populate children
-      addSubnodes(childHeader, item)
-    }
+
+    return currentSibling
   }
 
   /*
