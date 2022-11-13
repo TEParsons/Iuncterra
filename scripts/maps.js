@@ -47,19 +47,17 @@ tileImages = [
 
 class HexGrid extends HTMLElement {
   connectedCallback() {
-    
-    // Get number of columns and rows
-    this.cols = this.dataset.cols;
-    this.rows = this.dataset.rows;
     // Get readonly state
     this.readonly = "readonly" in this.dataset;
     // Set style
     this.style.display = "grid";
     this.style.gridAutoFlow = "row";
-    this.style.gridTemplateColumns = `repeat(${this.cols}, 16px)`;
-    this.style.gridTemplateRows = `repeat(${this.rows}, 14px)`;
     this.style.columnGap = "8px";
     this.style.rowGap = "14px";
+    // Create tiles array
+    this.tiles = [];
+    // Set number of rows and columns
+    this.resize(this.rows, this.cols);
     // Create menu
     this.menu = new IconPicker();
     this.appendChild(this.menu)
@@ -68,56 +66,112 @@ class HexGrid extends HTMLElement {
     if (this.readonly) {
       this.menu.style.display = "none";
     }
-    
-    // Create tiles
-    this.tiles = [];
-    let tile
-    for (let row = 0; row < this.rows; row++) {
-      for (let col = 0; col < this.cols; col++) {
-        // Create tile
-        tile = new HexTile(this, this.readonly)
-        this.tiles.push(tile)
-        this.appendChild(tile)
-        // Offset
-        if (col % 2) {
-          tile.style.top = "14px";
-        }
-        // Make sure higher up tiles are always on top
-        tile.style.zIndex = row * 2 + col % 2;
-        // Set attributes
-        tile.index = [row, col];
-        tile.type = "ocean";
+    // Create size ctrls
+    this.sizeCtrls = new SizeCtrls(parent=this)
+    this.appendChild(this.sizeCtrls)
+    this.sizeCtrls.style.position = "absolute";
+    this.sizeCtrls.style.right = 0;
+    if (this.readonly) {
+      this.sizeCtrls.style.display = "none";
+    }
+    // If given data, load it
+    if (this.dataset['tiles']) {
+      let raw = this.dataset['tiles'].split("\n")
+      let data = []
+      for (let row of raw) {
+        data.push(row.split(","))
+      }
+      this.import(data)
+    }
+  }
+
+  resize(rows, cols) {
+    if (rows) {
+      this.rows = rows;
+    }
+    if (cols) {
+      this.cols = cols;
+    }
+    // Setup css grid
+    this.style.gridTemplateRows = `repeat(${this.rows}, 14px)`;
+    this.style.gridTemplateColumns = `repeat(${this.cols}, 16px)`;
+    // Destroy all tiles
+    for (let row of this.tiles) {
+      for (let tile of row) {
+        tile.remove()
       }
     }
-
-    if (this.dataset['tiles']) {
-      this.import(this.dataset['tiles'].split(","))
+    this.tiles = []
+    // Create rows
+    while (this.tiles.length < this.rows) {
+      this.tiles.push([])
     }
+    // Go through each row to manage columns
+    for (let row = 0; row < this.rows; row++) {
+      // Fill rows with cells
+      while (this.tiles[row].length < this.cols) {
+        let tile;
+        // Create tile
+        tile = new HexTile(this, [row, this.tiles[row].length + 1], this.readonly)
+        this.tiles[row].push(tile)
+        this.appendChild(tile)
+      }
+    }
+  }
+  
+  get rows() {
+    return this.dataset.rows;
+  }
+  set rows(value) {
+    this.dataset.rows = value;
+  }
+
+  get cols() {
+    return this.dataset.cols;
+  }
+  set cols(value) {
+    this.dataset.cols = value;
   }
 
   export() {
     let tiles = [];
-    for (let tile of this.tiles) {
-      tiles.push(tile.type);
+    for (let row = 0; row < this.rows; row++) {
+      tiles.push([])
+      for (let col = 0; col < this.cols; col++) {
+        tiles[row].push(this.tiles[row][col].type);
+      }
     }
     return tiles
   }
   
   import(tiles) {
-    let i = 0;
-    for (let tile of this.tiles) {
-      tile.type = tiles[i]
-      i += 1;
+    // Match file data dimensions
+    this.resize(tiles.length, Math.max(0,...tiles.map(s=>s.length)))
+    // Import each cell of file data
+    for (let row = 0; row < this.rows; row++) {
+      for (let col = 0; col < this.cols; col++) {
+        this.tiles[row][col].type = tiles[row][col]
+      }
     }
   }
 }
 customElements.define("hex-grid", HexGrid);
 
 class HexTile extends HTMLElement {
-  constructor(parent, readonly=False) {
+  constructor(parent, index, readonly=False) {
     super();
+    // Set attributes
     this.parent = parent;
     this.readonly = readonly;
+    this.index = index;
+    this.row = this.index[0];
+    this.col = this.index[1];
+    // Offset
+    if (this.col % 2) {
+      this.style.top = "14px";
+    }
+    // Make sure higher up tiles are always on top
+    this.style.zIndex = this.row + this.col % 2;
   }
 
   connectedCallback() {
@@ -131,7 +185,7 @@ class HexTile extends HTMLElement {
     this.img.style.bottom = "-1px";
     this.appendChild(this.img)
     // Start off as placeholder
-    this.type = this._type;
+    this.type = "ocean";
     // Bind onclick function
     if (!this.readonly) {
       this.onclick = this.set;
@@ -166,6 +220,7 @@ class IconPicker extends HTMLElement {
     this.style.display = "grid";
     this.style.gridTemplateColumns = "repeat(3, 1fr)";
     this.style.padding = "14px";
+    this.style.zIndex = 100;
     // Make icons
     this.options = {}
     for (let imgFile of tileImages) {
@@ -260,11 +315,63 @@ class IconOption extends HTMLElement {
 }
 customElements.define("icon-option", IconOption);
 
+class SizeCtrls extends HTMLElement {
+  constructor(parent) {
+    super();
+    this.parent = parent;
+  }
+  
+  connectedCallback() {
+    // Style size ctrls box
+    this.style.display = "grid";
+    this.style.gridTemplateColumns = "10rem"; 
+    this.style.width = "10rem";
+    this.style.padding = "1rem";
+    this.style.zIndex = 100;
+    // Create row lbl
+    this.rowLbl = document.createElement("label");
+    this.rowLbl.textContent = "Rows:";
+    this.rowLbl.marginTop = "1rem";
+    this.appendChild(this.rowLbl);
+    // Create row ctrl
+    this.rowCtrl = document.createElement("input");
+    this.rowCtrl.value = this.parent.rows;
+    this.rowCtrl.grid = this.parent;
+    this.rowCtrl.type = "number";
+    this.rowCtrl.onchange = this.onSetRows
+    this.appendChild(this.rowCtrl)
+    // Create col lbl
+    this.colLbl = document.createElement("label");
+    this.colLbl.textContent = "Columns:";
+    this.colLbl.marginTop = "1rem";
+    this.appendChild(this.colLbl);
+    // Create col ctrl
+    this.colCtrl = document.createElement("input");
+    this.colCtrl.value = this.parent.cols;
+    this.colCtrl.grid = this.parent;
+    this.colCtrl.type = "number";
+    this.colCtrl.onchange = this.onSetCols
+    this.appendChild(this.colCtrl)
+  }
+
+  onSetRows(evt) {
+    this.grid.resize(this.value, undefined)
+  }
+
+  onSetCols(evt) {
+    this.grid.resize(undefined, this.value)
+  }
+}
+customElements.define("hex-size-ctrls", SizeCtrls);
 
 function exportMap(map) {
   // Get tile values
   let tiles = map.export()
-  let tilesCSV = tiles.join(",")
+  let tilesCSV = []
+  for (let row of tiles) {
+    tilesCSV.push(row.join(","))
+  }
+  tilesCSV = tilesCSV.join("\n")
 
   // Save to file
   let file = new Blob([tilesCSV], { type: "text/csv" });
@@ -276,10 +383,16 @@ function loadFile(file) {
   let reader = new FileReader();
   reader.addEventListener("loadend", function () {
     let raw = reader.result;
-    map.import(raw.split(","));
+    let processed = [];
+    let rows = raw.split("\n");
+    for (let row of rows) {
+      if (row.includes(",")) {
+        processed.push(row.split(","))
+      }
+    }
+    map.import(processed);
   })
-  let tiles = reader.readAsText(file);
-  map.import(tiles)
+  reader.readAsText(file);
 }
 
 function importMap(map) {
