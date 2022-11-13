@@ -115,3 +115,11 @@ h6.sub {
 #contents a {
   text-decoration: none;
 }
+
+hex-grid {
+  column-span: all;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+}
