@@ -61,12 +61,14 @@ def buildPage(file):
 
         return content
 
-
     # Copy template
     page = deepcopy(template)
-    # Transpile html content
+    # Read markdown content
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
+    # If not page title, use filename
+    if not content_md.startswith("# "):
+        content_md = f"# {file.stem}\n{content_md}"
     # Transpile html content
     content_md = preprocess(content_md)
     content_html = md.markdown(content_md)
