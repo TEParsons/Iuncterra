@@ -41,6 +41,11 @@ def buildPage(file):
         """
         Transformations to apply to markdown content before compiling to HTML
         """
+        # Style IPA strings
+        def _ipa(match):
+            ipa = match.group(1)
+            return f"<a class=ipa href=http://ipa-reader.xyz/?text={ipa}&voice=Brian>{ipa}</a>"
+        content = re.sub(r"\/.*\/", _ipa, content)
         # Mark asset paths as needing normalization
         content = content.replace("_assets/", "{{assets}}/")
         # Replace refs to markdown files with refs to equivalent html files
