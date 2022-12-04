@@ -6,7 +6,7 @@ Iuncterra is home to a wide variety of sapient creatures.
 > - [Dragons](Megaliths/Dragons.md)
 > - [Thunderbeasts](Megaliths/Thunderbeasts.md)
 
-### [Homonids](Homonids/index.md)
+### [Homonids](Homonids/Homonids.md)
 > - [Iotun](Homonids/Iotun.md)
 > - [Dwarves](Homonids/Dwarves.md)
 > - [Draceans](Homonids/Draceans.md)

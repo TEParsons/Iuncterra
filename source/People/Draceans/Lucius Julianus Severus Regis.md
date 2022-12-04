@@ -1,0 +1,2 @@
+![](../../_assets/people/draceans/Lucius%20Julianus%20Severus%20Regis.png)
+Lucius Julianus Severus Regis, Impirator of the Dracean Empire, Governor of the Eternal City of Drace, Protector of the Realm and Rex Dignitas Suprema, is the ceremonial figurehead of the city of [Drace](../../Locations/Drace/Drace.md).
