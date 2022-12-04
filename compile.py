@@ -33,15 +33,40 @@ logging.info(f"Read {root / 'template.html'}.")
 
 
 def buildPage(file):
+    """
+    Build an html page in the build folder from a md file in the source folder.
+    """
+    def preprocess(content):
+        """
+        Transformations to apply to markdown content before compiling to HTML
+        """
+        # Mark asset paths as needing normalization
+        content = content.replace("(_assets/)", "({{assets}}/)")
+        # Replace refs to markdown files with refs to equivalent html files
+        content = content.replace(".md)", ".html)")
+        
+        return content
+
+    def postprocess(content):
+        """
+        Transformations to apply to HTML content after compiling from markdown
+        """
+
+        return content
+
+
     # Copy template
     page = deepcopy(template)
     # Transpile html content
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
+    # Transpile html content
+    content_md = preprocess(content_md)
     content_html = md.markdown(content_md)
+    content_html = postprocess(content_html)
+    # Insert content into page
     page = page.replace("{{content}}", content_html)
-    # Mark asset paths as needing normalization
-    page = page.replace("src=\"_assets/", "src=\"{{assets}}/")
+    
     # Normalize paths
     for key in ("style", "utils", "assets"):
         norm = source.normalize(file) / key
