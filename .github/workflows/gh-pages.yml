@@ -16,7 +16,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install markdown
     - name: Build and Commit
-      run: python compile
+      run: python compile.py
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
