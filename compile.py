@@ -44,7 +44,7 @@ def buildPage(file):
     page = page.replace("src=\"_assets/", "src=\"{{assets}}/")
     # Normalize paths
     for key in ("style", "utils", "assets"):
-        norm = source.normalize(file) / ("_" + key)
+        norm = source.normalize(file) / key
         page = page.replace("{{%s}}" % key, str(norm).replace("\\", "/"))
     # Where to write html file to?
     outpath = build / file.relative_to(source).parent / (file.stem + ".html")
@@ -66,11 +66,11 @@ if build.is_dir():
 os.mkdir(str(build))
 logging.info(f"Created folder {build}")
 # Copy style, assets and scripts over
-for key in ("_assets", "_style", "_utils"):
+for key in ("assets", "style", "utils"):
     # Copy source folder if there is one
     if (source / key).is_dir():
         shutil.copytree(
-            source / key,
+            source / ("_" + key),
             build / key
         )
         logging.info(f"Copied {source / key} to {build / key}.")
