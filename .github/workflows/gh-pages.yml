@@ -19,7 +19,8 @@ jobs:
       run: |
         python compile.py
         git config --local user.name "github-actions[bot]"
-        git commit -a -m "Build"
+        git add -all
+        git commit -all
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
