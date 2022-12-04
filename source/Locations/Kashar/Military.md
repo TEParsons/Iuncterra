@@ -1,5 +1,3 @@
-## Military
-
 Unlike other monarchies, the Kasharite military is not regional and all troops are loyal directly to the Sultan, not to regional governors. The army is commanded by Pashas, high ranking generals who each control a unit of mixed troops.
 
 The troops themselves fall into three groups:

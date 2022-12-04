@@ -1,5 +1,3 @@
-## History
-
 #### The Nameless Wars
 
 Before it was an elven Sultanate, the land now called Kashar was a land of [loxodon](species#loxodon). It is known that the land was taken from them and the Sultanate established when the region was colonised by ancient elves, but little else is known of this period. Despite its violent colonial beginnings, [loxodon](species#loxodon) now live freely in Kashar and consider themselves as much Kasharites as their elven countrymen, the conflicts of those times long forgotten.

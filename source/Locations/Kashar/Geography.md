@@ -1,6 +1,4 @@
-## Geography
-
-Kashar is built around the mouth of the river Jibana, sandwiched between the Parbat mountain range marking the southern border of a great desert, and the Satru mountains marking the western borders of [Ordo'Atkan](#ordoatkan).
+Kashar is built around the mouth of the river Jibana, sandwiched between the Parbat mountain range marking the southern border of a great desert, and the Satru mountains marking the western borders of [Ordo'Atkan](../Ordo'Atkan/index.md).
 
 The lands are split into five regions, known as Jami, each with its own regional government:
 
@@ -23,5 +21,7 @@ This isolated mountainous region is the ancestral homeland of Kashar's tabaxi po
 #### Jami-Marub
 
 While the whole of Kashar was populated by loxodon when the elves arrived, Jami-Marub is believed to be the first land of the loxodon people, and holds great cultural and religious significance for them. Situated around a break in the Parbat mountains, this region is often called the "gateway to the desert" and is by far the most hospitable point of access to the desert from the south.
+
+#### Dhurga-Agun
 
 The capital city of Kashar, Dhurga-Agun, functions as an autonomous region independent from the five Jami, governed direcly by the Visir.
