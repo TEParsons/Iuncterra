@@ -4,6 +4,7 @@ from copy import deepcopy
 import shutil
 import os
 import logging
+import re
 
 encoding = 'utf-8'
 logging.getLogger().setLevel(logging.INFO)
@@ -44,6 +45,12 @@ def buildPage(file):
         content = content.replace("_assets/", "{{assets}}/")
         # Replace refs to markdown files with refs to equivalent html files
         content = content.replace(".md)", ".html)")
+        # Add splash to images
+        def _splash(match):
+            alt = match.group(1) or ""
+            src = match.group(2) or ""
+            return f"<figure class=splashimg><img src={src} alt={alt} /></figure>"
+        content = re.sub(r"\!\[(.*)\]\((.*)\)", _splash, content)
         
         return content
 
@@ -51,7 +58,6 @@ def buildPage(file):
         """
         Transformations to apply to HTML content after compiling from markdown
         """
-
 
         return content
 

@@ -60,19 +60,19 @@ The troops themselves fall into three groups:
 
 #### Piyad
 
-![img](assets/locations/kashar/piyad.png)
+![img](_assets/locations/kashar/piyad.png)
 
 Basic infantry unit, comprising the bulk of the Kasharite army. Primarily use a bladed spear called a fauchard, but carry a dagger for close combat.
 
 #### Hussar
 
-![img](assets/locations/kashar/hussar.png)
+![img](_assets/locations/kashar/hussar.png)
 
 Mounted cavalry unit, forms the front guard in military combat. Uses a reinforced fauchard from horseback, also carries a crescent shield. Excellent for hitting fast and hard right away, but their usefulness tapers off in long battles.
 
 #### Janissary
 
-![img](assets/locations/kashar/janissary.png)
+![img](_assets/locations/kashar/janissary.png)
 
 Elite fighers, the jewel of the Kashar military. These highly trained, disciplined veterans are feared and respected across the sub-Spessartine region. While their numbers are small, their high level of skill makes them a formidable force.
 
@@ -84,19 +84,19 @@ The faith has three roles:
 
 #### Brahman
 
-![img](assets/locations/kashar/brahman.png)
+![img](_assets/locations/kashar/brahman.png)
 
 The leader of the faith, advises the Sultan on spiritual matters and administers the Sikari faith.
 
 #### Herbad
 
-![img](assets/locations/kashar/herbad.png)
+![img](_assets/locations/kashar/herbad.png)
 
 Herbadi are keepers of the flame, who generally perform the day to day maintenance such as adding oil and tower maintenance.
 
 #### Mobad
 
-![img](assets/locations/kashar/mobad.png)
+![img](_assets/locations/kashar/mobad.png)
 
 Mobadi are trainee keepers of the flame, learning the ancient rituals from Herbadi.
 
