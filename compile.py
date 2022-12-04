@@ -91,7 +91,7 @@ def buildPage(file):
             norm /= key
         page = page.replace("{{%s}}" % key, str(norm).replace("\\", "/"))
     # Remove underscore from assets links
-    page.replace("_assets/", "assets/")
+    page = page.replace("_assets/", "assets/")
     # Where to write html file to?
     outpath = build / file.relative_to(source).parent / (file.stem + ".html")
     # Make sure directory exists
