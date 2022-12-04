@@ -24,7 +24,7 @@ Path.normalize = normalize
 
 # Define some useful paths
 root = Path(__file__).parent
-build = root / "build"
+build = root / "docs"
 source = root / "source"
 # Read in template
 with open(str(root / "template.html"), "r", encoding=encoding) as f:
