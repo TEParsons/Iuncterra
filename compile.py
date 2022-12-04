@@ -41,7 +41,7 @@ def buildPage(file):
         Transformations to apply to markdown content before compiling to HTML
         """
         # Mark asset paths as needing normalization
-        content = content.replace("(_assets/", "({{assets}}/")
+        content = content.replace("_assets/", "{{assets}}/")
         # Replace refs to markdown files with refs to equivalent html files
         content = content.replace(".md)", ".html)")
         
