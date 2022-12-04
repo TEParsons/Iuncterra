@@ -81,7 +81,9 @@ def buildPage(file):
     
     # Normalize paths
     for key in ("root", "style", "utils", "assets"):
-        norm = source.normalize(file) / key
+        norm = source.normalize(file)
+        if key != "root":
+            norm /= key
         page = page.replace("{{%s}}" % key, str(norm).replace("\\", "/"))
     # Where to write html file to?
     outpath = build / file.relative_to(source).parent / (file.stem + ".html")
