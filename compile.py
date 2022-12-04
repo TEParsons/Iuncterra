@@ -6,6 +6,7 @@ import os
 import logging
 
 encoding = 'utf-8'
+logging.getLogger().setLevel(logging.INFO)
 
 
 def normalize(self, target):
