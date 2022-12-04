@@ -90,20 +90,22 @@ def buildPage(file):
     # Remove underscore from assets links
     page = page.replace("_assets/", "assets/")
     # Where to write html file to?
-    stem = file.stem
-    if stem == file.parent.stem:
-        # If file acts as index, call it index.html
-        stem = "index"
-    outpath = build / file.relative_to(source).parent / (stem + ".html")
-    # Make sure directory exists
-    if not outpath.parent.is_dir():
-        os.makedirs(str(outpath.parent))
-        logging.info(f"Created directory {outpath.parent}.")
-    # Write html file
-    with open(str(outpath), "w", encoding=encoding) as f:
-        f.write(page)
-    # Log
-    logging.info(f"Written {outpath} from {file}.")
+    outpaths = []
+    if file.stem == file.parent.stem:
+        # If file acts as index, copy it to index.html
+        outpaths.append(build / file.relative_to(source).parent / "index.html")
+    outpaths.append(build / file.relative_to(source).parent / (file.stem + ".html"))
+    # Create output files
+    for outpath in outpaths:
+        # Make sure directory exists
+        if not outpath.parent.is_dir():
+            os.makedirs(str(outpath.parent))
+            logging.info(f"Created directory {outpath.parent}.")
+        # Write html file
+        with open(str(outpath), "w", encoding=encoding) as f:
+            f.write(page)
+        # Log
+        logging.info(f"Written {outpath} from {file}.")
 
 
 # Clear build folder
