@@ -1,1 +1,1 @@
-[Kashar](test.md)
+[Locations](Locations/index.md)
