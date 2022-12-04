@@ -16,7 +16,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install markdown
     - name: Build and Commit
-      run: python compile.py
+      run: |
+        python compile.py
+        git config --local user.name "github-actions[bot]"
+        git commit -a -m "Build"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
