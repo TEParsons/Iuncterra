@@ -1,1 +1,1 @@
-[Kashar](Locations/Kashar/index.md)
+[Kashar](Kashar/index.md)
