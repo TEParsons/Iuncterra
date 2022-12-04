@@ -59,12 +59,14 @@ def buildPage(file):
     logging.info(f"Written {outpath} from {file}.")
 
 
+# Clear build folder
+if build.is_dir():
+    shutil.rmtree(build)
+    logging.info(f"Deleted folder {build}")
+os.mkdir(str(build))
+logging.info(f"Created folder {build}")
 # Copy style, assets and scripts over
 for key in ("_assets", "_style", "_utils"):
-    # Delete old build folder
-    if (build / key).is_dir():
-        shutil.rmtree(build / key)
-        logging.info(f"Deleted folder {build / key}")
     # Copy source folder if there is one
     if (source / key).is_dir():
         shutil.copytree(
