@@ -80,7 +80,7 @@ def buildPage(file):
     page = page.replace("{{content}}", content_html)
     
     # Normalize paths
-    for key in ("style", "utils", "assets"):
+    for key in ("root", "style", "utils", "assets"):
         norm = source.normalize(file) / key
         page = page.replace("{{%s}}" % key, str(norm).replace("\\", "/"))
     # Where to write html file to?
