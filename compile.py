@@ -36,7 +36,6 @@ def buildPage(file):
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
     content_html = md.markdown(content_md)
-    print(page)
     page = page.replace("{{content}}", content_html)
     # Mark asset paths as needing normalization
     page = page.replace("src=\"_assets/", "src=\"{{assets}}/")
