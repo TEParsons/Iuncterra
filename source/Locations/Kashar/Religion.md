@@ -2,19 +2,19 @@ The state religion of Kashar, Sikari, is deeply rooted in the local history of t
 
 The faith has three roles:
 
-#### Brahman
+### Brahman
 
 ![img](_assets/locations/kashar/brahman.png)
 
 The leader of the faith, advises the Sultan on spiritual matters and administers the Sikari faith.
 
-#### Herbad
+### Herbad
 
 ![img](_assets/locations/kashar/herbad.png)
 
 Herbadi are keepers of the flame, who generally perform the day to day maintenance such as adding oil and tower maintenance.
 
-#### Mobad
+### Mobad
 
 ![img](_assets/locations/kashar/mobad.png)
 
