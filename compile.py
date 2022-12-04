@@ -68,7 +68,7 @@ logging.info(f"Created folder {build}")
 # Copy style, assets and scripts over
 for key in ("assets", "style", "utils"):
     # Copy source folder if there is one
-    if (source / key).is_dir():
+    if (source / ("_" + key)).is_dir():
         shutil.copytree(
             source / ("_" + key),
             build / key
