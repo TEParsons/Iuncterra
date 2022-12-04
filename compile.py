@@ -4,6 +4,8 @@ from copy import deepcopy
 import shutil
 import os
 
+encoding = 'utf-8'
+
 
 def normalize(self, target):
     """
@@ -23,15 +25,18 @@ root = Path(__file__).parent
 build = root / "build"
 source = root / "source"
 # Read in template
-template = (root / "template.html").read_text()
+with open(str(root / "template.html"), "r", encoding=encoding) as f:
+    template = f.read()
 
 
 def buildPage(file):
     # Copy template
     page = deepcopy(template)
     # Transpile html content
-    content_md = file.read_text()
+    with open(str(file), "r", encoding=encoding) as f:
+        content_md = f.read()
     content_html = md.markdown(content_md)
+    print(page)
     page = page.replace("{{content}}", content_html)
     # Mark asset paths as needing normalization
     page = page.replace("src=\"_assets/", "src=\"{{assets}}/")
@@ -45,7 +50,8 @@ def buildPage(file):
     if not outpath.parent.is_dir():
         os.makedirs(str(outpath.parent))
     # Write html file
-    outpath.write_text(page)
+    with open(str(outpath), "w", encoding=encoding) as f:
+        f.write(page)
 
 
 # Copy style, assets and scripts over
