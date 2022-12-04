@@ -1,17 +1,17 @@
-### Kashar
-> - [Alys Goodlay](Kashar/Alys%20Goodlay.md)
-> - [Caritra Dhurta](Kashar/Caritra%20Dhurta.md)
-> - [Kash Anandera](Kashar/Kash%20Anandera.md)
-> - [Kash Pasanhara](Kashar/Kash%20Pasanhara.md)
-> - [Kash Suraska](Kashar/Kash%20Suraska.md)
-> - [Kash Tarcata](Kashar/Kash%20Tarcata.md)
-> - [Pranja](Kashar/Pranja.md)
-> - [Unna Kausala](Kashar/Unna%20Kausala.md)
-> - [Ventis](Kashar/Ventis.md)
-> - [Yapmak](Kashar/Yapmak.md)
+### Kasharites
+> - [Alys Goodlay](Kasharites/Alys%20Goodlay.md)
+> - [Caritra Dhurta](Kasharites/Caritra%20Dhurta.md)
+> - [Kash Anandera](Kasharites/Kash%20Anandera.md)
+> - [Kash Pasanhara](Kasharites/Kash%20Pasanhara.md)
+> - [Kash Suraska](Kasharites/Kash%20Suraska.md)
+> - [Kash Tarcata](Kasharites/Kash%20Tarcata.md)
+> - [Pranja](Kasharites/Pranja.md)
+> - [Unna Kausala](Kasharites/Unna%20Kausala.md)
+> - [Ventis](Kasharites/Ventis.md)
+> - [Yapmak](Kasharites/Yapmak.md)
 
-### Ordo'Atkan
-> - [Olon Sum](Ordo'Atkan/Olon%20Sum.md)
+### Atkani
+> - [Olon Sum](Atkani/Olon%20Sum.md)
 
 ### Uthgardt
 > - [Hæesta Þrumsdottr](Uthgardt/Hæesta%20Þrumsdottr.md)

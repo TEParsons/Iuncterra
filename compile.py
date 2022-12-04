@@ -72,11 +72,8 @@ def buildPage(file):
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
     # If no page title, use filename (or folder name for index files)
-    if not content_md.startswith("# "):
-        title = file.stem
-        if title.lower() == "index":
-            title = file.parent.stem
-        content_md = f"# {title}\n{content_md}"
+    if not content_md.startswith("# ") and not file.stem == "index":
+        content_md = f"# {file.stem}\n{content_md}"
     # Transpile html content
     content_md = preprocess(content_md)
     content_html = md.markdown(content_md)
@@ -93,7 +90,11 @@ def buildPage(file):
     # Remove underscore from assets links
     page = page.replace("_assets/", "assets/")
     # Where to write html file to?
-    outpath = build / file.relative_to(source).parent / (file.stem + ".html")
+    stem = file.stem
+    if stem == file.parent.stem:
+        # If file acts as index, call it index.html
+        stem = "index"
+    outpath = build / file.relative_to(source).parent / (stem + ".html")
     # Make sure directory exists
     if not outpath.parent.is_dir():
         os.makedirs(str(outpath.parent))

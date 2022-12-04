@@ -3,7 +3,7 @@ Iuncterra is home to a wide variety of sapient creatures.
 ![](../_assets/species/phylotree.svg)
 
 ### Pages
-- [Megaliths](Megaliths/index.md)
+- [Megaliths](Megaliths/Megaliths.md)
   - [Dragons](Megaliths/Dragons.md)
   - [Thunderbeasts](Megaliths/Thunderbeasts.md)
 

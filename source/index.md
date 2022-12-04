@@ -1,3 +1,3 @@
-> - [Locations](Locations/index.md)
-> - [Species](Species/index.md)
-> - [People](People/index.md)
+> - [Locations](Locations/Locations.md)
+> - [Species](Species/Species.md)
+> - [People](People/People.md)
