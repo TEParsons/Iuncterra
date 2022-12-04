@@ -1,4 +1,3 @@
-### Dwarves 
 /dwɔvz/
 
 ![](../../_assets/species/dwarf.png)

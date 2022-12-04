@@ -1,4 +1,3 @@
-### Loxodon 
 /lɒksəʊdɒn/
 
 ![](../../_assets/species/loxodon.png)

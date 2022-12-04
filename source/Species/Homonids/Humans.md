@@ -1,4 +1,3 @@
-### Humans 
 /hjumənz/
 
 ![](../../_assets/species/human.png)

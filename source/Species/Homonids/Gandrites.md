@@ -1,4 +1,3 @@
-### Gandrites 
 /gændraɪt/
 
 ![](../../_assets/species/gandrite.png)

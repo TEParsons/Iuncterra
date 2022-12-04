@@ -1,4 +1,3 @@
-### Thunderbeasts 
 /θʌndəbistz/
 
 ![](../../_assets/species/thunderbeast.png)

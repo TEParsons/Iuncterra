@@ -1,4 +1,3 @@
-### Iotun 
 /aɪəʊtʌn/
 
 ![](../../_assets/species/iotun.png)

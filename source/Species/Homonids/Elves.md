@@ -1,4 +1,3 @@
-### Elves 
 /ɛlvz/
 
 ![](../../_assets/species/elf.png)

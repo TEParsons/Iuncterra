@@ -1,4 +1,3 @@
-### Orc 
 /ɔk/
 
 ![](../../_assets/species/orc.png)

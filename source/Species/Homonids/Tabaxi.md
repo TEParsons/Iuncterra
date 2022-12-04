@@ -1,4 +1,3 @@
-### Tabaxi 
 /tæbæksi/
 
 ![](../../_assets/species/tabaxi.png)
