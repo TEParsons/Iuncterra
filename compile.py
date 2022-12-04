@@ -66,9 +66,12 @@ def buildPage(file):
     # Read markdown content
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
-    # If not page title, use filename
+    # If no page title, use filename (or folder name for index files)
     if not content_md.startswith("# "):
-        content_md = f"# {file.stem}\n{content_md}"
+        title = file.stem
+        if title.lower() == "index":
+            title = file.parent.stem
+        content_md = f"# {title}\n{content_md}"
     # Transpile html content
     content_md = preprocess(content_md)
     content_html = md.markdown(content_md)
