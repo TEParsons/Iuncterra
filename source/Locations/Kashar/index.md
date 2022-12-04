@@ -7,11 +7,13 @@ The Kashar Sultanate is a major power in the southern continent, ruling over a v
 - [Religion](Religion.md)
 
 ### Notable Figures
-
-- [Kash Pasanhara](people#kash-pasanhara)
-- [Caritra Dhurta](people#caritra-dhurta)
-- [Pranja](people#pranja)
-- [Kash Anandera](people#kash-anandera)
-- [Kash Suraska](people#kash-suraska)
-- [Unna Kausala](people#unna-kausala)
-- [Baal Adhikari](people#baal-adhikari)
+- [Kash Pasanhara](../../People/kashar/Kash%20Pasanhara.md)
+- [Kash Tarcata](../../People/kashar/Kash%20Tarcata.md)
+- [Caritra Dhurta](../../People/kashar/Caritra%20Dhurta.md)
+- [Pranja](../../People/kashar/Pranja.md)
+- [Kash Suraska](../../People/kashar/Kash%20Suraska.md)
+- [Kash Anandera](../../People/kashar/Kash%20Anandera.md)
+- [Yapmak](../../People/kashar/Yapmak.md)
+- [Unna Kausala](../../People/kashar/Unna%20Kausala.md)
+- [Ventis](../../People/kashar/Ventis.md)
+- [Alys Goodlay](../../People/kashar/Alys%20Goodlay.md)
