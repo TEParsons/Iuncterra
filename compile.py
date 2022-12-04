@@ -47,7 +47,7 @@ def buildPage(file):
             return f"<a class=ipa href=http://ipa-reader.xyz/?text={ipa}&voice=Brian>{ipa}</a>"
         content = re.sub(r"[\s\n]\/(\w{1,})\/[\s\n]", _ipa, content)
         # Mark asset paths as needing normalization
-        content = content.replace("_assets/", "{{assets}}/")
+        #content = content.replace("_assets/", "{{assets}}/")
         # Replace refs to markdown files with refs to equivalent html files
         content = content.replace(".md)", ".html)")
         # Add splash to images
