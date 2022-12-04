@@ -85,11 +85,13 @@ def buildPage(file):
     page = page.replace("{{content}}", content_html)
     
     # Normalize paths
-    for key in ("root", "style", "utils", "assets"):
+    for key in ("root", "style", "utils"):
         norm = source.normalize(file)
         if key != "root":
             norm /= key
         page = page.replace("{{%s}}" % key, str(norm).replace("\\", "/"))
+    # Remove underscore from assets links
+    page.replace("_assets/", "assets/")
     # Where to write html file to?
     outpath = build / file.relative_to(source).parent / (file.stem + ".html")
     # Make sure directory exists
