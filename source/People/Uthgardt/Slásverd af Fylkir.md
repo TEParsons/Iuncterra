@@ -1,0 +1,3 @@
+![](../../_assets/people/uthgardt/slasverd-af-fylkir.png)
+
+Few in the land can say a bad word about Fylkir Haesta's choice of husband, which is in part why he is her choice of husband. This beloved prince of the Sky Pony tribe is a charming, handsome and courageous favourite among both his own people and his adopted Thunderbeast kinsmen. How exactly this shining beacon of charm and good will maintains a relationship with the grim, serious Fylkir is a mystery, but their union joins together the largest military force in the region with an untapped agricultural powerhouse. Politically speaking, they are the perfect match.

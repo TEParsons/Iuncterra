@@ -4,4 +4,4 @@ East of [Kashar](../Kashar/index.md) lies a land of wide open planes where the 
 - [Military](Military.md)
 
 ### Notable Figures
-- [Olon Sum](../../People/ordoatkan/Olon%20Sum.md)
+- [Olon Sum](../../People/Ordo'Atkan/Olon%20Sum.md)

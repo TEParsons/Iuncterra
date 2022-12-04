@@ -1,0 +1,3 @@
+![](../../_assets/people/uthgardt/vidar-norgandr.png)
+
+Of those who oppose Jarl Haesta's claim to the Fylkiriate, the most prominent is the Jarl of the Grey Wolf Tribe. Vidar is a vicious acolyte of the Old Ways and has more than earned his byname "Norgandr" (Beast Of The North). He believes that Uthgar is best revered by tribes adhering to the dogma of their totems, and that a central authority of the Uthgardt faith would fundamentally undermine its culture. A physically intimidating figure, Vidar stands taller even than most Northlanders in his human form and larger than most horses in wolf form.
