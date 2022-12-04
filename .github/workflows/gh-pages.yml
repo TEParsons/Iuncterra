@@ -2,13 +2,13 @@ name: Pages
 on:
   push:
     branches:
-    - autocompile
+    - main
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/setup-python@v2
-    - uses: actions/checkout@autocompile
+    - uses: actions/checkout@master
       with:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Dependencies
@@ -16,9 +16,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install markdown
     - name: Build and Commit
-      run: python compile
+      run: python compile.py
     - name: Push changes
-      uses: ad-m/github-push-action@autocompile
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
