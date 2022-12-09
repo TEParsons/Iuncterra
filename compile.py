@@ -45,7 +45,7 @@ def indexFolder(file, levels=2):
         # String to store content
         contents = ""
         # Iterate through files and folders
-        for f in folder.glob("*/"):
+        for f in folder.iterdir():
             if f.is_dir() and not f.stem.startswith("_") and (f / "index.md").is_file():
                 # If current f is an indexed folder, get its files recursively and add a heading
                 contents += (
@@ -62,7 +62,7 @@ def indexFolder(file, levels=2):
                 contents += f"> {indent}* [{f.stem}]({f.relative_to(file.parent)})\n"
         # Try to explain weird behaviour
         if contents == "":
-            glob = list(folder.glob("*/"))
+            glob = list(folder.iterdir())
             logging.warning(
                 f"Contents not found: {file}\n"
                 f"{glob}"
