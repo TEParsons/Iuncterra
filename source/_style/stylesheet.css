@@ -94,25 +94,28 @@ h6.sub {
   font-size: 1rem;
 }
 
-#contents {
-  max-width: 8cm;
-  background-color: var(--green);
-  border-top: 3pt solid var(--red);
-  border-bottom: 3pt solid var(--red);
+blockquote > ul {
   break-inside: avoid;
   list-style-position: inside;
-  padding: 1rem 0;
+  list-style-type: none;
+  margin-top: 0;
 }
-#contents h4 {
-  margin: 0 1rem;
+ul.contents:before {
+  content: "Contents";
+  font-family: var(--head);
+  font-weight: 700;
+  font-variant: small-caps;
+  color: var(--red);
+  font-size: 18pt;
+  margin-block-end: 2pt;
 }
-#contents li {
-  padding: .5rem 1rem;
+blockquote > ul li {
+  padding: .5rem;
 }
-#contents li:hover {
+blockquote > ul li:hover {
   background-color: rgba(255, 255, 255, .2)
 }
-#contents a {
+blockquote > ul a {
   text-decoration: none;
 }
 
