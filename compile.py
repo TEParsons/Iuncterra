@@ -88,6 +88,8 @@ def buildPage(file):
     # Insert breadcrumbs into all but top level pages
     if file.parent != source:
         page = page.replace("{{breadcrumbs}}", breadcrumbs)
+    else:
+        page = page.replace("{{breadcrumbs}}", "")
     # Read markdown content
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
