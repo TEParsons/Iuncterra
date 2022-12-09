@@ -139,7 +139,7 @@ def buildPage(file):
     if file.stem == "index":
         contents = indexFolder(file, levels=2)
         content_md = f"{contents}\n{content_md}"
-        logging.info(f"Created contents page for {file}")
+        logging.info(f"Created contents page for {file}: {contents}")
     
     # If no page title, use filename (or folder name for index files)
     if not content_md.startswith("# "):
