@@ -6,7 +6,7 @@ The Bloodswords are a mercenary guild, operating world-wide. Its operatives are 
 
 The Bloodswords' bread and butter is its ground forces. It is among the largest mercenary guilds in the world, and many wars have been won or lost based on which side was able to hire more bloodswords.
 
-[### Naval Fleet](Ships/index.md)
+### [Naval Fleet](Ships/index.md)
 
 The Bloodswords' fastest growing division is its naval forces. Bloodswords warships function as privateers, taking payment from global powers seeking to weaken their rivals without risking all-out war in exchange for raiding particular vessels. 
 
