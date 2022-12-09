@@ -14,4 +14,4 @@ The Vengeance is a large three-mast warship with a formidable array of guns, rec
 - [Baal Adhikari](../../../People/Pirates/Baal%20Adhikari.md)†: _Captain_∅
 - [Rurik Waxwing](../../../People/Pirates/Rurik%20Waxwing.md)†: _First Mate_∅
 
-> *∅ = officer positions, † = deceased*
+*∅ = officer positions, † = deceased*

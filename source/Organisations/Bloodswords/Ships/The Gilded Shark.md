@@ -14,4 +14,4 @@ She’s known for barrelling head on at enemies, protected by her gilded prow, f
 #### Former Crew
 - [Jondar Platinumfist](../../../People/Pirates/Jondar%20Platinumfist.md): _Captain_∅
 
-> ∅ _officer positions_ † _deceased_
+*∅ = officer positions † = deceased*
