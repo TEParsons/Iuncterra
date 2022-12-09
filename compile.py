@@ -33,6 +33,42 @@ with open(str(root / "template.html"), "r", encoding=encoding) as f:
 logging.info(f"Read {root / 'template.html'}.")
 
 
+def indexFolder(file, levels=2):
+    def _listMarkdownFiles(folder, level):
+        # Stop once max level is reached
+        if level >= levels:
+            return ""
+        # Work out indent level from level
+        indent = ""
+        for i in range(level):
+            indent += "    "
+        # String to store content
+        contents = ""
+        # Iterate through files and folders
+        for f in folder.glob("*/"):
+            if f.is_dir() and not f.stem.startswith("_") and (f / "index.md").is_file():
+                # If current f is an indexed folder, get its files recursively and add a heading
+                contents += (
+                    f"> {indent}* [{f.stem}]({f.relative_to(file.parent)})\n"
+                    f"{_listMarkdownFiles(f, level=level+1)}"
+                )
+            elif f.is_dir() and not f.stem.startswith("_"):
+                # If current f is a non indexed folder, get its files recursively but don't add a heading
+                contents += (
+                    f"{_listMarkdownFiles(f, level=level)}"
+                )
+            elif f.suffix == ".md" and f.stem != "index":
+                # If f is a markdown file, add it
+                contents += f"> {indent}* [{f.stem}]({f.relative_to(file.parent)})\n"
+        
+        return contents
+    
+    # Recursively build a contents
+    return _listMarkdownFiles(file.parent, level=0)
+    
+
+
+
 def buildPage(file):
     """
     Build an html page in the build folder from a md file in the source folder.
@@ -70,38 +106,54 @@ def buildPage(file):
     page = deepcopy(template)
 
     # Create breadcrumbs for non-root files
-    breadcrumbs = "<ul class=breadcrumbs>\n"
-    parents = list(file.relative_to(source).parents)
-    parents.reverse()
-    for lvl in parents:
-        # Don't make crumb for folder if this is its index file
-        if file.stem in ("index", file.parent.stem) and lvl.stem == file.parent.stem:
-            continue
-        # Different name for Home
-        if lvl.stem == "":
-            stem = "Home"
-        else:
-            stem = lvl.stem
-        # Make a crumb for this level
-        breadcrumbs += f"<li><a href={(source / lvl).parent.normalize(file).parent}>{stem}</a></li>\n"
-    breadcrumbs += f"<li>{file.stem}</li>\n</ul>\n"
-    # Insert breadcrumbs into all but top level pages
-    if file.parent != source:
-        page = page.replace("{{breadcrumbs}}", breadcrumbs)
+    if file.parent == source:
+        breadcrumbs = ""
     else:
-        page = page.replace("{{breadcrumbs}}", "")
+        breadcrumbs = "<ul class=breadcrumbs>\n"
+        parents = list(file.relative_to(source).parents)
+        parents.reverse()
+        for lvl in parents:
+            # Don't make crumb for folder if this is its index file
+            if file.stem == "index" and lvl.stem == file.parent.stem:
+                continue
+            # Different name for Home
+            if lvl.stem == "":
+                stem = "Home"
+            else:
+                stem = lvl.stem
+            # Make a crumb for this level
+            breadcrumbs += f"<li><a href={(source / lvl).parent.normalize(file).parent}>{stem}</a></li>\n"
+        if file.stem == "index":
+            stem = file.parent.stem
+        else:
+            stem = file.stem
+        breadcrumbs += f"<li>{stem}</li>\n</ul>\n"
+
     # Read markdown content
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
+    
+    # For index files, create a contents box
+    if file.stem == "index":
+        contents = indexFolder(file, levels=2)
+        content_md = f"{contents}\n{content_md}"
+    
     # If no page title, use filename (or folder name for index files)
-    if not content_md.startswith("# ") and not file.stem == "index":
-        content_md = f"# {file.stem}\n{content_md}"
+    if not content_md.startswith("# "):
+        if file.parent == source:
+            pass
+        elif file.stem == "index":
+            content_md = f"# {file.parent.stem}\n{content_md}"
+        else:
+            content_md = f"# {file.stem}\n{content_md}"
+
     # Transpile html content
     content_md = preprocess(content_md)
     content_html = md.markdown(content_md)
     content_html = postprocess(content_html)
     # Insert content into page
     page = page.replace("{{content}}", content_html)
+    page = page.replace("{{breadcrumbs}}", breadcrumbs)
     
     # Normalize paths
     for key in ("root", "style", "utils"):
