@@ -128,6 +128,8 @@ def buildPage(file):
         else:
             stem = file.stem
         breadcrumbs += f"<li>{stem}</li>\n</ul>\n"
+        logging.info(f"Created breadcrumbs for {file}")
+    page = page.replace("{{breadcrumbs}}", breadcrumbs)
 
     # Read markdown content
     with open(str(file), "r", encoding=encoding) as f:
@@ -137,6 +139,7 @@ def buildPage(file):
     if file.stem == "index":
         contents = indexFolder(file, levels=2)
         content_md = f"{contents}\n{content_md}"
+        logging.info(f"Created contents page for {file}")
     
     # If no page title, use filename (or folder name for index files)
     if not content_md.startswith("# "):
@@ -153,7 +156,7 @@ def buildPage(file):
     content_html = postprocess(content_html)
     # Insert content into page
     page = page.replace("{{content}}", content_html)
-    page = page.replace("{{breadcrumbs}}", breadcrumbs)
+    
     
     # Normalize paths
     for key in ("root", "style", "utils"):
