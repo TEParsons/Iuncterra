@@ -86,7 +86,8 @@ def buildPage(file):
         breadcrumbs += f"<li><a href={(source / lvl).parent.normalize(file).parent}>{stem}</a></li>\n"
     breadcrumbs += f"<li>{file.stem}</li>\n</ul>\n"
     # Insert breadcrumbs into all but top level pages
-    page = page.replace("{{breadcrumbs}}", breadcrumbs)
+    if file.parent != source:
+        page = page.replace("{{breadcrumbs}}", breadcrumbs)
     # Read markdown content
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
