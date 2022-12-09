@@ -9,5 +9,5 @@ The Kashar Sultanate is a major power in the southern continent, ruling over a v
 - [Kash Anandera](../../People/Kasharites/Kash%20Anandera.md)
 - [Yapmak](../../People/Kasharites/Yapmak.md)
 - [Unna Kausala](../../People/Kasharites/Unna%20Kausala.md)
-- [Ventis](../../People/Kasharites/Ventis.md)
-- [Alys Goodlay](../../People/Kasharites/Alys%20Goodlay.md)
+- [Ventis](../../People/Pirates/Ventis.md)
+- [Alys Goodlay](../../People/Pirates/Alys%20Goodlay.md)

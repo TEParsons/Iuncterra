@@ -2,7 +2,7 @@
 
 Tieflings are most often the offspring of infernals with humanoids, sometimes (particularly at sea) the offspring of aquans and humanoids, but a half-djinn tiefling is a rare being indeed. Ventis may not have the earth-shattering cosmic power of their magical parent, but they're a capable sorcerer with a cunning and devious mind.
 
-![Ventis](../../_assets/people/kashar/Ventis.png)
+![Ventis](../../_assets/people/pirates/Ventis.png)
 
 ## Background
 

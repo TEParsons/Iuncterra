@@ -2,7 +2,7 @@
 
 As beautiful as she is deadly, this charming rogue will steal your heart, but it's your purse you should look out for! She's a fine brawler, deadshot with a pistol, and an absolute top shelf shag.
 
-![](../../_assets/people/kashar/AlysGoodlay.png)
+![](../../_assets/people/pirates/AlysGoodlay.png)
 
 > **Armour Class** 15
 > **Hit Points** 69

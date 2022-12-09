@@ -1,0 +1,1 @@
+![](../../_assets/people/pirates/RurikWaxwing.png)
