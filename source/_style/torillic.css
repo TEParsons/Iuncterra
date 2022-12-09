@@ -26,13 +26,13 @@
     .5cm .5cm 1cm .5cm rgba(0, 0, 0, 0.5);
   background-image: url("https://www.dndbeyond.com/content/1-0-1895-0/skins/waterdeep/images/mon-summary/paper-texture.png");
   background-color: var(--offwhite);
-  min-height: 80vh;
   width: 21cm;
   /* Add columns */
   column-count: 2;
   column-gap: 1cm;
   column-width: 8cm;
   padding: 2cm;
+  padding-bottom: 3cm;
   /* Create 3d context */
   z-index: 0;
 }

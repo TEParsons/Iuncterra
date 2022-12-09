@@ -134,3 +134,22 @@ hex-grid {
   align-items: center;
   justify-items: center;
 }
+
+ul.breadcrumbs {
+  position: absolute;
+  bottom: 1cm;
+  right: 2cm;
+  margin-top: 4rem;
+  opacity: 0.5;
+  list-style-type: none;
+}
+ul.breadcrumbs:hover {
+  opacity: 1;
+}
+ul.breadcrumbs li {
+  display: inline;
+}
+ul.breadcrumbs li:not(:first-child)::before {
+  content: ">";
+  margin: .5rem;
+}

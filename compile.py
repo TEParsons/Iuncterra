@@ -68,6 +68,25 @@ def buildPage(file):
 
     # Copy template
     page = deepcopy(template)
+
+    # Create breadcrumbs for non-root files
+    breadcrumbs = "<ul class=breadcrumbs>\n"
+    parents = list(file.relative_to(source).parents)
+    parents.reverse()
+    for lvl in parents:
+        # Don't make crumb for folder if this is its index file
+        if file.stem in ("index", file.parent.stem) and lvl.stem == file.parent.stem:
+            continue
+        # Different name for Home
+        if lvl.stem == "":
+            stem = "Home"
+        else:
+            stem = lvl.stem
+        # Make a crumb for this level
+        breadcrumbs += f"<li><a href={(source / lvl).parent.normalize(file).parent}>{stem}</a></li>\n"
+    breadcrumbs += f"<li>{file.stem}</li>\n</ul>\n"
+    # Insert breadcrumbs into all but top level pages
+    page = page.replace("{{breadcrumbs}}", breadcrumbs)
     # Read markdown content
     with open(str(file), "r", encoding=encoding) as f:
         content_md = f.read()
