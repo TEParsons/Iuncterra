@@ -60,7 +60,13 @@ def indexFolder(file, levels=2):
             elif f.suffix == ".md" and f.stem != "index":
                 # If f is a markdown file, add it
                 contents += f"> {indent}* [{f.stem}]({f.relative_to(file.parent)})\n"
-        
+        # Try to explain weird behaviour
+        if contents == "":
+            glob = folder.glob("*/")
+            logging.warning(
+                f"Contents not found: {file}\n"
+                f"{glob}"
+            )
         return contents
     
     # Recursively build a contents
@@ -128,7 +134,6 @@ def buildPage(file):
         else:
             stem = file.stem
         breadcrumbs += f"<li>{stem}</li>\n</ul>\n"
-        logging.info(f"Created breadcrumbs for {file}")
     page = page.replace("{{breadcrumbs}}", breadcrumbs)
 
     # Read markdown content
@@ -139,7 +144,6 @@ def buildPage(file):
     if file.stem == "index":
         contents = indexFolder(file, levels=2)
         content_md = f"{contents}\n{content_md}"
-        logging.info(f"Created contents page for {file}: {contents}")
     
     # If no page title, use filename (or folder name for index files)
     if not content_md.startswith("# "):
