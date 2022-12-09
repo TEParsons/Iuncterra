@@ -60,13 +60,7 @@ def indexFolder(file, levels=2):
             elif f.suffix == ".md" and f.stem != "index":
                 # If f is a markdown file, add it
                 contents += f"> {indent}* [{f.stem}]({f.relative_to(file.parent)})\n"
-        # Try to explain weird behaviour
-        if contents == "":
-            glob = list(folder.iterdir())
-            logging.warning(
-                f"Contents not found: {file}\n"
-                f"{glob}"
-            )
+        
         return contents
     
     # Recursively build a contents
