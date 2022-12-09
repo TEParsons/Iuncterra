@@ -62,7 +62,7 @@ def indexFolder(file, levels=2):
                 contents += f"> {indent}* [{f.stem}]({f.relative_to(file.parent)})\n"
         # Try to explain weird behaviour
         if contents == "":
-            glob = folder.glob("*/")
+            glob = list(folder.glob("*/"))
             logging.warning(
                 f"Contents not found: {file}\n"
                 f"{glob}"
