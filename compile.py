@@ -138,14 +138,22 @@ def buildPage(file):
         contents = indexFolder(file, levels=2)
         content_md = f"{contents}\n{content_md}"
     
-    # If no page title, use filename (or folder name for index files)
-    if not content_md.startswith("# "):
-        if file.parent == source:
-            pass
-        elif file.stem == "index":
-            content_md = f"# {file.parent.stem}\n{content_md}"
-        else:
-            content_md = f"# {file.stem}\n{content_md}"
+    # Get file stem
+    if file.parent == source:
+        stem = "Iuncterra"
+    elif file.stem == "index":
+        stem = file.parent.stem
+    else:
+        stem = file.stem
+
+    # Update tab title
+    tab = "Iuncterra"
+    if file.parent != source:
+        tab += ": " + stem
+    page = page.replace("{{stem}}", tab)
+    # Update page title (if there isn't one)
+    if not content_md.startswith("# ") and file.parent != source:
+        content_md = f"# {stem}\n{content_md}"
 
     # Transpile html content
     content_md = preprocess(content_md)
