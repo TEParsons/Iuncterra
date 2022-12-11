@@ -1,1 +1,3 @@
+/nɜrn ælfɜzdo̞tɜ/
+
 The Ghost Tree tribe are rarely seen, even by other Uthgardt tribes. These mysterious folk are intensely attuned to the natural world and, unlike most Uthgardt, are adept casters. They have close links to the local wood elf settlements, sharing a common interest in nature. So much so that their Jarl, Norn, is herself the daughter of a wood elf couple who joined the tribe.
