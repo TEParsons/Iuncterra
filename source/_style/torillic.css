@@ -101,6 +101,15 @@ h1, h2, h3, h4, h5, h6 {
   break-inside: avoid;
   break-after: avoid;
 }
+blockquote h1:first-child,
+blockquote h2:first-child,
+blockquote h3:first-child,
+blockquote h4:first-child,
+blockquote h5:first-child,
+blockquote h6:first-child {
+  margin-block-start: 4pt;
+}
+
 
 /* Major headings */
 h1, h2, h3, h4 {
