@@ -79,11 +79,10 @@ def buildPage(file):
         """
         # Style IPA strings
         def _ipa(match):
-            before = match.group(1)
-            ipa = match.group(2)
-            after = match.group(3)
-            return f"{before}<a class=ipa href=http://ipa-reader.xyz/?text={ipa}&voice=Brian>{ipa}</a>{after}"
-        content = re.sub(r"([\s\n])\/(\w{1,})\/([\s\n])", _ipa, content)
+            ipa = match.group(1)
+            print("SUCCESS", ipa)
+            return f"<a class=ipa href=http://ipa-reader.xyz/?text={ipa}&voice=Brian>{ipa}</a>"
+        content = re.sub(r"^\/(.{1,})\/$", _ipa, content, flags=re.MULTILINE)
         # Replace refs to markdown files with refs to equivalent html files
         content = content.replace(".md)", ".html)")
         # Add splash to images
