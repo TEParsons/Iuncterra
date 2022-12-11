@@ -150,7 +150,7 @@ def buildPage(file):
 
     # Transpile html content
     content_md = preprocess(content_md)
-    content_html = md.markdown(content_md)
+    content_html = md.markdown(content_md, extensions=["extra", "admonition", "nl2br"])
     content_html = postprocess(content_html)
     # Insert content into page
     page = page.replace("{{content}}", content_html)
