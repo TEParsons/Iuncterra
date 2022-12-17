@@ -44,7 +44,7 @@ def indexFolder(file, levels=2):
             indent += "    "
         # String to store content
         contents = ""
-        # Iterate through files and folders
+        # Iterate through folders
         for f in folder.iterdir():
             if f.is_dir() and not f.stem.startswith("_") and (f / "index.md").is_file():
                 # If current f is an indexed folder, get its files recursively and add a heading
@@ -57,7 +57,9 @@ def indexFolder(file, levels=2):
                 contents += (
                     f"{_listMarkdownFiles(f, level=level)}"
                 )
-            elif f.suffix == ".md" and f.stem != "index":
+        # Iterate through files
+        for f in folder.glob("*.md"):
+            if f.suffix == ".md" and f.stem != "index":
                 # If f is a markdown file, add it
                 contents += f"> {indent}* [{f.stem}]({f.relative_to(file.parent)})\n"
         
