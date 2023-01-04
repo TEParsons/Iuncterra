@@ -19,4 +19,7 @@ Strahd has no regard for others, he cares for no one but himself. He's fallen in
 ---
 
 ### The First Vampire
-Strahd promised his allegience to [Erodite](../../Cosmology/Daemons/Erodite.md) in exchange for powers of seduction, to [Avikath](../../Cosmology/Daemons/Malefices/Avikath.md) in exchange for power, and to [Loga](../../Cosmology/Daemons/Malefices/Loga.md) in exchange for the ability to bend others to his will. All believed they were his sole master, but all were deceived. With none wanting to claim him for fear of conflict with one another, Strahd walked away with powers beyond any mortal before, having given nothing.
+Strahd promised his allegience to [Erodite](../../Cosmology/Daemons/Erodite.md) in exchange for powers of seduction, to [Avikath](../../Cosmology/Daemons/Malefices/Avikath.md) in exchange for wealth, to [Loga](../../Cosmology/Daemons/Malefices/Loga.md) in exchange for cunning and to [Surtr](../../Cosmology/Daemons/Malefices/Zukothoth.md) for the power to bring about destruction. All believed they were his sole master, but all were deceived. With none wanting to claim him for fear of conflict with one another, Strahd walked away with powers beyond any mortal before, having given nothing.
+
+### Prince of Zarovia
+Strahd was never first in line for his throne - he took it by force, murdering his own brothers to do so. He rules [Zarovia](../../Locations/Zarovia/index.md) with an iron fist, working his people to breaking point to turn the provincial princedom into a military powerhouse.
