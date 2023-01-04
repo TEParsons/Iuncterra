@@ -2,10 +2,10 @@ Bertha Bloodletter captains the privateer vessel [The Vengeance](../../Organisa
 
 ![](../../_assets/people/pirates/BerthaBloodletter.png)
 
-## History
+### History
 
 Unlike most captains, Bertha didn’t work her way up to the rank - she took it by force. The Vengeance’s original owner was a powerful sorcerer, particularly adept at flame conjuration. He was a formidable fighter by all means, but he made the mistake of crossing Bertha. Though she lost an arm in the process, she walked away from their battle the victor, and took the now vacant position of captain for herself. In her early days as captain, she cowed the crew into submission - ruling through fear. But as time passed and the plunder began to roll in, the attitudes of the crew towards their new captain slowly shifted from fear to genuine respect. Or they died. Either way, she now commands sailors who are fiercely loyal to her.
 
-## Relationships
+### Relationships
 
 At one time, Bertha was married to [Johnny Platinum](https://cobalt-sea.fandom.com/wiki/Johnny_Platinum "Johnny Platinum"). While she doesn’t necessarily understand his distaste for violence and ambition, and now finds him somewhat strange and confusing, she still holds him in very high regard, having loved him in his prime. Likewise, he holds a tremendous respect and admiration for her, the two remain close friends and correspond regularly.
