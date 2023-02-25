@@ -133,6 +133,7 @@ hex-grid {
   align-content: center;
   align-items: center;
   justify-items: center;
+  margin: 28px;
 }
 
 ul.breadcrumbs {
@@ -152,8 +153,4 @@ ul.breadcrumbs li {
 ul.breadcrumbs li:not(:first-child)::before {
   content: ">";
   margin: .5rem;
-}
-
-hex-map {
-  margin: 28px;
 }
