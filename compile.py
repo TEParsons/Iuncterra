@@ -1,5 +1,6 @@
 from pathlib import Path
-import markdown as md
+import markdown
+import markmoji
 from copy import deepcopy
 import shutil
 import os
@@ -8,6 +9,8 @@ import re
 
 encoding = 'utf-8'
 logging.getLogger().setLevel(logging.INFO)
+# Setup markdown processor
+md = markdown.Markdown(extensions=["extra", markmoji.Markmoji()])
 
 
 def normalize(self, target):
@@ -159,7 +162,7 @@ def buildPage(file):
 
     # Transpile html content
     content_md = preprocess(content_md)
-    content_html = md.markdown(content_md, extensions=["extra", "admonition", "nl2br"])
+    content_html = md.convert(content_md)
     content_html = postprocess(content_html)
     # Insert content into page
     page = page.replace("{{content}}", content_html)
