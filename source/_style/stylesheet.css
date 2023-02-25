@@ -153,3 +153,7 @@ ul.breadcrumbs li:not(:first-child)::before {
   content: ">";
   margin: .5rem;
 }
+
+hex-map {
+  margin: 28px;
+}
