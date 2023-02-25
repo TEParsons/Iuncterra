@@ -10,7 +10,7 @@ import re
 encoding = 'utf-8'
 logging.getLogger().setLevel(logging.INFO)
 # Setup markdown processor
-md = markdown.Markdown(extensions=["extra", markmoji.Markmoji()])
+md = markdown.Markdown(extensions=["extra", "admonition", "nl2br", markmoji.Markmoji()])
 
 
 def normalize(self, target):
