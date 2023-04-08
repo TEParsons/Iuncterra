@@ -47,6 +47,33 @@
   padding-bottom: 50%;
 }
 
+.wiki-homepage {
+  color: white;
+  position: relative;
+  margin: 2rem auto;
+  box-sizing: border-box;
+  width: 21cm;
+  /* Add columns */
+  column-count: 2;
+  column-gap: 1cm;
+  column-width: 10cm;
+  /* Create 3d context */
+  z-index: 0;
+}
+
+.wiki-contents-array {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100%;
+  padding: 5rem;
+}
+.wiki-contents-array .wiki-contents {
+  width: 8cm;
+  margin: 1cm;
+}
+
 .fullwidth {
   max-width: 100%; 
   column-span: all; 

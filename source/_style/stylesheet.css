@@ -94,37 +94,46 @@ h6.sub {
   font-size: 1rem;
 }
 
-blockquote > ul, 
-blockquote > ul ul {
+.wiki-contents {
+  background-color: var(--green);
+  padding: 12pt;
+  border-top: 3pt solid var(--red);
+  border-bottom: 3pt solid var(--red);
   break-inside: avoid;
+  margin: 2mm 2mm 2mm 2mm;
   list-style-position: inside;
   list-style-type: none;
 }
-blockquote > ul {
-  margin: 0;
-  padding-left: 0;
-}
-blockquote > ul ul {
-  margin-top: .5rem;
-  margin-bottom: -.5rem;
-}
-ul.contents:before {
-  content: "Contents";
+.wiki-contents h3 {
   font-family: var(--head);
   font-weight: 700;
   font-variant: small-caps;
   color: var(--red);
   font-size: 18pt;
   margin-block-end: 2pt;
+  margin-block-start: 2pt;
 }
-blockquote > ul li {
-  padding: .5rem;
-}
-blockquote > ul li:hover {
+ul.wiki-contents li:hover {
   background-color: rgba(255, 255, 255, .2)
 }
-blockquote > ul a {
+ul.wiki-contents a {
   text-decoration: none;
+}
+li.wiki-contents-folder {
+  padding-top: .5rem;
+  font-weight: bold;
+  color: var(--red);
+}
+li.wiki-contents-folder::marker {
+  content: "";
+}
+li.wiki-contents-page {
+  padding: .5rem;
+  font-weight: normal;
+  color: black;
+}
+li.wiki-contents-page::marker {
+  content: "🗎    ";
 }
 
 hex-grid {
@@ -136,7 +145,7 @@ hex-grid {
   margin: 28px;
 }
 
-ul.breadcrumbs {
+ul.wiki-breadcrumbs {
   position: absolute;
   bottom: 1cm;
   right: 2cm;
@@ -144,13 +153,13 @@ ul.breadcrumbs {
   opacity: 0.5;
   list-style-type: none;
 }
-ul.breadcrumbs:hover {
+ul.wiki-breadcrumbs:hover {
   opacity: 1;
 }
-ul.breadcrumbs li {
+ul.wiki-breadcrumbs li {
   display: inline;
 }
-ul.breadcrumbs li:not(:first-child)::before {
+ul.wiki-breadcrumbs li:not(:first-child)::before {
   content: ">";
   margin: .5rem;
 }
