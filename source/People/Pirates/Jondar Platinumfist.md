@@ -4,7 +4,7 @@ A gentle giant with a heart of gold, Jondar (who prefers to go by Johnny Platinu
 
 ## History
 
-For many years, Johnny served as a privateer with the [Bloodswords](../../Organisations/Bloodswords/index.md), captaining [The Gilded Shark](../../Organisations/Bloodswords/Ships/The%20Gilded%20Shark.md). He doesn't talk much about this time, but rumour has it he was actually fairly high ranking. Then one day he just... dropped out. He went ashore, stopped talking to anyone from his old life, turned down every contract he was offered, started taking cooking classes and settled into a quiet retirement.
+For many years, Johnny served as a privateer with the [Bloodswords](../../Organisations/Bloodswords/Bloodswords.md), captaining [The Gilded Shark](../../Organisations/Bloodswords/Ships/The%20Gilded%20Shark.md). He doesn't talk much about this time, but rumour has it he was actually fairly high ranking. Then one day he just... dropped out. He went ashore, stopped talking to anyone from his old life, turned down every contract he was offered, started taking cooking classes and settled into a quiet retirement.
 
 ![](../../_assets/people/pirates/JondarPlatinumfist.png)
 
@@ -16,7 +16,7 @@ He stayed aboard this ship for several years, taking a fairly active role in res
 
 ## Relationships
 
-Johnny was once married to [Bertha Bloodletter](Bertha%20Bloodletter.md), a fellow [Jotun](../../Species/Homonids/Jotun.md) and [Bloodsword](../../Organisations/Bloodswords/index.md). The two ended their marriage when Johnny retired from his mercenary life and took up cooking. The two remain on good terms.
+Johnny was once married to [Bertha Bloodletter](Bertha%20Bloodletter.md), a fellow [Jotun](../../Species/Homonids/Jotun.md) and [Bloodsword](../../Organisations/Bloodswords/Bloodswords.md). The two ended their marriage when Johnny retired from his mercenary life and took up cooking. The two remain on good terms.
 
 ### _How Johnny Met Bertha_
 

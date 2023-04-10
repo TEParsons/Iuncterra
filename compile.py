@@ -1,7 +1,10 @@
 import markdown
 import markmoji
-import obsidian_wiki
 from pathlib import Path
+import sys
+
+sys.path.append("G:\\My Drive\\Projects\\Obsidian Wiki\\obsidian-wiki")
+import obsidian_wiki
 
 md = markdown.Markdown(extensions=["extra", "admonition", "nl2br", markmoji.Markmoji()])
 __folder__ = Path(__file__).parent
@@ -15,3 +18,6 @@ wiki = obsidian_wiki.Wiki(
 )
 
 wiki.compile()
+
+import webbrowser
+webbrowser.open("file://" + str(Path("docs/index.html").absolute()))

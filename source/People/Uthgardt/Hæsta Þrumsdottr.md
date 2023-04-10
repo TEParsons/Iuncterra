@@ -3,12 +3,12 @@
 ![](../../_assets/people/uthgardt/haesta-thrumsdottr.png)
 
 > **Pronouns** she/her
-> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](index.md))
+> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](../../index.md))
 > **Age** 23
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Thunderbeast Tribe, Fylkiriate 
 
 #### Ideals
-Firmly believes in the concept of the Fylkiriate, believing that the [Uthgardt](index.md) faith needs reformation if it's to survive, particularly with the threat of [Wilhelm van Noord](../DIR%20Citizens/Wilhelm%20van%20Noord.md) and the DIR looming.
+Firmly believes in the concept of the Fylkiriate, believing that the [Uthgardt](../../index.md) faith needs reformation if it's to survive, particularly with the threat of [Wilhelm van Noord](../DIR%20Citizens/Wilhelm%20van%20Noord.md) and the DIR looming.
 
 #### Bonds
 Despite the political nature of their marriage, Haesta really does love her malewife [Slásverd af Fylkir](Slásverd%20af%20Fylkir.md). She also has good relationships with her allies in the Fylkiriate cause, apart from [Örmar Silfurorð](Örmar%20Silfurorð.md), who she tolerates but does not trust.

@@ -1,6 +1,6 @@
 ⬢[Kashar](https://teparsons.github.io/Iuncterra/assets/locations/kashar/Kashar.csv)
 
-Kashar is built around the mouth of the river Jibana, sandwiched between the Parbat mountain range marking the southern border of a great desert, and the Satru mountains marking the western borders of [Ordo'Atkan](../Ordo'Atkan/index.md).
+Kashar is built around the mouth of the river Jibana, sandwiched between the Parbat mountain range marking the southern border of a great desert, and the Satru mountains marking the western borders of [Ordo'Atkan](../Ordo'Atkan/Ordo'Atkan.md).
 
 The lands are split into five regions, known as Jami, each with its own regional government:
 

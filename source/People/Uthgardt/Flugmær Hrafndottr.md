@@ -2,7 +2,7 @@
 ![](../../_assets/people/uthgardt/flugmaer-hrafndottr.png)
 
 > **Pronouns** she/her
-> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](index.md))
+> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](../../index.md))
 > **Age** 24
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Uthgardt Rebellion, Great Raven Tribe
 

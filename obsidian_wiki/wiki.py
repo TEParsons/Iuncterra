@@ -40,6 +40,8 @@ class Wiki:
         # Store source and destination folders
         self.source = Path(source)
         self.dest = Path(dest)
+        # Array to store page objects in
+        self.pages = []
         # If templates is None, use default templates folder
         if templates is None:
             templates = __folder__ / "templates"
@@ -72,7 +74,24 @@ class Wiki:
             logging.info("No default template found. Using module default instead.")
         # Log success
         logging.end_delim("Finished reading templates.")
+    
+    def get_page_from_path(self, page):
+        """
+        Get the WikiPage object for a page from the path of its markdown file.
         
+        #### Parameters
+        page (pathlike)
+        :    Path to the desired page's markdown file, can be absolute or relative to wiki root.
+        """
+        # Convert to Path object
+        path = Path(path)
+        # Make absolute
+        if not path.is_absolute():
+            path = self.source / path
+        # Check source path of each page
+        for obj in self.pages:
+            if obj.source == Path(page):
+                return obj
         
     def compile(self):
         logging.start_delim("Configuring output folder...")
@@ -94,6 +113,7 @@ class Wiki:
         logging.end_delim("Finished configuring output folder.")
         # Build every md file in source tree
         logging.start_delim("Building pages...")
+        self.pages = []
         for file in self.source.glob("**/*.md"):
             if file.parent == self.source and file.stem.lower() in ("index", self.name.lower()):
                 # For homepage, make special homepage object
@@ -110,6 +130,8 @@ class Wiki:
                     source=file,
                     dest=self.dest / file.relative_to(self.source).parent
                 )
+            self.pages.append(page)
+        for page in self.pages:
             page.compile(save=True)
         logging.end_delim("Finished building.")
 
@@ -140,7 +162,6 @@ class WikiPage:
         self.dest = dest
         self.template = template
         self.breadcrumbs = Breadcrumbs(page=self)
-        self.contents = Contents(page=self)
         self.navbar = NavBar(page=self)
     
     @property
@@ -211,8 +232,33 @@ class WikiPage:
                 ipa = match.group(1)
                 return f"<a class=ipa href=http://ipa-reader.xyz/?text={ipa}&voice=Brian>{ipa}</a>"
             content = re.sub(r"^\/(.{1,})\/$", _ipa, content, flags=re.MULTILINE)
+
+            # Insert contents from markmoji-style syntax
+            def _contents(match):
+                title = match.group(1)
+                path = Path(match.group(2))
+                # Resolve relative paths
+                if not path.is_absolute():
+                    path = (self.source.parent / path).resolve()
+                # Construct Contents object
+                obj = Contents(
+                    page=self,
+                    path=path,
+                    title=title
+                )
+
+                return str(obj)
+            content = re.sub(r"📑\[(.*)\]\((.*)\)", _contents, content, flags=re.MULTILINE)
+
             # Replace refs to markdown files with refs to equivalent html files
-            content = content.replace(".md)", ".html)")
+            def _links(match):
+                label = match.group(1)
+                path = match.group(2)
+                # Remove spaces from link stem
+                path = path.replace(" ", "").replace("%20", "")
+                # Replace .md with .html
+                return f"[{label}]({path}.html)"
+            content = re.sub(r"\[(.*)\]\((.*)\.md\)", _links, content, flags=re.MULTILINE)
             
             return content
 
@@ -229,12 +275,6 @@ class WikiPage:
 
         # Add breadcrumbs
         page = page.replace("{{breadcrumbs}}", str(self.breadcrumbs))
-
-        # For index files, add contents
-        if self.is_index:
-            page = page.replace("{{contents}}", str(self.contents))
-        else:
-            page = page.replace("{{contents}}", "")
 
         # Update tab title
         if self.is_home:
@@ -287,6 +327,7 @@ class WikiPage:
         else:
             stem = self.source.stem
         # Construct destination file
+        stem = stem.replace(" ", "").replace("%20", "")
         dest = self.dest / (stem + ".html")
         # Make sure directory exists
         if not dest.parent.is_dir():
@@ -420,7 +461,7 @@ class Contents:
                 page:WikiPage,
                 file:Path,
         ):
-            self.href = file.relative_to(page.source.parent).parent / file.stem
+            self.href = file.relative_to(page.source.parent).parent / file.stem.replace(" ", "").replace("%20", "")
             self.label = file.stem
         
         def __str__(self):
@@ -470,9 +511,11 @@ class Contents:
     def __init__(
             self,
             page:WikiPage,
-            path:pathlike=None
+            path:pathlike=None,
+            title:str="Contents"
     ):
         self.page = page
+        self.title = title
         # Use page parent if no path given
         if path is None:
             path = page.source.parent
@@ -484,13 +527,18 @@ class Contents:
         )
 
         self.items = folder.items
+        self.href = folder.href
     
     def __str__(self):
         # Open element
         content = (
             "<ul class=wiki-contents>\n"
-            "<h3>Contents</h3>\n"
         )
+        # Write title (if any)
+        if self.title:
+            content += (
+                f"<h3><a href={self.href}>{self.title}</a></h3>\n"
+            )
         # Add each item
         for item in self.items:
             content += f"{item}\n"
