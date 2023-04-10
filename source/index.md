@@ -1,3 +1,13 @@
+---
+nav-links: 
+    People
+	Locations
+	Organisations
+	Cosmology
+	Stories
+---
+
+
 ## [People](People)
 📑[Atkani](People/Atkani)
 📑[DIR Citizens](People/DIR Citizens)
@@ -24,3 +34,6 @@
 ## [Cosmology](Cosmology)
 📑[Fey](Cosmology/Fey)
 📑[Daemons](Cosmology/Daemons)
+
+## Stories
+📑[](Stories)
