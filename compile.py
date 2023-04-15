@@ -6,7 +6,7 @@ import sys
 sys.path.append("G:\\My Drive\\Projects\\Obsidian Wiki\\obsidian-wiki")
 import obsidian_wiki
 
-md = markdown.Markdown(extensions=["extra", "admonition", "nl2br", markmoji.Markmoji()])
+md = markdown.Markdown(extensions=["extra", "admonition", "nl2br", "meta", markmoji.Markmoji()])
 __folder__ = Path(__file__).parent
 
 wiki = obsidian_wiki.Wiki(
