@@ -2,7 +2,7 @@
 ![](../../_assets/people/uthgardt/vidar-norgandr.png)
 
 > **Pronouns** he/him
-> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](../../index.md), Lycanthrope)
+> **Species** [Human](../../Species/Homonids/Human.md) ([Uthgardt](../../index.md), Lycanthrope)
 > **Age** 34
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Uthgardt Rebellion, Grey Wolf Tribe
 

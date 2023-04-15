@@ -1,6 +1,6 @@
 📑[](.)
 
-The Kashar Sultanate is a major power in the southern continent, ruling over a vast area rich in spices, precious metals and fine silks. The ruling family of Kashar are the Kash dynasty, an elven family whose rule dates back over 10,000 years. Most citizens of Kashar are [Elves](../../Species/Homonids/Elves.md), but there are also singificant populations of [Loxodon](../../Species/Homonids/Loxodon.md) and [Tabaxi](../../Species/Homonids/Tabaxi.md).
+The Kashar Sultanate is a major power in the southern continent, ruling over a vast area rich in spices, precious metals and fine silks. The ruling family of Kashar are the Kash dynasty, an elven family whose rule dates back over 10,000 years. Most citizens of Kashar are [Elf](../../Species/Homonids/Elf.md), but there are also singificant populations of [Loxodon](../../Species/Homonids/Loxodon.md) and [Tabaxi](../../Species/Homonids/Tabaxi.md).
 
 ### Notable Figures
 - [Kash Pasanhara](../../People/Kasharites/Kash%20Pasanhara.md)

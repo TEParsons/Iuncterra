@@ -14,7 +14,7 @@ The trade hub of Kashar, Jami-Sonna makes up the Kashar-controlled portion of th
 
 ### Jami-Satru
 
-The first region colonised by [elves](../../Species/Homonids/Elves.md) during the nameless wars, Jami Satru covers the southeast border of the Sultanate and is a stronghold for royalists. Citizens of Jami-Satru man the outposts in the Satru mountain range, where their ancestors once crossed into the then-loxodon controlled region.
+The first region colonised by [elves](../../Species/Homonids/Elf.md) during the nameless wars, Jami Satru covers the southeast border of the Sultanate and is a stronghold for royalists. Citizens of Jami-Satru man the outposts in the Satru mountain range, where their ancestors once crossed into the then-loxodon controlled region.
 
 ### Jami-Parbat
 

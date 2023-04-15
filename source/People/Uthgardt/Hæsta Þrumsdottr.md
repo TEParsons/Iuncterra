@@ -3,7 +3,7 @@
 ![](../../_assets/people/uthgardt/haesta-thrumsdottr.png)
 
 > **Pronouns** she/her
-> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](../../index.md))
+> **Species** [Human](../../Species/Homonids/Human.md) ([Uthgardt](../../index.md))
 > **Age** 23
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Thunderbeast Tribe, Fylkiriate 
 
