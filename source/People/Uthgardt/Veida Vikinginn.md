@@ -2,7 +2,7 @@
 ![](../../_assets/people/uthgardt/veida-vikinginn.png)
 
 > **Pronouns** she/her
-> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](../../index.md))
+> **Species** [Human](../../Species/Homonids/Human.md) ([Uthgardt](../../index.md))
 > **Age** 28
 > **Family** [Ormunda Drekisdottr](Ormunda%20Drekisdottr.md) (Sister)
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Red Tiger Tribe, Great Worm Tribe

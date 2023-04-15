@@ -1,7 +1,7 @@
 /ɔmʌndə drɛkɪsdo̞tɜ/
 
 > **Pronouns** she/her
-> **Species** [Human](../../Species/Homonids/Humans.md) ([Uthgardt](../../index.md))
+> **Species** [Human](../../Species/Homonids/Human.md) ([Uthgardt](../../index.md))
 > **Age** 27
 > **Family** [Veida Vikinginn](Veida%20Vikinginn.md) (Sister)
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Great Worm Tribe

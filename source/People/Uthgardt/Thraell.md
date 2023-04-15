@@ -1,7 +1,7 @@
 /θɾeɪul/
 
 > **Pronouns** he/him
-> **Species** [Elf](../../Species/Homonids/Elves.md) ([Kasharite](../../Locations/Kashar/Kashar.md))
+> **Species** [Elf](../../Species/Homonids/Elf.md) ([Kasharite](../../Locations/Kashar/Kashar.md))
 > **Age** 204
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Sky Pony Tribe
 
