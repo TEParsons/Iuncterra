@@ -1,4 +1,4 @@
-/jəʊtʌn/
+🗣[jəʊtʌn]()
 
 ![](../../_assets/species/jotun.png)
 

@@ -1,4 +1,4 @@
-/dræʧeɪʌnz/
+🗣[dræʧeɪʌn]()
 
 ![](../../_assets/species/dracean.png)
 

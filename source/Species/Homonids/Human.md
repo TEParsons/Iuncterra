@@ -1,4 +1,4 @@
-/hjumənz/
+🗣[hjumən]()
 
 ![](../../_assets/species/human.png)
 

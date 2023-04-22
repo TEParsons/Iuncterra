@@ -1,4 +1,4 @@
-/θʌndəbistz/
+🗣[θʌndəbist]()
 
 ![](../../_assets/species/thunderbeast.png)
 

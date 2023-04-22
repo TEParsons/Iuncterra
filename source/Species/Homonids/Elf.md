@@ -1,4 +1,4 @@
-/ɛlvz/
+🗣[ɛlvz]()
 
 ![](../../_assets/species/elf.png)
 

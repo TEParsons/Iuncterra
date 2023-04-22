@@ -1,4 +1,4 @@
-/tæbæksi/
+🗣[tæbæksi]()
 
 ![](../../_assets/species/tabaxi.png)
 

@@ -1,4 +1,4 @@
-/gændraɪt/
+🗣[gændraɪt]()
 
 ![](../../_assets/species/gandrite.png)
 

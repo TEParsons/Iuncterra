@@ -1,4 +1,4 @@
-/drægənz/
+🗣[drægən]()
 
 ![](../../_assets/species/dragon.png)
 

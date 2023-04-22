@@ -1,4 +1,4 @@
-/dwɔvz/
+🗣[dwɔf]()
 
 ![](../../_assets/species/dwarf.png)
 
