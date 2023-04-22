@@ -1,4 +1,4 @@
-/ipa/
+🗣[ipa]()
 
 ![](../../_assets/species/dragon.png)
 > **Pronouns** he/him/they/them/she/her
