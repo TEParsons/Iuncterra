@@ -263,7 +263,7 @@ class WikiPage:
             def _ipa(match):
                 ipa = match.group(1)
                 return f"<a class=ipa href=http://ipa-reader.xyz/?text={ipa}&voice=Brian>{ipa}</a>"
-            content = re.sub(r"🗣\[.*\]\(.*\)", _ipa, content, flags=re.MULTILINE)
+            content = re.sub(r"🗣\[(.*)\]\((.*)\)", _ipa, content, flags=re.MULTILINE)
 
             # Insert contents from markmoji-style syntax
             def _contents(match):
