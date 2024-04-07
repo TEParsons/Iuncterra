@@ -1,6 +1,6 @@
 ### The Nameless Wars
 
-Before it was an elven Sultanate, the land now called Kashar was a land of [loxodon](../../Species/Homonids/Loxodon.md). It is known that the land was taken from them and the Sultanate established when the region was colonised by ancient elves, but little else is known of this period. Despite its violent colonial beginnings, [loxodon](../../Species/Homonids/Loxodon.md) now live freely in Kashar and consider themselves as much Kasharites as their elven countrymen, the conflicts of those times long forgotten.
+Before it was an elven Sultanate, the land now called Kashar was a land of [loxodon](../../Species/Godtouched/Loxodon.md). It is known that the land was taken from them and the Sultanate established when the region was colonised by ancient elves, but little else is known of this period. Despite its violent colonial beginnings, [loxodon](../../Species/Godtouched/Loxodon.md) now live freely in Kashar and consider themselves as much Kasharites as their elven countrymen, the conflicts of those times long forgotten.
 
 ### Tributary Period
 

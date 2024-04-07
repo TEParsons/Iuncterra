@@ -3,7 +3,7 @@
 ![](../../_assets/people/uthgardt/slasverd-af-fylkir.png)
 
 > **Pronouns** he/him
-> **Species** [Human](../../Species/Homonids/Human.md) ([Uthgardt](../../index.md))
+> **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))
 > **Age** 24
 > **Family** [Hæsta Þrumsdottr](Hæsta%20Þrumsdottr.md) (Wife), [Smiður Bölvaður](Smiður%20Bölvaður.md) (Father)
 > **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Uthgardt Fylkiriate, Elk Tribe, Thunderbeast Tribe

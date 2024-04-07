@@ -2,7 +2,7 @@
 
 ![](../../_assets/people/dir/Wilhelm%20van%20Noord.png)
 > **Pronouns** he/him
-> **Species** [Human](../../Species/Homonids/Human.md)
+> **Species** [Human](../../Species/Homonid/Human.md)
 > **[Age](../../Species/Ageing.md)** 32
 > **Affiliations** [[Dracean Intercoastal Republic](../../Locations/Dracean%20Intercoastal%20Republic/Dracean%20Intercoastal%20Republic.md)]
 

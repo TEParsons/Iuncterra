@@ -16,7 +16,7 @@ He stayed aboard this ship for several years, taking a fairly active role in res
 
 ## Relationships
 
-Johnny was once married to [Bertha Bloodletter](Bertha%20Bloodletter.md), a fellow [Jotun](../../Species/Homonids/Jotun.md) and [Bloodsword](../../Organisations/Bloodswords/Bloodswords.md). The two ended their marriage when Johnny retired from his mercenary life and took up cooking. The two remain on good terms.
+Johnny was once married to [Bertha Bloodletter](Bertha%20Bloodletter.md), a fellow [Jotun](../../Species/Homonid/Jotun.md) and [Bloodsword](../../Organisations/Bloodswords/Bloodswords.md). The two ended their marriage when Johnny retired from his mercenary life and took up cooking. The two remain on good terms.
 
 ### _How Johnny Met Bertha_
 

@@ -3,7 +3,7 @@
 ![](../../_assets/people/uthgardt/norn-alfursdottr.png)
 
 > **Pronouns** they/them
-> **Species** [Gandrite](../../Species/Homonids/Gandrite.md)
+> **Species** [Gandrite](../../Species/Godtouched/Gandrite.md)
 > **Age** 124
 > **Affiliations** [[Uthgar]], Great Tree Tribe, Uthgardt Rebellion
 

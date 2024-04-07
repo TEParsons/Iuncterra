@@ -2,7 +2,7 @@
 
 ![](../../_assets/people/draceans/Dionus.png)
 > **Pronouns** he/him
-> **Species** [Dracean](../../Species/Homonids/Dracean.md)
+> **Species** [Dracean](../../Species/Homonid/Dracean.md)
 > **[Age](../../Species/Ageing.md)** 204
 > **Affiliations** [Drace](../../Locations/Drace/Drace.md)
 

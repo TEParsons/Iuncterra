@@ -2,7 +2,7 @@
 
 ![](../../_assets/people/draceans/Lucius%20Julianus%20Severus%20Regis.png)
 > **Pronouns** He/Him
-> **Species** [Dracean](../../Species/Homonids/Dracean.md)
+> **Species** [Dracean](../../Species/Homonid/Dracean.md)
 > **[Age](../../Species/Ageing.md)** 123
 > **Affiliations** [Drace](../../Locations/Drace/Drace.md)
 
