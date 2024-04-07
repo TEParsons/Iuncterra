@@ -1,6 +1,6 @@
 The Bloodswords are a mercenary guild, operating world-wide. Its operatives are referred to as bloodswords, in lower case.
 
-![](../../_assets/organisations/Bloodswords/Emblem.png)
+![](Emblem.png)
 
 Notable bloodswords include:
 > - [Bertha Bloodletter](../../People/Pirates/Bertha%20Bloodletter.md)

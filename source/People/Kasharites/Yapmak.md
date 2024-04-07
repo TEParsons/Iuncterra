@@ -1,6 +1,6 @@
 /jæpmæk/
 
-![Pasha Yapmak](../../_assets/people/kashar/Yapmak.png)
+![Pasha Yapmak](Yapmak.png)
 
 > **Pronouns** he/him
 > **Species** [Human](../../Species/Homonid/Human.md) / [Elf](../../Species/Homonid/Elf.md)

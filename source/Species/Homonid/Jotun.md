@@ -1,6 +1,6 @@
 🗣[jəʊtʌn]()
 
-![](../../_assets/species/jotun.png)
+![](jotun.png)
 ## Physiology
 Jotun are noticeably larger than other hominids, standing anywhere between 8 and 10 feet tall. They have tough skin
 

@@ -1,6 +1,6 @@
 🗣[wɪlhɛlm væn nɔd]()
 
-![](../../_assets/people/dir/Wilhelm%20van%20Noord.png)
+![](Wilhelm%20van%20Noord.png)
 > **Pronouns** he/him
 > **Species** [Human](../../Species/Homonid/Human.md)
 > **[Age](../../Species/Ageing.md)** 32

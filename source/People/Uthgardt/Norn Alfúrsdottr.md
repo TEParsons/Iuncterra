@@ -1,6 +1,6 @@
 /nɜrn ælfɜzdo̞tɜ/
 
-![](../../_assets/people/uthgardt/norn-alfursdottr.png)
+![](norn-alfursdottr.png)
 
 > **Pronouns** they/them
 > **Species** [Gandrite](../../Species/Godtouched/Gandrite.md)

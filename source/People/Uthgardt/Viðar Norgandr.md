@@ -1,5 +1,5 @@
 /vɪdɑ nɔgændə/
-![](../../_assets/people/uthgardt/vidar-norgandr.png)
+![](vidar-norgandr.png)
 
 > **Pronouns** he/him
 > **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md), Lycanthrope)

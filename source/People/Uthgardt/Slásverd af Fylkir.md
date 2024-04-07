@@ -1,6 +1,6 @@
 /slæsvɜd əf fɪlkɜ/
 
-![](../../_assets/people/uthgardt/slasverd-af-fylkir.png)
+![](slasverd-af-fylkir.png)
 
 > **Pronouns** he/him
 > **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))

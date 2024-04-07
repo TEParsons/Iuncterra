@@ -2,4 +2,4 @@
 
 Mother of the Sultan, administers the Sultan's harem and gives counsel to new concubines. An experienced negotiator and respected political figure, the Celebrated Mother holds more power through her influence than the limited nature of her role would suggest.
 
-![](../../_assets/people/kashar/KashSuraska.png)
+![](KashSuraska.png)

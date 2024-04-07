@@ -2,7 +2,7 @@
 
 _Malefix of Greed_
 
-![](../../../_assets/cosmology/daemons/avikath.png)
+![](avikath.png)
 
 Avikath is manifest from the greed of mortals. All who lust for gold, power, sexual conquest... These are her people.
 

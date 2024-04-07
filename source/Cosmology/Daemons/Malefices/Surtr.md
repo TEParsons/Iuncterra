@@ -2,7 +2,7 @@
 
 _Malefix of Destrucive Intent_
 
-![](../../../_assets/cosmology/daemons/surtr.png)
+![](surtr.png)
 
 Surtr is, plain and simple, the will to destroy. Motives are irrelevant, whether the destruction comes from righteous anger, from vengeance, from greed... So long as there is a mortal who wishes to see some one or some thing in ruins, Surtr will retain his power.
 

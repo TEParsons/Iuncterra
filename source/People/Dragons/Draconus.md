@@ -1,1 +1,1 @@
-![](../../_assets/people/dragons/draconus.png)
+![](draconus.png)

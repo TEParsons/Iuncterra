@@ -1,1 +1,1 @@
-![](../../_assets/people/pirates/ZhanDou.png)
+![](ZhanDou.png)

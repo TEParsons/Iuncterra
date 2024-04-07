@@ -1,6 +1,6 @@
 🗣[ipa]()
 
-![](../../_assets/species/lilitun.png)
+![](lilitun.png)
 
 ...
 

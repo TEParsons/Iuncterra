@@ -1,4 +1,4 @@
-![](../../_assets/people/pirates/RurikWaxwing.png)
+![](RurikWaxwing.png)
 > Leaves from the vine, 
 > Falling so slow, 
 > Brave soldier boy, 

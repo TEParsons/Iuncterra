@@ -1,6 +1,6 @@
 /hɛstæ θrʊmzdo̞tɜ/
 
-![](../../_assets/people/uthgardt/haesta-thrumsdottr.png)
+![](haesta-thrumsdottr.png)
 
 > **Pronouns** she/her
 > **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))

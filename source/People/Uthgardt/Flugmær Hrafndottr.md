@@ -1,5 +1,5 @@
 /flugmɪə hræfndo̞tɜ/
-![](../../_assets/people/uthgardt/flugmaer-hrafndottr.png)
+![](flugmaer-hrafndottr.png)
 
 > **Pronouns** she/her
 > **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))

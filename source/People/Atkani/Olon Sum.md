@@ -1,5 +1,5 @@
 🗣[əʊlɒn sʊm]()
-[![Olon Sum](../../_assets/people/ordoatkan/OlonSumKhan.png)](https://www.heroforge.com/load_config%3D33944133/)
+[![Olon Sum](OlonSumKhan.png)](https://www.heroforge.com/load_config%3D33944133/)
 
 > **Pronouns** he/him
 > **Species** [Orc](../../Species/Homonid/Orc.md)

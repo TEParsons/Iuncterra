@@ -1,6 +1,6 @@
 /skaɪfɑðə/
 
-![](../../_assets/cosmology/fey/Skyfather.png)
+![](Skyfather.png)
 
 The Skyfather is the essence of the open sky - thunder, lightning, clouds and the air are all His domain. As one of the most powerful and important [fey](Fey.md), He features in most pantheons across Iuncterra.
 

@@ -1,5 +1,5 @@
 /ɔmɑ sɪlfɔrɔð/
-![](../../_assets/people/uthgardt/ormar-silfurord.png)
+![](ormar-silfurord.png)
 
 > **Pronouns** he/him / they/them
 > **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))

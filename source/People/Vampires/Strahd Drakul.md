@@ -1,7 +1,7 @@
 # Strahd Drakul
 *Medium undead (shapechanger), lawful evil, /stræd drækʊl/*
 
-![](../../_assets/people/vampires/Strahd.png)
+![](Strahd.png)
 
 > **HP** 144 (17d8+68)
 > **Armour Class** 16 (natural armour)

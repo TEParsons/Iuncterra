@@ -1,6 +1,6 @@
 🗣[lusiʌs ʤuəliɑnʌs sɛvərʌs riʤɪz]()
 
-![](../../_assets/people/draceans/Lucius%20Julianus%20Severus%20Regis.png)
+![](Lucius Julianus Severus Regis.png)
 > **Pronouns** He/Him
 > **Species** [Dracean](../../Species/Homonid/Dracean.md)
 > **[Age](../../Species/Ageing.md)** 123

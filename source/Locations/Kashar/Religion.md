@@ -4,18 +4,18 @@ The faith has three roles:
 
 ### Brahman
 
-![img](_assets/locations/kashar/brahman.png)
+![img](brahman.png)
 
 The leader of the faith, advises the Sultan on spiritual matters and administers the Sikari faith.
 
 ### Herbad
 
-![img](_assets/locations/kashar/herbad.png)
+![img](herbad.png)
 
 Herbadi are keepers of the flame, who generally perform the day to day maintenance such as adding oil and tower maintenance.
 
 ### Mobad
 
-![img](_assets/locations/kashar/mobad.png)
+![img](mobad.png)
 
 Mobadi are trainee keepers of the flame, learning the ancient rituals from Herbadi.

@@ -1,6 +1,6 @@
 🗣[daɪəʊnʌs]()
 
-![](../../_assets/people/draceans/Dionus.png)
+![](Dionus.png)
 > **Pronouns** he/him
 > **Species** [Dracean](../../Species/Homonid/Dracean.md)
 > **[Age](../../Species/Ageing.md)** 204

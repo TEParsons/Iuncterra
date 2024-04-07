@@ -1,5 +1,5 @@
 /veɪdə vaɪkɪŋɪn/
-![](../../_assets/people/uthgardt/veida-vikinginn.png)
+![](veida-vikinginn.png)
 
 > **Pronouns** she/her
 > **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))
