@@ -1,1 +1,2 @@
+# Governance
 Drace is still ruled by an Emperor, currently [Lucius Julianus Severus Regis](../../People/Draceans/Lucius%20Julianus%20Severus%20Regis.md) however in modern times this title is mostly ceremonial. The day to day running of Drace falls to the senate, an elected body of representatives for the various strata of society.

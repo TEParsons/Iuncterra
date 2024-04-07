@@ -1,3 +1,4 @@
+# Yapmak
 /jæpmæk/
 
 ![Pasha Yapmak](Yapmak.png)

@@ -1,1 +1,2 @@
+# Kash Tarcata
 The last good Sultan, Tarcata commanded respect and garnered loyalty. A capable and fair ruler, under him Kashar went from strength to strength. He invested heavily in public works and infrastructure, literally paving the roads of the future. His son, [Kash Pasanhara](Kash%20Pasanhara.md), does not share his talent for leadership.

@@ -1,3 +1,4 @@
+# Governance
 ### The Sultan
 
 The Sultan is the absolute ruler of all Kashar - while there are devolved governments and some democratic representation, if the Sultan passes a dictate then it is so. No questions. Upon the Sultan's death, the title passes to their most legitimate heir. Usually this is the eldest child of the Celebrated Concubine, but ultimately the decision as to which child is the decision of the Sultan while alive. While there have been some instances of the title passing to siblings, niblings and cousins, every Sultan has been able to trace their lineage directly back to the progenitor of the Kash dynasty.

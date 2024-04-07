@@ -1,3 +1,4 @@
+# Kobolds
 The Kobolds maintain a presence in most anywhere there is gold. This dragon-worshipping cult of [Avikath](../Cosmology/Daemons/Malefices/Avikath.md) hold greed to be a holy virtue.
 
 ![](kobold.png)

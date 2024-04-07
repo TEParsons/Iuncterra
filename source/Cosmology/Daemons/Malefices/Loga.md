@@ -1,3 +1,4 @@
+# Loga
 /ləʊgə/
 
 *Malefix of deception*

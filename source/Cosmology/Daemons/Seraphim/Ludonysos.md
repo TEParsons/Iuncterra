@@ -1,3 +1,4 @@
+# Ludonysos
 /ludɒnɪsɒs/
 
 _Seraph of Ludic Love_

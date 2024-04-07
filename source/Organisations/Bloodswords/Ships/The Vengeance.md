@@ -1,3 +1,4 @@
+# The Vengeance
 The Vengeance is a large three-mast warship with a formidable array of guns, recognisable by its crimson red sails. Its bow is heavily armoured with iron, allowing it to sail through icy waters and even ram other ships when necessary. However, this heavy armouring comes at the cost of speed.
 
 ### Crew

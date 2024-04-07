@@ -1,3 +1,4 @@
+# The Gilded Shark
 Fittingly for its name, The Gilded Shark is the glistening jewel of the [Bloodswords](../Bloodswords.md)' fleet of warships-for-hire.
 
 ### Design

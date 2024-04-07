@@ -1,3 +1,4 @@
+# Jondar Platinumfist
 A gentle giant with a heart of gold, Jondar (who prefers to go by Johnny Platinum) is the ship's cook and unofficial counsellor. Although his military history and imposing stature make him a capable fighter, what he really brings to the team is experience, compassion and emotional intelligence. Always keen to seek out non-violent solutions, Johnny has defused many a ship's brawl and often acts as a surrogate father figure in the found family that pirate ships often offer.
 
 ![](JohnnyPlatinum.png)

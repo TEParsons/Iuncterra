@@ -1,3 +1,4 @@
+# Hestora
 /hɛstɔrə/
 
 _Seraph of Storgic Love_

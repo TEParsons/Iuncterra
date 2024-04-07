@@ -1,3 +1,4 @@
+# Bertha Bloodletter
 Bertha Bloodletter captains the privateer vessel [The Vengeance](../../Organisations/Bloodswords/Ships/The%20Vengeance.md), a powerful warship in the [Bloodswords](../../Organisations/Bloodswords/Bloodswords.md)' fleet, with a fearsome reputation. Truly an imposing figure, her skill in battle is the stuff of legends. While her leadership style is undoubtedly harsh, The Vengeance is never short of eager recruits. Serving under Bertha is a dangerous venture, but one with a great deal of potential for profit. As hard as she is on her crew, she is never anything but generous in the distribution of plunder.
 
 ![](BerthaBloodletter.png)
