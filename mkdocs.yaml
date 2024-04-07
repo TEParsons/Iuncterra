@@ -1,0 +1,18 @@
+site_name: Iuncterra
+theme: torillic
+docs_dir: source
+site_dir: docs
+
+nav:
+  - Stories: "Stories"
+  - People: "People"
+  - Organisations: "Organisations"
+  - Locations: "Locations"
+  - Cosmology: "Cosmology"
+
+exclude_docs: |
+  desktop.ini
+
+markdown_extensions:
+  - nl2br
+  - attr_list
