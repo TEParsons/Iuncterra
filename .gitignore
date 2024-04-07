@@ -4,3 +4,4 @@ venv/
 .obsidian
 source/Campaigns/
 .venv
+scratch.*
