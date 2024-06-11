@@ -1,5 +1,5 @@
 # Dracean
-🗣[dræʧeɪʌn]()
+/dræʧeɪʌn/
 
 ![](dracean.png)
 

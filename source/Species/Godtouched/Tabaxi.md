@@ -1,5 +1,5 @@
 # Tabaxi
-🗣[tæbæksi]()
+/tæbæksi/
 
 ![](tabaxi.png)
 

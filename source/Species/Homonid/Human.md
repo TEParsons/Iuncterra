@@ -1,5 +1,5 @@
 # Human
-🗣[hjumən]()
+/hjumən/
 
 ![](human.png)
 

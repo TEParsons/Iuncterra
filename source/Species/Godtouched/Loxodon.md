@@ -1,5 +1,5 @@
 # Loxodon
-🗣[lɒksəʊdɒn]()
+/lɒksəʊdɒn/
 
 ![](loxodon.png)
 

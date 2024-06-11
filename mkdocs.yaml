@@ -4,11 +4,10 @@ docs_dir: source
 site_dir: docs
 
 nav:
-  - Stories: "Stories"
-  - People: "People"
-  - Organisations: "Organisations"
-  - Locations: "Locations"
-  - Cosmology: "Cosmology"
+  - ...
+
+hooks:
+  - utils/ipa.py
 
 exclude_docs: |
   desktop.ini
@@ -16,3 +15,6 @@ exclude_docs: |
 markdown_extensions:
   - nl2br
   - attr_list
+
+plugins:
+  - awesome-pages

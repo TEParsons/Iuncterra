@@ -1,5 +1,5 @@
 # Thunderbeast
-🗣[θʌndəbist]()
+/θʌndəbist/
 
 ![](thunderbeast.png)
 

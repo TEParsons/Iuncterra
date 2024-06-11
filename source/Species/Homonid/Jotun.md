@@ -1,5 +1,5 @@
 # Jotun
-🗣[jəʊtʌn]()
+/jəʊtʌn/
 
 ![](jotun.png)
 ## Physiology

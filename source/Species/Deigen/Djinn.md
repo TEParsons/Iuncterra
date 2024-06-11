@@ -1,5 +1,5 @@
 # Djinn
-🗣[ʤɪn]()
+/ʤɪn/
 ![](djinn.png)
 
 [Loga](../../Cosmology/Daemons/Malefices/Loga.md) often has dalliances with minor desert fey, enjoying their tendency to produce marages to mislead travellers. Djinn are born of these dalliances, embodying the winds and sand of the desert and the deceptive nature of their daemon parent.

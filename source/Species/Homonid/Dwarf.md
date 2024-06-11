@@ -1,5 +1,5 @@
 # Dwarf
-🗣[dwɔf]()
+/dwɔf/
 
 ![](dwarf.png)
 

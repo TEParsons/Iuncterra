@@ -1,5 +1,5 @@
 # Dragon
-🗣[drægən]()
+/drægən/
 
 ![](dragon.png)
 

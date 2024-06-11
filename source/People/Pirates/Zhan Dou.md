@@ -1,2 +1,0 @@
-# Zhan Dou
-![](ZhanDou.png)

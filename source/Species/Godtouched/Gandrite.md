@@ -1,5 +1,5 @@
 # Gandrite
-🗣[gændraɪt]()
+/gændraɪt/
 
 ![](gandrite.png)
 

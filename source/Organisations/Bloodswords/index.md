@@ -1,3 +1,5 @@
+# Bloodswords
+
 The Bloodswords are a mercenary guild, operating world-wide. Its operatives are referred to as bloodswords, in lower case.
 
 ![](Emblem.png)

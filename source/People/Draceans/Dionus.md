@@ -1,5 +1,5 @@
 # Dionus
-🗣[daɪəʊnʌs]()
+/daɪəʊnʌs/
 
 ![](Dionus.png)
 > **Pronouns** he/him

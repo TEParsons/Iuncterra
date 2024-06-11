@@ -2,6 +2,7 @@ desktop.ini
 venv/
 .idea
 .obsidian
-source/Campaigns/
 .venv
 scratch.*
+.vscode
+__pycache__
