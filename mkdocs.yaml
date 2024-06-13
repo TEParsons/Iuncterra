@@ -12,6 +12,9 @@ hooks:
 exclude_docs: |
   desktop.ini
 
+validation:
+  absolute_links: ignore
+
 markdown_extensions:
   - nl2br
   - extra
