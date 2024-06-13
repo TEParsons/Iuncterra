@@ -13,11 +13,11 @@ def construct_ipa(match):
         Regex match for the IPA text
     """
     # get IPA from regex match
-    ipa = match.group(1)
+    bef, ipa, aft = match.groups()
     # make websafe
     websafe = ipa.replace(" ", "%20")
 
-    return f"<a class='ipa' href='https://ipa-reader.xyz?text={websafe}'>{ipa}</a>"
+    return f"{bef}<a class='ipa' href='https://ipa-reader.xyz?text={websafe}'>{ipa}</a>{aft}"
 
 
 def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, files: files.File) -> str:
@@ -51,7 +51,7 @@ def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, fil
         Parsed markdown text
     """
     # regex to find IPA strings
-    re_ipa = " /(.*)/ "
+    re_ipa = r"(^|\s)\/(.*)\/($|\s)"
     # do sections
     return re.sub(
         pattern=re_ipa,
