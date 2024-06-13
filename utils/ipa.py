@@ -17,7 +17,7 @@ def construct_ipa(match):
     # make websafe
     websafe = ipa.replace(" ", "%20")
 
-    return f"<a class='ipa' href='https://ipa-reader.xyz?text={websafe}>{ipa}</a>"
+    return f"<a class='ipa' href='https://ipa-reader.xyz?text={websafe}'>{ipa}</a>"
 
 
 def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, files: files.File) -> str:
