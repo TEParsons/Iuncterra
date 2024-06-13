@@ -1,11 +1,11 @@
 # History
 ### The Nameless Wars
 
-Before it was an elven Sultanate, the land now called Kashar was a land of [loxodon](../../Species/Godtouched/Loxodon.md). It is known that the land was taken from them and the Sultanate established when the region was colonised by ancient elves, but little else is known of this period. Despite its violent colonial beginnings, [loxodon](../../Species/Godtouched/Loxodon.md) now live freely in Kashar and consider themselves as much Kasharites as their elven countrymen, the conflicts of those times long forgotten.
+Before it was an elven Sultanate, the land now called Kashar was a land of [loxodon](/Species/Godtouched/Loxodon.md). It is known that the land was taken from them and the Sultanate established when the region was colonised by ancient elves, but little else is known of this period. Despite its violent colonial beginnings, [loxodon](/Species/Godtouched/Loxodon.md) now live freely in Kashar and consider themselves as much Kasharites as their elven countrymen, the conflicts of those times long forgotten.
 
 ### Tributary Period
 
-Kashar was founded with the not inconsiderable backing of the then-fledgeling [Dracean Republic](../Drace). They retained an amicable relationship with Drace as it rose to become the unquestioned masters of the East, but as the Imperial Dragon set its sights West it became clear that the Kash dynasty would have to swallow some pride to retain their position. Thus, for several centuries, Kashar was a tributary state of the Empire. Never formally annexed, but providing stuch a sizeable and regular tribute that the bellies of most Draceans were filled by Kasharite grain. As the Empire waned the tributes shrank until eventually they stopped altogether, save for the occasional ceremonial good will gesture.
+Kashar was founded with the not inconsiderable backing of the then-fledgeling [Dracean Republic](/Locations/Drace). They retained an amicable relationship with Drace as it rose to become the unquestioned masters of the East, but as the Imperial Dragon set its sights West it became clear that the Kash dynasty would have to swallow some pride to retain their position. Thus, for several centuries, Kashar was a tributary state of the Empire. Never formally annexed, but providing stuch a sizeable and regular tribute that the bellies of most Draceans were filled by Kasharite grain. As the Empire waned the tributes shrank until eventually they stopped altogether, save for the occasional ceremonial good will gesture.
 
 ### The Lost Prince
 
