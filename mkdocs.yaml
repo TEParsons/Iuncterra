@@ -14,7 +14,8 @@ exclude_docs: |
 
 markdown_extensions:
   - nl2br
-  - attr_list
+  - extra
+  - wikilinks
 
 plugins:
   - awesome-pages
