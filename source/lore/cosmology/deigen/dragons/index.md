@@ -1,4 +1,4 @@
-# Dragon
+# Dragons
 /drægən/
 
 ![](dragon.png)

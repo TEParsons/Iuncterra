@@ -1,3 +1,12 @@
+# Species
+Iuncterra is home to a wide variety of sapient creatures. 
+
+
+## Phylogeny
+The diagram below shows a phylogenic diagram for the origins of each sapient species in Iuncterra:
+
+![Phylogenic Tree](phylotree.svg)
+
 # Ageing
 Different [homonid](Homonid/Homonid.md) species age at different rates. Taking the rate of ageing in humans as a baseline, equivalent ages of other species can be calculated by the following multipliers:
 
