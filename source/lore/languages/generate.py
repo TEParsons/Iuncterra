@@ -4,7 +4,7 @@ import webbrowser
 
 def generate(mapping, nchars=100):
     """
-    Generate a sentence in tabaxan.
+    Generate a sentence in a language
 
     Parameters
     ----------
@@ -16,7 +16,7 @@ def generate(mapping, nchars=100):
     Returns
     -------
     str
-        Randomly generated tabaxan sentence
+        Randomly generated sentence
     """
 
     # string to store script
@@ -54,7 +54,7 @@ def generate(mapping, nchars=100):
 
 def translate(mapping, ipa):
     """
-    Translate IPA into tabaxan
+    Translate IPA into a language
 
     Parameters
     ----------
@@ -65,7 +65,7 @@ def translate(mapping, ipa):
     """
 
     # start off with nothing
-    tabaxan = ""
+    script = ""
     # translate each letter
     for phoneme in ipa:
         # get character (or ?) from mappings
@@ -74,9 +74,9 @@ def translate(mapping, ipa):
         else:
             char = "?"
         # add it to string
-        tabaxan += char
+        script += char
     
-    return tabaxan
+    return script
 
 # --- Define languages ---
 # values in the format:
@@ -104,15 +104,33 @@ tabaxan = {
     'a': ("v", 10, "𐎓"),
 }
 
+loxan = {
+    ' ': ("p", 48, " ૉ "),
+    # consonants
+    'ʒ': ("c", 8, "હ"),
+    'b': ("c", 12, "જ"),
+    'ʈ': ("c", 10, "ય"),
+    'p': ("c", 12, "ર"),
+    'ɖ': ("c", 8, "પ"),
+    'ʃ': ("c", 8, "ત"),
+    'v': ("c", 14, "ટ"),
+    'b': ("c", 16, "ળ"),
+    # vowels
+    'ə': ("v", 14,  "ઇ"),
+    'ʋ': ("v", 16, "ઉ"),
+    'ä': ("v", 16, "ઘ"),
+    'i': ("v", 10, "ખ")
+}
+
+
 if __name__ == "__main__":
-    mapping = tabaxan
+    current_mapping = loxan
     # generate sentence
-    # ipa = generate(mapping)
-    ipa = "ʀ̥isʃir nʊrɲ rɾiʃ  ʀ̥isʃaʊ lʀ̥s ɲmʊɾiʀ̥"
+    ipa = generate(current_mapping)
     # translate chars
-    script = translate(mapping, ipa)
+    script = translate(current_mapping, ipa)
     # open IPA link in browser
-    # webbrowser.open("http://ipa-reader.xyz/?text=" + ipa)
+    webbrowser.open("http://ipa-reader.xyz/?text=" + ipa)
     # print words next to pronunciation
-    for t, p in zip(ipa.split(" "), script.split(mapping[" "][-1])):
+    for t, p in zip(ipa.split(" "), script.split(current_mapping[" "][-1])):
         print(t, p)
