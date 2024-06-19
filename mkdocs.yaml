@@ -9,7 +9,7 @@ nav:
 
 hooks:
   - utils/ipa.py
-  - utils/site.py
+  - utils/links.py
 
 exclude_docs: |
   desktop.ini

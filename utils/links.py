@@ -4,10 +4,11 @@ from mkdocs import config
 from functools import partial
 
 
-site_url = "."
+site_url = "/"
+source_dir = "/"
 
 
-def substitute_root_link(match) -> str:
+def substitute_root_link(to_root: str, match: re.Match) -> str:
     """
     Make a root link (beginning with a slash) relative to the *site* root rather than the **server* root.
 
@@ -18,33 +19,10 @@ def substitute_root_link(match) -> str:
     """
     # get all groups
     label, link = match.groups()
-    # remove .md file extension
-    for ext in (".md", ".md/"):
-        if link.endswith(ext):
-            link = link[:-len(ext)]
     # construct full link
-    full_link = f"[{label}]({site_url}{link})"
+    full_link = f"[{label}]({to_root}/{link})"
 
     return full_link
-
-
-def on_pre_build(config: config.defaults.MkDocsConfig) -> None:
-    """
-    Find the homepage of the current site and store it in a global variable.
-
-    Parameters
-    ----------
-    config : config.MkDocsConfig
-        Config for the current site
-    """
-    global site_url
-    # set site url from config
-    site_url = config.site_url or ""
-    # replace any \ (Windows only) with / (accepted by Windows and Unix)
-    site_url = site_url.replace("\\", "/")
-    # make sure we finish with a /
-    if not site_url.endswith("/"):
-        site_url += "/"
 
 
 def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, files: files.File) -> str:
@@ -67,11 +45,18 @@ def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, fil
     str
         Parsed markdown text
     """
+    # construct relative path to root
+    num_back = page.file.src_uri.count("/")
+    if page.file.name != "index.md":
+        num_back += 1
+    to_root = "/".join([".."] * num_back)
+    # pre-populate substitution function with relative root string
+    repl = partial(substitute_root_link, to_root)
     # regex to find root links
     re_link = r"\[([^\]]*)\]\(\/([^\)]*)\)"
     # do substitution
     return re.sub(
         pattern=re_link,
         string=markdown, 
-        repl=substitute_root_link
+        repl=repl
     )
