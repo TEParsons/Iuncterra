@@ -52,7 +52,7 @@ def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, fil
     """
     # regex to find IPA strings
     re_ipa = r"(^|\s)\/(.*)\/($|\s)"
-    # do sections
+    # do substitution
     return re.sub(
         pattern=re_ipa,
         string=markdown, 

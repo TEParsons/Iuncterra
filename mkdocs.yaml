@@ -2,12 +2,14 @@ site_name: Iuncterra
 theme: torillic
 docs_dir: source
 site_dir: docs
+site_url: https://TEParsons.github.io/Iuncterra
 
 nav:
   - ...
 
 hooks:
   - utils/ipa.py
+  - utils/site.py
 
 exclude_docs: |
   desktop.ini
