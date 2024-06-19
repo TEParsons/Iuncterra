@@ -1,5 +1,5 @@
 # Elf
-/ɛlvz/
+/ɛlf/
 
 ![](elf.png)
 
