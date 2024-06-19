@@ -19,6 +19,10 @@ def substitute_root_link(to_root: str, match: re.Match) -> str:
     """
     # get all groups
     label, link = match.groups()
+    # remove start if link includes root folder
+    for pre in ("source/", ):
+        if link.startswith(pre):
+            link = link[len(pre):]
     # construct full link
     full_link = f"[{label}]({to_root}/{link})"
 
