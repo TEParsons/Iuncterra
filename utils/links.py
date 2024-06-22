@@ -51,7 +51,7 @@ def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, fil
     """
     # construct relative path to root
     num_back = page.file.src_uri.count("/")
-    if page.file.name != "index.md":
+    if page.file.name != "index":
         num_back += 1
     to_root = "/".join([".."] * num_back)
     # pre-populate substitution function with relative root string
