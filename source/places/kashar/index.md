@@ -31,7 +31,7 @@ The first region colonised by [elves](/lore/species/elf) during the nameless war
 
 #### Jami-Parbat
 
-![Flag of Jami-Satru](/places/kashar/Flag-Jami-Satru.png)
+![Flag of Jami-Parbat](/places/kashar/Flag-Jami-Parbat.png)
 
 This isolated mountainous region is the ancestral homeland of Kashar's [tabaxi](/lore/species/tabaxi) population. While its rocky slopes are near impossible to farm, it is excellent hunting ground and many of the Sultan's luxurious furs are sourced from this region.
 
