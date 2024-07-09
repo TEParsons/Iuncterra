@@ -11,14 +11,14 @@ The first sapient species, the [Iotun](/lore/species/iotun), begin to appear. Wi
 #### 0AD: Drace is founded
 See [Mathixa And The Dragon](/stories/mathixa_and_the_dragon).
 
-#### 2,000AD: The Nameless Wars
-The [T'Savonii](/places/tsavo) and [Dracean](/places/drace) armies carry out a combined campaign to expel the [Proto-Atkani](/places/ordo_atkan) from the eastern steppe, in order to safely establish trade routes and colonies between them. The attempt fails, and a regiment of [T'Savonii](/places/tsavo) lead by Barca Kash flee west, managing to hold out against constant raids long enough to reach the Satru mountain range. There they find a highly defensible mountain pass and construct a fort to hold off the Atkani. On further exploration west, they find a vast and fertile land, sparsely populated by [Loxodon](/lore/species/loxodon) and [Tabaxi](/lore/species/tabaxi). After sending word back to T'Savo of their discovery, the elven empire floods the region with military and settler caravans, fighting lengthy wars to subjugate the native peoples and creating what is now the [Sultanate of Kashar](/places/kashar).
-
-#### 2,200AD: Uthgar
+#### 600AD: Uthgar
 A charismatic warrior named [Uthgar](/places/uttmark/people/uthgar) unites the people of what is now Uttmark and the Northen DAR into a single polity, halting the epansion of the Dracean Empire northwards. He personally kills many of the last remaining [Deigen](/lore/cosmology/deigen) in the north, including the dragon [Draconus](/lore/cosmology/deigen/dragons/draconus). His cultural impact on the people of the region is so great that his heroic cult overtakes most deities in the proto-Uthgardt pentheon, causing his essence to manifest [as an Apotheote](/lore/cosmology/daemons/apotheotes).
 
-#### 4,000AD: Fall of Nasruk
+#### 2,400AD: Fall of Nasruk
 The prosperous human kingdom of [Nasruk](/places/nasruk), in devotion to the [Skyfather](/lore/cosmology/fey/skyfather), erect a tower taller than any sapient-made structure ever before, so tall that it pierced the clouds. This angered the sun god [Amun](/lore/cosmology/fey/amun), who saw it as a petty terrestrial fey challenging the vast powers of the galactic-level fey. Amun altered the rotation of the planet to place Nasruk at a key juncture between the planet's two suns, leading to intense drought and a total desertification of the region. Most Nasruki who did not perish during this period fled south to settle in Kashar. After this event, djinn began appearing in the desert - being born of the Skyfather's union with the fey of the region.
+
+#### 3,000AD: Kashar is founded
+The [T'Savonii](/places/tsavo) and [Dracean](/places/drace) armies carry out a combined campaign to expel the [Proto-Atkani](/places/ordo_atkan) from the eastern steppe, in order to safely establish trade routes and colonies between them. The attempt fails, and a regiment of [T'Savonii](/places/tsavo) lead by Barca Kash flee west, managing to hold out against constant raids long enough to reach the Satru mountain range. There they find a highly defensible mountain pass and construct a fort to hold off the Atkani. On further exploration west, they find a vast and fertile land, sparsely populated by [Loxodon](/lore/species/loxodon) and [Tabaxi](/lore/species/tabaxi). After sending word back to T'Savo of their discovery, the elven empire floods the region with military and settler caravans, fighting lengthy wars to subjugate the native peoples and creating what is now the [Sultanate of Kashar](/places/kashar).
 
 #### 4,700AD: Kyprite migrations
 [Dwarves](/lore/species/dwarf) from the island of [Kaiper](/places/kaiper) reach the eastern coast of Iuncterra Proper, fighting with the [Dracean](/places/drace) garrisons there to carve out several crucial niches for trading colonies.
