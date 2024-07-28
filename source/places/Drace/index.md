@@ -1,8 +1,6 @@
 # Drace
 /dreɪs/
 
-![Flag of Drace](/places/drace/Flag-Drace.png){.torillic-no-splash}
+![Flag of Drace](/places/drace/Flag-Drace.png)
 
-On the west coast of the continental bottleneck lies the seat of a once great empire, Drace. Once, thousands of years ago, the Dracean empire spanned from central [Ordo'Atkan](/places/Ordo_Atkan) to the southern borders of the great north. Those days are long forgotten however, while the Immortal Empire still exists in theory its borders now barely extend beyond the city walls.
-
-While the empire, spanning such a wide area, encompassed a wide range of cultures and species', the city of Drace is home mostly to its native people, [Dracean](/lore/species/dracean).
+On the west coast of the continental bottleneck lies the seat of a once great empire, Drace. Once, thousands of years ago, the Dracean empire spanned from [Ordo'Atkan](/places/Ordo_Atkan) to [Uttmark]. Those days are long forgotten however, while the Immortal Empire still exists in theory its borders now barely extend beyond the city walls.
