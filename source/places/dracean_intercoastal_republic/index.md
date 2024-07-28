@@ -69,7 +69,7 @@ The largest of the Noord states, Snorlund shares a border with Uttmark and is co
 ### Other
 
 #### Pyrria
-![Flag of Pyrria](Pyrria_flag.png){.torillic-no-splash}
+![Flag of Pyrria](pyrria_flag.png){.torillic-no-splash}
 
 Controls the mountain pass to the coastal Kyprite colonies to their east, deals heavily in copper.
 
