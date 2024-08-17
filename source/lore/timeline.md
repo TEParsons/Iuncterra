@@ -20,7 +20,7 @@ The prosperous human kingdom of [Nasruk](/places/nasruk), in devotion to the [Sk
 #### 3,000AD: Kashar is founded
 The [T'Savonii](/places/tsavo) and [Dracean](/places/drace) armies carry out a combined campaign to expel the [Proto-Atkani](/places/ordo_atkan) from the eastern steppe, in order to safely establish trade routes and colonies between them. The attempt fails, and a regiment of [T'Savonii](/places/tsavo) lead by Barca Kash flee west, managing to hold out against constant raids long enough to reach the Satru mountain range. There they find a highly defensible mountain pass and construct a fort to hold off the Atkani. On further exploration west, they find a vast and fertile land, sparsely populated by [Loxodon](/lore/species/loxodon) and [Tabaxi](/lore/species/tabaxi). After sending word back to T'Savo of their discovery, the elven empire floods the region with military and settler caravans, fighting lengthy wars to subjugate the native peoples and creating what is now the [Sultanate of Kashar](/places/kashar).
 
-#### 4,700AD: Kyprite migrations
+#### 4,700AD: Kyprite migrations{#4700AD}
 [Dwarves](/lore/species/dwarf) from the island of [Kaiper](/places/kaiper) reach the eastern coast of Iuncterra Proper, fighting with the [Dracean](/places/drace) garrisons there to carve out several crucial niches for trading colonies.
 
 #### 5,000AD: Collapse of the Dracean Empire
