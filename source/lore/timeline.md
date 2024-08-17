@@ -8,6 +8,9 @@ The essence of the [fey](/lore/cosmology/fey) coalesces to form the material rea
 #### 120,000PD: First Iotun
 The first sapient species, the [Iotun](/lore/species/iotun), begin to appear. With them, the first [daemons](/lore/cosmology/daemons) are born of their thoughts and feelings.
 
+#### 80,000PD: First elves
+Nymphs from the woods of [T'Savo](/places/tsavo) breed with the proto-human Iotun, resulting in a long lived people with pointed ears who would come to be known as elves.
+
 #### 0AD: Drace is founded
 See [Mathixa And The Dragon](/stories/mathixa_and_the_dragon).
 
