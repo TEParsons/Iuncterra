@@ -1,5 +1,5 @@
 # Iotun
-/aɪəʊtʌn/
+/ɪəʊtʌn/
 
 ![](iotun.png)
 
