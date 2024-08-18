@@ -1,28 +1,46 @@
 import re
+import os
 import pandas as pd
+from pathlib import Path
+from functools import partial
 from mkdocs.structure import pages, files
 from mkdocs import config
 
 
-def construct_table(match):
+def construct_table(page: pages.Page, match: re.Match):
     """
     Load in table from spec and convert it to Markdown
 
     Parameters
     ----------
+    page : pages.Page
+        MkDocs page object
     match : re.Match
         Regex match for the table
     """
     # get params from regex match
     path, ext, index = match.groups()
+    # remove starting /
+    if path.startswith("/"):
+        path = path[1:]
+    # get possible files from path
+    rel_path = Path(page.file.abs_src_path).parent / (path + ext)
+    site_path = Path(os.getcwd()) / "source" / (path + ext)
+    # use whichever one exists
+    if rel_path.is_file():
+        path = str(rel_path)
+    elif site_path.is_file():
+        path = str(site_path)
+    else:
+        raise FileNotFoundError(f"Could not find file {path + ext} as either relative ({rel_path}) or absolute ({site_path}). Current working directory is {os.getcwd()}")
     # read in data according to path
     if ext == ".xlsx":
         if index:
-            data = pd.read_excel(path + ext, sheet_name=index[1:])
+            data = pd.read_excel(path, sheet_name=index[1:])
         else:
-            data = pd.read_excel(path + ext)
+            data = pd.read_excel(path)
     elif ext in (".csv", ".tsv"):
-        data = pd.read_csv(path + ext)
+        data = pd.read_csv(path)
     else:
         raise ValueError(f"Unrecognised file type {ext}")
     # start off with blank string
@@ -75,11 +93,13 @@ def on_page_markdown(markdown: str, page: pages.Page, config: config.Config, fil
     str
         Parsed markdown text
     """
+    # pre-populate substitution function with relative root string
+    repl = partial(construct_table, page)
     # regex to find IPA strings
     re_table = r"\|(.*)(\.csv|\.tsv|\.xlsx)(:.*)?\|"
     # do substitution
     return re.sub(
         pattern=re_table,
         string=markdown, 
-        repl=construct_table
+        repl=repl
     )

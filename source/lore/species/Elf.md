@@ -3,7 +3,7 @@
 Elves originate from the woods of [T'Savo](/places/tsavo), where proto-human Iotun interbred with forest nymphs. They are delicately featured with pointed ears, most are very lithe and nimble. While long lived, they are not immortal as nymphs are.
 
 ## Ageing
-|lore/species/Aging.xlsx:Elf|
+|/lore/species/Aging.xlsx:Elf|
 
 ## Main Groups
 
