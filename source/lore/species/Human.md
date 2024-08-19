@@ -13,3 +13,6 @@ Over time, iotun evolved to adapt to differing climates, becoming smaller an wea
 #### Noordic Humans
 
 #### Kasharite Humans
+
+## Ageing
+|/lore/species/Aging.xlsx:Humans|

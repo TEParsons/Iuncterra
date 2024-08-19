@@ -7,3 +7,6 @@ Outside of the Eternal City of Drace, descendents of Draconus met and freely fel
 #### Atkani Orc
 
 #### Uthgardt Orc
+
+## Ageing
+|/lore/species/Aging.xlsx:Orc|
