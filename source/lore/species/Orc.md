@@ -2,11 +2,15 @@
 
 ![](orc.png)
 
-Outside of the Eternal City of Drace, descendents of Draconus met and freely fell in love with iotun. Over time, the differences between these two species' became less distinct, until the majority of the population outside of Drace and the iotun homelands in the North became altogether different from either ancestor species. Thus, orc came into being.
+Orc originate from the wide open planes of [Ordo'Atkan](/places/ordo-atkan), having adapted to first hunt and eventually ride horses. Even outside of their steppe homeland, horses and hunting hold a sacred significance in orcish culture. 
 
 #### Atkani Orc
+Orc of the Atkani steppe live a nomadic pastoral lifestyle, migrating every few weeks to move their herds on to greener pastures. All Atkani, from warlord to shepherd, are trained in the saddle and bow from birth. When the Great Khan issues a dudakh, *all* Atkani who are of sound body and fighting age answer the call, regardless of gender or profession.
+
+The Atkani call their way of life "the way of the open sky", and to them the cultural traditions and nomadic lifestyle of their steppe are intimately tied with worship of [Ouron Teng](/lore/cosmology/fey/Skyfather), fey of the sky, whom they venerate above all others.
 
 #### Uthgardt Orc
+Many orc who leave Ordo'Atkan choose to settle in [Uttmark](/places/uttmark), finding the nomadic lifestyle of the Uthgardt familiar. Uthgardt orc live much as Uthgardt humans do, though some continue to worship Ouron Teng alongside [Uthgar](/lore/cosmology/daemons/apotheotes/Uthgar), and orc tend more towards archery and animal husbandry other Uthgardt.
 
 ## Ageing
 |/lore/species/Aging.xlsx:Orc|
