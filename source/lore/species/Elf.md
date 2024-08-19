@@ -3,6 +3,7 @@
 Elves originate from the woods of [T'Savo](/places/tsavo), where proto-human Iotun interbred with forest nymphs. They are delicately featured with pointed ears, most are very lithe and nimble. While long lived, they are not immortal as nymphs are.
 
 #### Savonic Elves
+/sɑvɒnɪk/
 ![](elf-tsavo.png)
 
 Elves from the imperial capital tend to be somewhat disdainful of "lesser" cultures, taking great pride in the longevity and power of their empire.
