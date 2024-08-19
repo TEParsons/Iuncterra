@@ -1,7 +1,7 @@
 # Species
 Iuncterra is home to a wide variety of sapient creatures. 
 
-### Ageing
+#### Ageing
 Different species age at different rates. Taking the rate of ageing in humans as a baseline, equivalent ages of other species can be calculated by the following multipliers:
 
 |/lore/species/Aging.xlsx:Multipliers|

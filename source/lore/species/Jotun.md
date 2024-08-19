@@ -16,5 +16,5 @@ Jotun are the closest extant relatives of [iotun](iotun). While the iotun who mi
 ## Geography
 Most jotun live in the cold north of Iuncterra, scattered sparsely across small settlements. Many choose to live entirely solitary existances, meeting up only at religious festivals, or sometimes solely to have children. Most choose to live in small groups and pursue a nomadic hunter-gatherer lifestyle. More recently, in evolutionary terms at least, jotun have settled in the north east of [Ordo'Atkan](/places/Ordo_Atkan), living and hunting in the snowcapped peaks of the mountain range there.
 
-## Ageing
+### Ageing
 |/lore/species/Aging.xlsx:Jotun|
