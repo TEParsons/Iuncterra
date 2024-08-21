@@ -1,21 +1,13 @@
 # Loxodon
 /lɒksəʊdɒn/
 
-![](loxodon.png)
+Native to what is now the elven kingdom of Kashar, loxodon are the descendents of survivors from [Nasruk](/places/nasruk). In recognition of their martyrdom, the once human people were transformed in the likeness of [Ouron](/lore/cosmology/fey/ouron). Loxodon dwelt in what is now Kashar long before it was settled by elves, but have since integrated well into Kasharite society.
 
-Native to what is now the elven kingdom of Kashar, loxodon are a people with deep and rich cultural history. Loxodonic legends tell of the first loxodon being born to a fey who fell in love with one of the early ancestors of the orcish people.
+#### Nasruki Loxodon
+Some particularly hardy loxodon choose to dwell around the outskirts of the desert of Nasruk, predominantly religious fanatics who believe in the inevitable restoration of Nasruk. Nasruki loxodon live a life of devotion to Ouron and reject the Kasharite religion, which they view as heresy. Nasruki loxodon exclusively speak low Nasruki, rejecting even common as a heretical language.
 
-## Physiology
-In most respects, from the neck down, loxodon resemble [orc](Orc.md), only with elephant heads.
-
-### Variation
-...
-
-## Anthropogeny
-Loxodon did not evolve, instead they were brought into being by the [Skyfather](/lore/cosmology/fey/ouron) in His own image. The first loxodon were born as [orc](Orc.md), after enduring persecution at the hands of their then-athetistic proto-[Atkani](../../People/Atkani/Atkani.md) kin, they were blessed by the [Skyfather](/lore/cosmology/fey/ouron) with His own image and tasked with converting the heathen orc to His worship. 
-
-## Geography
-While loxodon can be found individually all over Iuncterra, the only known loxodon settlements are in their homeland of [Kashar](../../Locations/Kashar/Kashar.md).
+#### Kasharite Loxodon
+The majority of loxodon live in Kashar, mostly in Jami-Marub, integrating with little friction into Kasharite society and living much as any other Kasharite might. Loxodon in Kashar generally speak either high or low kushite, though some loxodon-specific religious rites are performed in the otherwise extinct language nasruki kushite.
 
 ### Ageing
 |/lore/species/Aging.xlsx:Loxodon|

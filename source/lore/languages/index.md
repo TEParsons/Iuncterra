@@ -17,7 +17,7 @@ proto-atkani[Proto-Atkani]
 parbati([Parbati])
 old-nasruki[Old Nasruki]
 high-nasruki[High Nasruki]
-low-nasruki[Low Nasruki]
+low-nasruki([Low Nasruki])
 loxodian([Loxodian])
 uttic([Uttic])
 jotic([Jotic])
