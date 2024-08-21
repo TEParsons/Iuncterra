@@ -2,6 +2,7 @@
 
 The graph below shows how the various languages of Iuncterra inherit from one another, all stemming from a single common language spoken by the first iotun.
 
+<div class=full-width>
 ```mermaid
 graph LR
 
