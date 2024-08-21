@@ -2,7 +2,6 @@
 
 The graph below shows how the various languages of Iuncterra inherit from one another, all stemming from a single common language spoken by the first iotun.
 
-<div class=full-width>
 ```mermaid
 graph LR
 
@@ -84,12 +83,16 @@ noordic -.-> common
 low-kushite -.-> common
 
 %% legend
-subgraph legend
+subgraph legend [Legend]
   extinct[Extinct]
   court(Formal Only)
   living([Living])
+  parent([ ])
+  child([ ])
 
-  extinct ~~~ court ~~~ living
+  extinct ~~~ court ~~~ living ~~~ parent
+  parent -->|descent| child
+  parent -.->|influence| child
 end
 
 ```
