@@ -10,6 +10,7 @@ graph LR
 tunnic[Tunnic]
 unthic[Unthic]
 garic[Garic]
+ataithan([Ataithan])
 proto-dracean[Proto-Dracean]
 proto-savonic[Proto-Savonic]
 proto-atkani[Proto-Atkani]
@@ -17,6 +18,7 @@ parbati([Parbati])
 old-nasruki[Old Nasruki]
 high-nasruki[High Nasruki]
 low-nasruki[Low Nasruki]
+loxodian([Loxodian])
 uttic([Uttic])
 jotic([Jotic])
 atkani([Atkani])
@@ -36,7 +38,6 @@ low-kushite([Low Kushite])
 parbati-kushite([Parbati Kushite])
 nasruki-kushite(Nasruki Kushite)
 common([Common])
-ataithan([Ataithan])
 
 %% define relations
 tunnic --> unthic
@@ -75,6 +76,7 @@ parbati --> old-nasruki
 old-nasruki --> high-nasruki
 old-nasruki --> low-nasruki
 high-nasruki --> nasruki-kushite
+low-nasruki --> loxodian
 
 garic --> ataithan
 
