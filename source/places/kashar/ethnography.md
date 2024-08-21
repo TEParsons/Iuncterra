@@ -18,7 +18,7 @@ Elves are the dominant hegemonic force within Kashar. The Kash dynasty is an elv
 
 Loxodon are the pre-colonial people of Kashar, who came into being as a [godtouched](/lore/species/godtouched) species in what is now [Jami-Marub](/places/kashar/geography#jami-marub) (then called Loxor). This area still remains a majority Loxodon area, with the remaining population consisting mostly of humans from the noth and elves from the rest of the Sultanate.
 
-Despite their appearance stemming from the devotion of ancient Loxodon to the [Ouron Teng](lore/cosmology/fey/skyfather), most Loxodon now practice the Kasharite faith. After the annexation of Loxor into Kashar, the incoming Kash rulers converted temples and sacred sites from the old faith into centers of worship for the Sacred Flame, converting the conquered Loxodon and recruiting them as clergy. Because of their proximity to major temple infrastructure, many Loxodon in the modern era continue to serve as clergy, including [Brahman Pranja](/places/kashar/people/pranja)
+Despite their appearance stemming from the devotion of ancient Loxodon to the [Ouron Teng](lore/cosmology/fey/ouron), most Loxodon now practice the Kasharite faith. After the annexation of Loxor into Kashar, the incoming Kash rulers converted temples and sacred sites from the old faith into centers of worship for the Sacred Flame, converting the conquered Loxodon and recruiting them as clergy. Because of their proximity to major temple infrastructure, many Loxodon in the modern era continue to serve as clergy, including [Brahman Pranja](/places/kashar/people/pranja)
 
 #### Humans
 ![Yapmak Pasha, hussar commander](people/Yapmak.png)

@@ -12,7 +12,7 @@ In most respects, from the neck down, loxodon resemble [orc](Orc.md), only with 
 ...
 
 ## Anthropogeny
-Loxodon did not evolve, instead they were brought into being by the [Skyfather](../../Cosmology/Fey/Skyfather.md) in His own image. The first loxodon were born as [orc](Orc.md), after enduring persecution at the hands of their then-athetistic proto-[Atkani](../../People/Atkani/Atkani.md) kin, they were blessed by the [Skyfather](../../Cosmology/Fey/Skyfather.md) with His own image and tasked with converting the heathen orc to His worship. 
+Loxodon did not evolve, instead they were brought into being by the [Skyfather](/lore/cosmology/fey/ouron) in His own image. The first loxodon were born as [orc](Orc.md), after enduring persecution at the hands of their then-athetistic proto-[Atkani](../../People/Atkani/Atkani.md) kin, they were blessed by the [Skyfather](/lore/cosmology/fey/ouron) with His own image and tasked with converting the heathen orc to His worship. 
 
 ## Geography
 While loxodon can be found individually all over Iuncterra, the only known loxodon settlements are in their homeland of [Kashar](../../Locations/Kashar/Kashar.md).
