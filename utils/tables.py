@@ -34,8 +34,8 @@ def construct_table(page: pages.Page, match: re.Match):
         path = str(site_path)
     else:
         logging.error(
-            f"Could not find file {path + ext} as either relative ({rel_path}) or absolute 
-            ({site_path}). Current working directory is {os.getcwd()}"
+            f"Could not find file {path + ext} as either relative ({rel_path}) or absolute "
+            f"({site_path}). Current working directory is {os.getcwd()}"
         )
         return path + ext + index
     # read in data according to path
