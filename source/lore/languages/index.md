@@ -18,7 +18,7 @@ parbati([Parbati])
 old-nasruki[Old Nasruki]
 high-nasruki[High Nasruki]
 low-nasruki([Low Nasruki])
-loxodian([Loxodian])
+loxan([Loxan])
 uttic([Uttic])
 jotic([Jotic])
 atkani([Atkani])
@@ -76,7 +76,7 @@ parbati --> old-nasruki
 old-nasruki --> high-nasruki
 old-nasruki --> low-nasruki
 high-nasruki --> nasruki-kushite
-low-nasruki --> loxodian
+low-nasruki --> loxan
 
 garic --> ataithan
 
