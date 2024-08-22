@@ -1,4 +1,18 @@
-# Tabax
+# Parbati languages
+
+The languages spoken in the Parbati mountain range are unique to the tabaxi peoples, with a heavily feline phonology and written forms traditionally scratched onto wood tablets by claws.
+
+## Parbati
+
+The historic language of the tabaxi peoples and ancestor language to modern Tabax, Parbati is now spoken only in Nascut Deia.
+
+## Tabax
+The modern language of the tabaxi peoples, Tabax is spoken in:
+
+- [Parbatia](/places/dracean_intercoastal_republic#parbatia)
+- [Jami-Parbat](/places/kashar#jami-parbat)
+- Nascut Deia
+- Coastal tabaxi settlements
 
 ### Phonology
 
@@ -29,5 +43,6 @@
 **Pronunciation** /ʀ̥isʃir nʊrɲ rɾiʃ, ʀ̥isʃaʊ lʀ̥s ɲmʊɾiʀ̥/
 **Literal Translation** *"Hand-patient feeds self, hand-impatient starves community-whole"*
 
-
+## Scutian
+Something of a creole, the Scutian language was born out of necessity - blending aspects of Tabax with Low Dracean to create a useful trade language used across the southern DIR.
 

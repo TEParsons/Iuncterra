@@ -11,12 +11,16 @@ Orc of the Atkani steppe live a nomadic pastoral lifestyle, migrating every few 
 
 The Atkani call their way of life "the way of the open sky", and to them the cultural traditions and nomadic lifestyle of their steppe are intimately tied with worship of [Ouron Teng](/lore/cosmology/fey/ouron), fey of the sky, whom they venerate above all others.
 
+Languages: Atkani, Common
+
 #### Uthgardt Orc
 /ʊθɡɑdt/
 
 ![](orc-uthgardt.png)
 
 Many orc who leave Ordo'Atkan choose to settle in [Uttmark](/places/uttmark), finding the nomadic lifestyle of the Uthgardt familiar. Uthgardt orc live much as Uthgardt humans do, though some continue to worship Ouron Teng alongside [Uthgar](/lore/cosmology/daemons/apotheotes/Uthgar), and orc tend more towards archery and animal husbandry other Uthgardt.
+
+Languages: Uttic
 
 ### Ageing
 |/lore/species/Aging.xlsx:Orc|

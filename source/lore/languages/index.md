@@ -70,6 +70,7 @@ old-kushite -.-> nasruki-kushite
 
 garic --> parbati
 parbati --> scutian
+low-dracean -.-> scutian
 parbati --> tabax
 tabax -.-> parbati-kushite
 parbati --> old-nasruki
@@ -84,6 +85,7 @@ low-dracean --> common
 low-savonic -.-> common
 noordic -.-> common
 low-kushite -.-> common
+scutian -.-> common
 
 %% legend
 subgraph legend [Legend]
