@@ -1,5 +1,6 @@
 import re
 import os
+import logging
 import pandas as pd
 from pathlib import Path
 from functools import partial
@@ -32,7 +33,11 @@ def construct_table(page: pages.Page, match: re.Match):
     elif site_path.is_file():
         path = str(site_path)
     else:
-        raise FileNotFoundError(f"Could not find file {path + ext} as either relative ({rel_path}) or absolute ({site_path}). Current working directory is {os.getcwd()}")
+        logging.error(
+            f"Could not find file {path + ext} as either relative ({rel_path}) or absolute 
+            ({site_path}). Current working directory is {os.getcwd()}"
+        )
+        return path + ext + index
     # read in data according to path
     if ext == ".xlsx":
         if index:
@@ -42,7 +47,8 @@ def construct_table(page: pages.Page, match: re.Match):
     elif ext in (".csv", ".tsv"):
         data = pd.read_csv(path)
     else:
-        raise ValueError(f"Unrecognised file type {ext}")
+        logging.error(f"Unrecognised file type {ext}")
+        return path + ext + index
     # start off with blank string
     content = ""
     # make header
