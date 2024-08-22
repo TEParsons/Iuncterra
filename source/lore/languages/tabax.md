@@ -4,15 +4,15 @@
 
 #### Consonants
 
-|tabax.xlsx:Consonants|
+|Tabax.xlsx:Consonants|
 
 #### Vowels
 
-|tabax.xlsx:Vowels|
+|Tabax.xlsx:Vowels|
 
 #### Punctuation
 
-|tabax.xlsx:Punctuation|
+|Tabax.xlsx:Punctuation|
 
 ### Examples
 
