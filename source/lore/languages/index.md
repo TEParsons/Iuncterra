@@ -22,6 +22,7 @@ loxan([Loxan])
 uttic([Uttic])
 jotic([Jotic])
 atkani([Atkani])
+jotun-atkani([Jotun-Atkani])
 noordic([Noordic])
 proto-servian[Proto-Servian]
 servian([Servian])
@@ -47,6 +48,8 @@ unthic --> uttic
 unthic --> proto-atkani
 uttic --> noordic
 proto-atkani --> atkani
+proto-atkani --> jotun-atkani
+jotic -.-> jotun-atkani
 
 tunnic --> garic
 
