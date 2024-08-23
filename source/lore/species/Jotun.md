@@ -1,20 +1,21 @@
 # Jotun
 /jəʊtʌn/
+The closest living relatives of the [Iotun](iotun.md) of old, the Jotun are by far the largest sapients on Iuncterra, standing between 8 and 10 feet tall. Generally preferring mountainous landscapes, Jotun tend to live in solitary homesteads or sometimes small villages. 
 
-![](jotun.png)
-## Physiology
-Jotun are noticeably larger than other hominids, standing anywhere between 8 and 10 feet tall. They have tough skin
+#### Veldspine Jotun
+![](jotun-veldspine.png)
 
-### Variation
-Between different regions, jotun differ wildly in skin colour. Those in the cold North are generally shades of light purple or blue, while those who migrated south to Feldsheaf developed a vivid orange colouration.
+Most Jotun in the world, which is only a few hundred, live in the Veldspine mountains. The Jotun of the mountains lead purely hunter gatherer lifestyle, subsisting predominantly on meat, nuts and berries. The main event in the Veldspine Jotun calendar is the dranamh, a tradition dating back to the Iotun age in which Jotun from across the mountains meet to roast and grind hazelnuts for flour, partaking in feasting and drinking long into the night. During this time, oathes are sworn, alliances forged, feuds settled - all in a single night, before returning to solitary lives in the mountains for another year.
 
-Male and female jotun also differ in terms of hair growth. Similar to [dwarves](dwarf), female and male jotun can both grow facial hair, but female jotun don't develop any hair around their mouths and chins, sporting a "mutton chops" look when their hair grows out. Similar to [orc](orc), neither male nor female jotun can grow hair on their top lip.
+#### Uthgardt Jotun
+![](jotun-uthgardt.png)
 
-## Anthropogeny
-Jotun are the closest extant relatives of [iotun](iotun). While the iotun who migrated south became smaller and lost the hardy disposition of their ancestors, an evolutionary tradeoff for a smaller apetite better suited to large-scale agriculture, those who remained in the cold North retained these traits and became the modern species of jotun.
+Some Jotun choose to come down from the mountains and live among the Uthgardt. They often do so for relgious reasons, having heard tell of the deeds of Uthgar and chosen to convert. Most choose to live among the more militaristic tribes, like the Grey Wolf and Red Tiger tribes.
 
-## Geography
-Most jotun live in the cold north of Iuncterra, scattered sparsely across small settlements. Many choose to live entirely solitary existances, meeting up only at religious festivals, or sometimes solely to have children. Most choose to live in small groups and pursue a nomadic hunter-gatherer lifestyle. More recently, in evolutionary terms at least, jotun have settled in the north east of [Ordo'Atkan](/places/Ordo_Atkan), living and hunting in the snowcapped peaks of the mountain range there.
+#### Atkani Jotun
+![alt text](jotun-atkani.png)
+
+In times long forgotten, some Jotun travelled down from the mountains and somehow made it as far south as [Ordo'Atkan](/places/Ordo_Atkan). There their descendents live to this day, hunting and raising horses in the far northeast of the steppe, making their homes among the mountains there. Having been long separate from their northern kin, Atkani Jotun look noticeably different - while Jotun of the north tend to have blue, purple, grey or ashen white skin, Jotun of the south have bright orange, yellow and red skin and hair which extends far down their backs. Over the centuries, they have taken up pastoralist cultures and have selectively bread horses for size. Atkani Jotun horses can rival elk in size, and when ridden into battle they are a fearsome sight.
 
 ### Ageing
 |/lore/species/Aging.xlsx:Jotun|
