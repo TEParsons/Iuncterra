@@ -13,7 +13,7 @@ garic[Garic]
 ataithan([Ataithan])
 proto-dracean[Proto-Dracean]
 proto-savonic[Proto-Savonic]
-proto-atkani[Proto-Atkani]
+yamn[Yamn]
 parbati([Parbati])
 old-nasruki[Old Nasruki]
 high-nasruki[High Nasruki]
@@ -24,7 +24,7 @@ jotic([Jotic])
 atkani([Atkani])
 jotun-atkani([Jotun-Atkani])
 noordic([Noordic])
-proto-servian[Proto-Servian]
+salean[Salean]
 servian([Servian])
 kypritic([Kypritic])
 high-dracean([High Dracean])
@@ -45,18 +45,18 @@ tunnic --> unthic
 
 unthic --> jotic
 unthic --> uttic
-unthic --> proto-atkani
+unthic --> yamn
 uttic --> noordic
-proto-atkani --> atkani
-proto-atkani --> jotun-atkani
+yamn --> atkani
+yamn --> jotun-atkani
 jotic -.-> jotun-atkani
 
 tunnic --> garic
 
 garic --> proto-dracean
-proto-dracean --> proto-servian
-proto-servian --> servian
-proto-servian --> kypritic
+proto-dracean --> salean
+salean --> servian
+salean --> kypritic
 proto-dracean --> high-dracean
 high-dracean --> low-dracean
 servian -.-> low-dracean
