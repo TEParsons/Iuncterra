@@ -4,5 +4,6 @@ Common is spoken most everywhere in Iuncterra. During the Dracean imperiod perio
 
 Common is spoken almost everywhere, with a few notable exceptions:
 - The desert dwellers of [Nasruk](/places/nasruk) refuse to learn Common as a matter of religious dogma
-- The tabaxi of [/places/nascut-deia] have little use for Common owing to their reclusive lifestyle
-- The halflings of [/places/ataitha], having yet to make contact with Iuncterra proper, have not yet been introduced to Common
+- The tabaxi of [Nascut Deia](/places/nascut-deia) have little use for Common owing to their reclusive lifestyle
+- The halflings of [Ataitha](/places/ataitha), having yet to make contact with Iuncterra proper, have not yet been introduced to Common
+- The wood elves of [T'Savo](/places/tsavo) do not speak common, most speaking only [High Savonic](/lore/languages/savonic#high-savonic)

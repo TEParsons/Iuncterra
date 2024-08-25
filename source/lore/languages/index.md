@@ -36,7 +36,6 @@ low-savonic([Low Savonic])
 old-kushite[Old Kushite]
 high-kushite([High Kushite])
 low-kushite([Low Kushite])
-parbati-kushite([Parbati Kushite])
 nasruki-kushite(Nasruki Kushite)
 common([Common])
 
@@ -69,14 +68,12 @@ proto-savonic --> low-savonic
 proto-savonic --> old-kushite
 old-kushite --> high-kushite
 old-kushite --> low-kushite
-low-kushite --> parbati-kushite
 old-kushite -.-> nasruki-kushite
 
 garic --> parbati
 parbati --> scutian
 proto-dracean -.-> scutian
 parbati --> tabax
-tabax -.-> parbati-kushite
 parbati --> old-nasruki
 old-nasruki --> high-nasruki
 old-nasruki --> low-nasruki

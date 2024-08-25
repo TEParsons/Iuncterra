@@ -14,6 +14,9 @@ The modern language of the tabaxi peoples, Tabax is spoken in:
 - Nascut Deia
 - Coastal tabaxi settlements
 
+## Scutian
+Something of a creole, the Scutian language was born out of necessity - blending aspects of Tabax with Low Dracean to create a useful trade language used across the southern DIR. Scutian can be written in either the Parbati or Dracean alphabet.
+
 ### Phonology
 
 #### Consonants
@@ -42,7 +45,4 @@ The modern language of the tabaxi peoples, Tabax is spoken in:
 
 **Pronunciation** /ʀ̥isʃir nʊrɲ rɾiʃ, ʀ̥isʃaʊ lʀ̥s ɲmʊɾiʀ̥/
 **Literal Translation** *"Hand-patient feeds self, hand-impatient starves community-whole"*
-
-## Scutian
-Something of a creole, the Scutian language was born out of necessity - blending aspects of Tabax with Low Dracean to create a useful trade language used across the southern DIR.
 
