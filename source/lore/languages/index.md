@@ -4,7 +4,10 @@ The graph below shows how the various languages of Iuncterra inherit from one an
 
 <div class=full-width>
 ```mermaid
-graph LR
+---
+title: Pylogenic Tree of the Languages of Iuncterra
+---
+flowchart LR
 
 %% define nodes
 tunnic[Tunnic]
