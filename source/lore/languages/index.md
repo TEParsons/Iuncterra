@@ -72,7 +72,7 @@ old-kushite -.-> nasruki-kushite
 
 garic --> parbati
 parbati --> scutian
-proto-dracean -.-> scutian
+salean -.-> scutian
 parbati --> tabax
 parbati --> old-nasruki
 old-nasruki --> high-nasruki
