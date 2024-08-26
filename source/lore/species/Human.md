@@ -1,8 +1,9 @@
 # Human
 
 The most diverse and widespread of sapient peoples, humans can be found most everywhere. They are recognisable by their rounded ears.
+{: .full-width}
 
-### Cultures
+## Cultures
 
 #### Dracean Humans
 
@@ -58,5 +59,5 @@ The humans of the cold north are a hardy and warlike bunch, worshipping the deif
 
 Humans have been a crucial part of Kashar since its foundation, as many of the initial Savonic colonies came with allied Dracean colonists aboard. While theoretically a lower caste than elves, humans are not limited in the offices they can fill (as Loxodon and Tabaxi are) and in day to day life are as proud as Kasharite elves.
 
-### Ageing
+## Ageing
 |/lore/species/Aging.xlsx:Human|

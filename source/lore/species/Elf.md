@@ -1,8 +1,9 @@
 # Elf
 
 Elves originate from the woods of [T'Savo](/places/tsavo), where proto-human Iotun interbred with forest nymphs. They are delicately featured with pointed ears, most are very lithe and nimble. While long lived, they are not immortal as nymphs are.
+{: .full-width}
 
-### Cultures
+## Cultures
 
 #### Savonic Elves
 /sɑvɒnɪk/
@@ -32,5 +33,5 @@ Elves of the Kasharite Sultanate are long removed from their Savonic kin, separa
 
 Elves from the heavily forested south of [T'Savo](/places/tsavo) are a mysterious people, even to their Savonic kin little is known of their ways. They are hostile to most outsiders, but especially to imperials - viewing them as traitors to their nymphic heritage.
 
-### Ageing
+## Ageing
 |/lore/species/Aging.xlsx:Elf|

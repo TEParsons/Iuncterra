@@ -4,6 +4,9 @@
 ![](iotun.png)
 
 Sometimes known simply as "The First People", these giants were the parent species of all homonids in Iuncterra. Iotun are long since exinct, having been superceded by the various sapients descending from them.
+{: .full-width}
+
+## Cultures
 
 #### Tunnic
 ![](iotun-tunnic.png)
@@ -23,5 +26,5 @@ The earliest iotun pastoralists, the acestors of modern orc. Yamni descended fro
 #### Proto-Savonii
 Salean settlers who braved the hostile Yamn to travel south reached a land of dense forests, well suited to the hunter gatherer lifestyle of iotun. There they settled and become deeply invested in the lore of trees, eventually coupling with local [nymphs](/lore/cosmology/deigen/nymph) to create modern day elves.
 
-### Ageing
+## Ageing
 |/lore/species/Aging.xlsx:Iotun|
