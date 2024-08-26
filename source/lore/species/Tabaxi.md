@@ -36,7 +36,7 @@ Acting as something of a trade buffer between the rest of the [DIR](/places/drac
 > **Languages** [Tabax](/lore/languages/parbati#tabax), [Low Kushite](/lore/languages/kushite#low-kushite), [Common](/lore/languages/common)
 > **Accent** [🗣️](https://www.dialectsarchive.com/turkey-3)
 
-Tabaxi in Kashar are an oppressed group, with Jami-Parbat often denied support given to the other provinces of Kashar. Being separated from coastal tabaxi by the Parbat mountain range, Kasharite tabaxi are more a culture unto themselves, blending elements of Kasharite culture with more traditional tabaxi practices. They also differ greatly in appearance from other tabaxi, with much shorter and thinner fur, having adapted to the hotter climate of Kashar.
+Tabaxi in Kashar are an oppressed group, with Tabaxi settlements often denied support given to the other provinces of Kashar. They live mostly in the mountainous region of [Jami-Parbat](/places/kashar/geography#jami-parbat), trading furs and skins via the nominal (and heavily taxed) access the Kash state grants them to the ports of [Jami-Sonna](/places/kashar/geography#jami-sonna). Being separated from coastal tabaxi by the Parbat mountain range, Kasharite tabaxi are more a culture unto themselves, blending elements of Kasharite culture with more traditional tabaxi practices. They also differ greatly in appearance from other tabaxi, with much shorter and thinner fur, having adapted to the hotter climate of Kashar.
 
 ## Ageing
 |/lore/species/Aging.xlsx:Tabaxi|

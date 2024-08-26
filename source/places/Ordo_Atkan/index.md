@@ -1,8 +1,7 @@
 # Ordo'Atkan
 /ɔdəʊ ætkɑn/
 
-
-East of [Kashar](../Kashar/Kashar.md) lies a land of wide open planes where the nomadic Atkani people roam. The Atkani are primarily and historically Orcish, but the horde considers anyone who lives by the "Way Of The Open Sky" to be equally of their people, regardless of species.
+East of [Kashar](/places/kashar) lies a land of wide open planes where the nomadic Atkani people roam. The Atkani are primarily and historically Orcish, but the horde considers anyone who lives by the "Way Of The Open Sky" to be equally of their people, regardless of species. Ordo'Atkan is a Khanate, ruled by an absolute leader whose position is enforced based on their personal strength and prowess in battle. The current khan is [Olon Sum](../../People/Atkani/Olon%20Sum.md).
 
 ### Notable Figures
-- [Olon Sum](../../People/Atkani/Olon%20Sum.md)
+- [Olon Sum](people/olon_sum.md)

@@ -1,3 +1,0 @@
-# Economy
-
-Kashar is one of the major world producers of food, owing to the predictable flood patterns of the river Jibana, making [Jami-Urbara](/places/kashar/geography#jami-urbara). Though blocked from establishing trade routes to the east by [Atkani](places/ordo_atkan) raiding parties, Kashar exports tremendous amounts of food by sea through its ports in [Jami-Sonna](/places/kashar/geography#jami-sonna)

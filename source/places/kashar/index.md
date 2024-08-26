@@ -3,9 +3,13 @@
 
 ![Flag of Kashar](/places/kashar/Flag-Kashar.png){.torillic-no-splash}
 
-The Kashar Sultanate is a major power in the southern continent, ruling over a vast area rich in spices, precious metals and fine silks. The ruling family of Kashar are the Kash dynasty, an elven family whose rule dates back over 10,000 years. 
+The Kashar Sultanate is a major power in the southern continent, ruling over a vast area rich in spices, precious metals and fine silks. The ruling family of Kashar are the Kash dynasty, an elven family whose rule dates back to the nation's foundation.
 
-## Geography
+### Economy
+
+Kashar is one of the major world producers of food, owing to the predictable flood patterns of the river Jibana, making [Jami-Urbara](/places/kashar/geography#jami-urbara). Though blocked from establishing trade routes to the east by [Atkani](places/ordo_atkan) raiding parties, Kashar exports tremendous amounts of food by sea through its ports in [Jami-Sonna](/places/kashar/geography#jami-sonna)
+
+### Geography
 
 Kashar is built around the mouth of the river Jibana, sandwiched between the Parbat mountain range marking the southern border of a great desert, and the Satru mountains marking the western borders of [Ordo'Atkan](/places/Ordo_Atkan).
 
