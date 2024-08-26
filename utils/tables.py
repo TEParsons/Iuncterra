@@ -39,16 +39,22 @@ def construct_table(page: pages.Page, match: re.Match):
         )
         return path + ext + index
     # read in data according to path
-    if ext == ".xlsx":
-        if index:
-            data = pd.read_excel(path, sheet_name=index[1:])
+    try:
+        if ext == ".xlsx":
+            if index:
+                data = pd.read_excel(path, sheet_name=index[1:])
+            else:
+                data = pd.read_excel(path)
+        elif ext in (".csv", ".tsv"):
+            data = pd.read_csv(path)
         else:
-            data = pd.read_excel(path)
-    elif ext in (".csv", ".tsv"):
-        data = pd.read_csv(path)
-    else:
-        logging.error(f"Unrecognised file type {ext}")
-        return path + ext + index
+            logging.error(f"Unrecognised file type {ext}")
+            return path + ext + index
+    except Exception as err:
+        logging.error(
+            f"Failed to load table. Reason:\n"
+            f"{err}"
+        )
     # start off with blank string
     content = ""
     # make header
