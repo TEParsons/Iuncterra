@@ -7,6 +7,9 @@ site_url: https://TEParsons.github.io/Iuncterra
 nav:
   - ...
 
+extra_css:
+  - utils/extra.css
+
 hooks:
   - utils/ipa.py
   - utils/links.py
