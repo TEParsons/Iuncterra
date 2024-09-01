@@ -3,7 +3,7 @@
 Dwarves originate from the copper-rich island of [Kaiper](/places/kaiper), having evolved in isolation under the benevolent eye of the copper dragon [Kypra](/lore/cosmology/deigen/dragons/kypra). They are small in stature, but thick muscled and very strong. In [4700AD](/lore/timeline#4700AD), the first Kaiprite ships touched down on the eastern coast of Iuncterra proper.
 {: .full-width}
 
-## Cultures
+### Cultures
 
 #### Kaiprite Dwarves
 /kaɪpraɪt/
@@ -34,7 +34,7 @@ Mainland dwarves, descendants of those who first sailed from Kaiper and settled 
 
 Characterised by comparatively light skin and a more grim demeanour, the dwarves of the Veldspine mountains differ greatly from their more southerly kin. Having left the coastal mercantile settlements in search of riches in the cold North mountains, their isolated lifestyle make them a somewhat dour and serious folk.
 
-## Ageing
+### Ageing
 |/lore/species/Aging.xlsx:Dwarf|
 
 

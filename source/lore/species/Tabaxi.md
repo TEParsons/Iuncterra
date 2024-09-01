@@ -4,7 +4,7 @@
 Deep in the Parbat mountains, shrouded by an otherworldly mist, lies the valley of Nascut Deia, land of the chosen people [Deia](/lore/cosmology/fey/deia), carers of the sacred tree. Once, Tabaxi were like [elves](/lore/species/elf) in appearance, but as recognition of their service to Deia, She blessed them with her own visage. Tabaxi can now be found all around the Parbat mountain range. Though all hold a unique fondness for the natural world, many live metropolitan lives.
 {: .full-width}
 
-## Cultures
+### Cultures
 
 #### Nascuti Tabaxi
 ![](tabaxi-nascuti.png)
@@ -38,5 +38,5 @@ Acting as something of a trade buffer between the rest of the [DIR](/places/drac
 
 Tabaxi in Kashar are an oppressed group, with Tabaxi settlements often denied support given to the other provinces of Kashar. They live mostly in the mountainous region of [Jami-Parbat](/places/kashar/geography#jami-parbat), trading furs and skins via the nominal (and heavily taxed) access the Kash state grants them to the ports of [Jami-Sonna](/places/kashar/geography#jami-sonna). Being separated from coastal tabaxi by the Parbat mountain range, Kasharite tabaxi are more a culture unto themselves, blending elements of Kasharite culture with more traditional tabaxi practices. They also differ greatly in appearance from other tabaxi, with much shorter and thinner fur, having adapted to the hotter climate of Kashar.
 
-## Ageing
+### Ageing
 |/lore/species/Aging.xlsx:Tabaxi|

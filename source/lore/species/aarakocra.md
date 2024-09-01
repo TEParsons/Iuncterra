@@ -10,6 +10,6 @@ The cosen people of [Hermet](/lore/cosmology/daemons/seraphim/hermet), Aarakocra
 
 Being so close to Ataitha, Aarakocra are quite familiar with halflings (unlike the rest of Iuncterra), but not wanting to introduce the war and greed of the mainland to their peaceful and hedonic culture the first aarakocra vowed to [Ludonysos](/lore/cosmology/daemons/Seraphim/ludonysos) that neither they nor any of their kind would reveal the existance of the halflings to the rest of the world.
 
-## Ageing
+### Ageing
 
 |Aging.xlsx:Aarakocra|

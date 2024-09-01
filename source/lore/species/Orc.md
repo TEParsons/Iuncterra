@@ -3,7 +3,7 @@
 Orc originate from the wide open planes of [Ordo'Atkan](/places/ordo-atkan), having adapted to first hunt and eventually ride horses. Even outside of their steppe homeland, horses and hunting hold a sacred significance in orcish culture. 
 {: .full-width}
 
-## Cultures
+### Cultures
 
 #### Atkani Orc
 /ætkɑni/
@@ -27,5 +27,5 @@ The Atkani call their way of life "the way of the open sky", and to them the cul
 
 Many orc who leave Ordo'Atkan choose to settle in [Uttmark](/places/uttmark), finding the nomadic lifestyle of the Uthgardt familiar. Uthgardt orc live much as Uthgardt humans do, though some continue to worship Ouron Teng alongside [Uthgar](/lore/cosmology/daemons/apotheotes/Uthgar), and orc tend more towards archery and animal husbandry other Uthgardt.
 
-## Ageing
+### Ageing
 |/lore/species/Aging.xlsx:Orc|
