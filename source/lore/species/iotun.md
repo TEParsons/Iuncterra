@@ -27,4 +27,4 @@ The earliest iotun pastoralists, the acestors of modern orc. Yamni descended fro
 Salean settlers who braved the hostile Yamn to travel south reached a land of dense forests, well suited to the hunter gatherer lifestyle of iotun. There they settled and become deeply invested in the lore of trees, eventually coupling with local [nymphs](/lore/cosmology/deigen/nymph) to create modern day elves.
 
 ### Ageing
-|/lore/species/Aging.xlsx:Iotun|
+|/lore/species/aging.xlsx:Iotun|

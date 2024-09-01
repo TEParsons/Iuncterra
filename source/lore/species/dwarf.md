@@ -35,6 +35,6 @@ Mainland dwarves, descendants of those who first sailed from Kaiper and settled 
 Characterised by comparatively light skin and a more grim demeanour, the dwarves of the Veldspine mountains differ greatly from their more southerly kin. Having left the coastal mercantile settlements in search of riches in the cold North mountains, their isolated lifestyle make them a somewhat dour and serious folk.
 
 ### Ageing
-|/lore/species/Aging.xlsx:Dwarf|
+|/lore/species/aging.xlsx:Dwarf|
 
 

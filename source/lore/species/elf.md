@@ -34,4 +34,4 @@ Elves of the Kasharite Sultanate are long removed from their Savonic kin, separa
 Elves from the heavily forested south of [T'Savo](/places/tsavo) are a mysterious people, even to their Savonic kin little is known of their ways. They are hostile to most outsiders, but especially to imperials - viewing them as traitors to their nymphic heritage.
 
 ### Ageing
-|/lore/species/Aging.xlsx:Elf|
+|/lore/species/aging.xlsx:Elf|

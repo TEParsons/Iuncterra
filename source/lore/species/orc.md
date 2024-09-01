@@ -28,4 +28,4 @@ The Atkani call their way of life "the way of the open sky", and to them the cul
 Many orc who leave Ordo'Atkan choose to settle in [Uttmark](/places/uttmark), finding the nomadic lifestyle of the Uthgardt familiar. Uthgardt orc live much as Uthgardt humans do, though some continue to worship Ouron Teng alongside [Uthgar](/lore/cosmology/daemons/apotheotes/Uthgar), and orc tend more towards archery and animal husbandry other Uthgardt.
 
 ### Ageing
-|/lore/species/Aging.xlsx:Orc|
+|/lore/species/aging.xlsx:Orc|
