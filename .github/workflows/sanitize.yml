@@ -13,7 +13,8 @@ jobs:
       with:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Sanitize
-      run: "utils/sanitize.py"
+      run: |
+        python "utils/sanitize.py"
     - name: Commit
       run: |
         git config --global user.email "todd.e.parsons@googlemail.com"
