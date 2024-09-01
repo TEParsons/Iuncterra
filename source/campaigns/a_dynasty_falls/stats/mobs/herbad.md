@@ -1,7 +1,7 @@
 # Herbad
 Qualified keeper of the sacred flame. Master of martial arts and dedicated religious zealot.
 
-![](../../../../_assets/mobs/Herbad.png)
+![](../../../../_assets/mobs/herbad.png)
 
 > **Armour Class** 16
 > **Hit Points** 38 (6d8 + 11)

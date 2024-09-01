@@ -3,9 +3,9 @@
 [![Olon Sum](OlonSumKhan.png)](https://www.heroforge.com/load_config%3D33944133/)
 
 > **Pronouns** he/him
-> **Species** [Orc](../../Species/Homonid/Orc.md)
-> **[Age](../../Species/Ageing.md)** ...
-> **Affiliations** [Ordo'Atkan](../../Locations/Ordo'Atkan/Ordo'Atkan.md)
+> **Species** [Orc](../../species/homonid/orc)
+> **[Age](../../species/ageing)** ...
+> **Affiliations** [Ordo'Atkan](../../locations/ordo'Atkan/ordo_atkan)
 
 #### Ideals
 Olon Sum lives by the Way Of The Open Sky. He values strength and stoic honour, viewing settled metropolitanism as a degeneracy.

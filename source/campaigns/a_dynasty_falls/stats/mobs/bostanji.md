@@ -1,7 +1,7 @@
 # Bostanji
 Domestic palace guards. Not as formidable as the janissary unit, but extensively screened for loyalty.
 
-![](../../../../_assets/mobs/Bostanji.png)
+![](../../../../_assets/mobs/bostanji.png)
 
 > **Armor Class** 10
 > **Hit Points** 32 (5d8 + 10)

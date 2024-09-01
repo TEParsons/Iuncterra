@@ -1,5 +1,5 @@
 # Pranja
-> ### Brahman [Pranja](../../../../People/Kasharites/Pranja.md)
+> ### Brahman [Pranja](../../../../people/kasharites/pranja)
 > ---
 > 
 > **Armour Class** 19

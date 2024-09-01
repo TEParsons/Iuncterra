@@ -4,15 +4,15 @@
 ![](haesta-thrumsdottr.png)
 
 > **Pronouns** she/her
-> **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))
+> **Species** [Human](../../species/homonid/human) ([Uthgardt](../../index))
 > **Age** 23
-> **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Thunderbeast Tribe, Fylkiriate 
+> **Affiliations** [Uthgar](../../cosmology/daemons/apotheotes/uthgar), Thunderbeast Tribe, Fylkiriate 
 
 #### Ideals
-Firmly believes in the concept of the Fylkiriate, believing that the [Uthgardt](../../index.md) faith needs reformation if it's to survive, particularly with the threat of [Wilhelm van Noord](../DIR%20Citizens/Wilhelm%20van%20Noord.md) and the DIR looming.
+Firmly believes in the concept of the Fylkiriate, believing that the [Uthgardt](../../index) faith needs reformation if it's to survive, particularly with the threat of [Wilhelm van Noord](../dIR_citizens/wilhelm_van_noord) and the DIR looming.
 
 #### Bonds
-Despite the political nature of their marriage, Haesta really does love her malewife [Slásverd af Fylkir](Slásverd%20af%20Fylkir.md). She also has good relationships with her allies in the Fylkiriate cause, apart from [Örmar Silfurorð](Örmar%20Silfurorð.md), who she tolerates but does not trust.
+Despite the political nature of their marriage, Haesta really does love her malewife [Slásverd af Fylkir](slásverd_af_fylkir). She also has good relationships with her allies in the Fylkiriate cause, apart from [Örmar Silfurorð](srmar_silfurorð), who she tolerates but does not trust.
 
 #### Flaws
 Stubborn, overly ambitous and self important. Haesta doesn't just believe the Uthgardt need saving, she believes she has to be the one to save them. If she gave some ground to the rebels, she may be able to truly unify the people.

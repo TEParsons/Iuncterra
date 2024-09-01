@@ -1,7 +1,7 @@
 # Mobad
 Trainee keeper of the sacred flame. Trained in martial arts so as to guard the flame, but still very much learning.
 
-![](../../../../_assets/mobs/Mobad.png)
+![](../../../../_assets/mobs/mobad.png)
 
 > **Armour Class** 12
 > **Hit Points** 25 (3d8 + 11)

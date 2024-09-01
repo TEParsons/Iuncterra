@@ -36,5 +36,5 @@ A core set of tribes who were pivotal to bringing down the Dracean empire form a
 [The lost prince](/stories/the_lost_prince), a half-djinn bastard of a Sultan's concubine and a [djinn](/lore/cosmology/deigen/djinn) of the desert, returned to Kashar and led a rebellion against the wildly unpopular and despitic [Sultan Kash Pasanhara](/places/kashar/people/kash_pasanhara), ending the over 3000 year reign of the Kash dynasty
 
 #### 5,420AD: Reformation of the Uthgardt faith
-Following attempts by [Chancellor Wilhelm van Noord](/places/dracean_intercoastal_republic/people/wilhelm_van_noord) to exploit an internal civil war to expand the territory of the [DIR](/places/dracean_intercoastal_republic), the Uthgardt people united behind a single religious head: [Fylkir Haesta Thrumsdottr](/places/Uttmark/people/hæsta_þrumsdottr), leading to a full reformation of the faith.
+Following attempts by [Chancellor Wilhelm van Noord](/places/dracean_intercoastal_republic/people/wilhelm_van_noord) to exploit an internal civil war to expand the territory of the [DIR](/places/dracean_intercoastal_republic), the Uthgardt people united behind a single religious head: [Fylkir Haesta Thrumsdottr](/places/uttmark/people/hæsta_þrumsdottr), leading to a full reformation of the faith.
 

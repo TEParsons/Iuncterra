@@ -2,7 +2,7 @@
 /ɜlɛn ɔnsʌn/
 
 > **Pronouns** he/him
-> **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))
+> **Species** [Human (Uthgardt)](/lore/species/human#uthgardt-humans)
 > **Age** 48
 > **Affiliations** ...
 

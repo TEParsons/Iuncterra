@@ -1,5 +1,5 @@
 # Alys Goodlay
-> ### [Alys Goodlay](../../../../People/Pirates/Alys%20Goodlay.md)
+> ### [Alys Goodlay](../../../../people/pirates/alys_goodlay)
 > ---
 > **Armour Class** 15
 > **Hit Points** 69

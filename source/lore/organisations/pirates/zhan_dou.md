@@ -1,2 +1,2 @@
 # Zhan Dou
-![](ZhanDou.png)
+![](zhanDou.png)

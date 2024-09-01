@@ -1,7 +1,7 @@
 # Bertha Bloodletter
-Bertha Bloodletter captains the privateer vessel [The Vengeance](../../Organisations/Bloodswords/Ships/The%20Vengeance.md), a powerful warship in the [Bloodswords](../../Organisations/Bloodswords/Bloodswords.md)' fleet, with a fearsome reputation. Truly an imposing figure, her skill in battle is the stuff of legends. While her leadership style is undoubtedly harsh, The Vengeance is never short of eager recruits. Serving under Bertha is a dangerous venture, but one with a great deal of potential for profit. As hard as she is on her crew, she is never anything but generous in the distribution of plunder.
+Bertha Bloodletter captains the privateer vessel [The Vengeance](../../organisations/bloodswords/ships/the_vengeance), a powerful warship in the [Bloodswords](../../organisations/bloodswords/bloodswords)' fleet, with a fearsome reputation. Truly an imposing figure, her skill in battle is the stuff of legends. While her leadership style is undoubtedly harsh, The Vengeance is never short of eager recruits. Serving under Bertha is a dangerous venture, but one with a great deal of potential for profit. As hard as she is on her crew, she is never anything but generous in the distribution of plunder.
 
-![](BerthaBloodletter.png)
+![](berthaBloodletter.png)
 
 ### History
 
@@ -9,4 +9,4 @@ Unlike most captains, Bertha didn’t work her way up to the rank - she took it 
 
 ### Relationships
 
-At one time, Bertha was married to [Johnny Platinum](https://cobalt-sea.fandom.com/wiki/Johnny_Platinum "Johnny Platinum"). While she doesn’t necessarily understand his distaste for violence and ambition, and now finds him somewhat strange and confusing, she still holds him in very high regard, having loved him in his prime. Likewise, he holds a tremendous respect and admiration for her, the two remain close friends and correspond regularly.
+At one time, Bertha was married to [Johnny Platinum](https://cobalt-sea.fandom.com/wiki/johnny_Platinum "Johnny Platinum"). While she doesn’t necessarily understand his distaste for violence and ambition, and now finds him somewhat strange and confusing, she still holds him in very high regard, having loved him in his prime. Likewise, he holds a tremendous respect and admiration for her, the two remain close friends and correspond regularly.

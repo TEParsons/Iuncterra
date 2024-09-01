@@ -1,7 +1,7 @@
 # Hussar
 Mounted unit, forms the front guard in military combat. Excellent for hitting fast and hard right away, but their usefulness tapers off in long battles.
 
-![](../../../../_assets/mobs/Hussar.png)
+![](../../../../_assets/mobs/hussar.png)
 
 > ### Warhorse
 >

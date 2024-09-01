@@ -1,5 +1,5 @@
 # Rurik Waxwing
-![](RurikWaxwing.png)
+![](rurikWaxwing.png)
 > Leaves from the vine, 
 > Falling so slow, 
 > Brave soldier boy, 

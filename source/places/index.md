@@ -1,4 +1,4 @@
 # Places
 
-![Map of Iuncterra](Iuncterra.png)
+![Map of Iuncterra](iuncterra.png)
 {: .full-width}

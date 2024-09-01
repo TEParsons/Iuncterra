@@ -1,7 +1,7 @@
 # Piyad
 Basic infantry unit, forms the rank and file of the Kasharite army.
 
-![](../../../../_assets/mobs/Piyad.png)
+![](../../../../_assets/mobs/piyad.png)
 
 > **Armor Class** 10
 > **Hit Points** 26 (3d8 + 10)

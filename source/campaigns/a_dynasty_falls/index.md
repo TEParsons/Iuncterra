@@ -1,6 +1,6 @@
 # Beats
 
-### [The Parade](Sessions/Session1/The%20Parade.md)
+### [The Parade](sessions/session1/the_parade)
 
 Players are introduced to the setting and told they are members of the revolution against the Sultan. They're in Jami-Satru with orders to disrupt a military parade and make a scene of it, how they do so is up to them.
 

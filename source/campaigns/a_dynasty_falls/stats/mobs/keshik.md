@@ -1,7 +1,7 @@
 # Keshik
 Mounted archers, the key unit of the Ordo'Atkan horde. The shortbow sacrifices range for accuracy and speed, these units hit fast and hard, deadly at mid range.
 
-![](../../../../_assets/mobs/Keshik.png)
+![](../../../../_assets/mobs/keshik.png)
 
 > ### Warhorse
 >

@@ -1,5 +1,5 @@
 # Ventis
-> ### [Ventis](../../../../People/Pirates/Ventis.md)
+> ### [Ventis](../../../../people/pirates/ventis)
 > ---
 > 
 > **Armour Class** 17

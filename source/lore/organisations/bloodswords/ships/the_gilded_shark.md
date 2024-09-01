@@ -1,5 +1,5 @@
 # The Gilded Shark
-Fittingly for its name, The Gilded Shark is the glistening jewel of the [Bloodswords](../Bloodswords.md)' fleet of warships-for-hire.
+Fittingly for its name, The Gilded Shark is the glistening jewel of the [Bloodswords](../bloodswords)' fleet of warships-for-hire.
 
 ### Design
 
@@ -10,9 +10,9 @@ She’s known for barrelling head on at enemies, protected by her gilded prow, f
 ### Crew
 
 #### Executive
-- [Zhan Dou](../../../People/Pirates/Zhan%20Dou.md): _Captain_∅
+- [Zhan Dou](../../../people/pirates/zhan_dou): _Captain_∅
 
 #### Former Crew
-- [Jondar Platinumfist](../../../People/Pirates/Jondar%20Platinumfist.md): _Captain_∅
+- [Jondar Platinumfist](../../../people/pirates/jondar_platinumfist): _Captain_∅
 
 *∅ = officer positions † = deceased*

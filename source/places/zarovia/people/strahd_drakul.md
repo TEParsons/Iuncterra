@@ -1,7 +1,7 @@
 # Strahd Drakul
 *Medium undead (shapechanger), lawful evil, /stræd drækʊl/*
 
-![](Strahd.png)
+![](strahd.png)
 
 > **HP** 144 (17d8+68)
 > **Armour Class** 16 (natural armour)
@@ -24,7 +24,7 @@ While in bat or wolf form, Strahd can’t speak. In bat form, his walking speed 
 
 While in mist form, Strahd can’t take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 30 feet, can hover, and can enter a hostile creature’s space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can’t pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage he takes from sunlight.
 
-***Legendary Resistance (3/Day).*** If Strahd fails a saving throw, he can choose to succeed instead.
+***Legendary Resistance (3/day).*** If Strahd fails a saving throw, he can choose to succeed instead.
 
 ***Misty Escape.*** When he drops to 0 hit points outside his coffin, Strahd transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that he isn’t in running water or sunlight. If he can’t transform, he is destroyed.
 
@@ -79,15 +79,15 @@ Strahd can take 3 legendary actions, choosing from the options below. Only one l
 # 
 
 > **Pronouns** he/him
-> **Species** [Vampire](../../index.md)
+> **Species** [Vampire](../../index)
 > **Age** Unknown
 > **Affiliations** None
 
 #### Ideals
-Above all else, Strahd lusts for power. Despite his utter dominion over all he surveys, he always wants more. His ultimate goal is to gain such notoriety on earth that he manifests as an [Apotheote](../../Cosmology/Daemons/Apotheotes/Apotheotes.md), at which point he can usurp [Loga](../../Cosmology/Daemons/Malefices/Loga.md) as the malefice of deception and gain his rightful place in the pantheon of gods.
+Above all else, Strahd lusts for power. Despite his utter dominion over all he surveys, he always wants more. His ultimate goal is to gain such notoriety on earth that he manifests as an [Apotheote](../../cosmology/daemons/apotheotes/apotheotes), at which point he can usurp [Loga](../../cosmology/daemons/malefices/loga) as the malefice of deception and gain his rightful place in the pantheon of gods.
 
 #### Bonds
-Strahd has powerful enemies. Having tricked the daemons [Erodite](../../Cosmology/Daemons/Erodite.md), [Avikath](../../Cosmology/Daemons/Malefices/Avikath.md) and [Loga](../../Cosmology/Daemons/Malefices/Loga.md) by playing them against one another, these three each hold a deep resentment towards him. All vampires, however, are loyal to him, being their creator and master.
+Strahd has powerful enemies. Having tricked the daemons [Erodite](../../cosmology/daemons/erodite), [Avikath](../../cosmology/daemons/malefices/avikath) and [Loga](../../cosmology/daemons/malefices/loga) by playing them against one another, these three each hold a deep resentment towards him. All vampires, however, are loyal to him, being their creator and master.
 
 #### Flaws
 Strahd has no regard for others, he cares for no one but himself. He's fallen in love, many times, but his love is always fleeting and self serving. The one thing he truly loves is power.
@@ -96,7 +96,7 @@ Strahd has no regard for others, he cares for no one but himself. He's fallen in
 
 ### The First Vampire
 
-Strahd promised his allegience to [Erodite](../../Cosmology/Daemons/Erodite.md) in exchange for powers of seduction, to [Avikath](../../Cosmology/Daemons/Malefices/Avikath.md) in exchange for wealth, to [Loga](../../Cosmology/Daemons/Malefices/Loga.md) in exchange for cunning and to [Surtr](../../Cosmology/Daemons/Malefices/Zukothoth.md) for the power to bring about destruction. All believed they were his sole master, but all were deceived. With none wanting to claim him for fear of conflict with one another, Strahd walked away with powers beyond any mortal before, having given nothing.
+Strahd promised his allegience to [Erodite](../../cosmology/daemons/erodite) in exchange for powers of seduction, to [Avikath](../../cosmology/daemons/malefices/avikath) in exchange for wealth, to [Loga](../../cosmology/daemons/malefices/loga) in exchange for cunning and to [Surtr](../../cosmology/daemons/malefices/zukothoth) for the power to bring about destruction. All believed they were his sole master, but all were deceived. With none wanting to claim him for fear of conflict with one another, Strahd walked away with powers beyond any mortal before, having given nothing.
 
 ### Prince of Zarovia
-Strahd was never first in line for his throne - he took it by force, murdering his own brothers to do so. He rules [Zarovia](../../Locations/Zarovia/Zarovia.md) with an iron fist, working his people to breaking point to turn the provincial princedom into a military powerhouse.
+Strahd was never first in line for his throne - he took it by force, murdering his own brothers to do so. He rules [Zarovia](../../locations/zarovia/zarovia) with an iron fist, working his people to breaking point to turn the provincial princedom into a military powerhouse.

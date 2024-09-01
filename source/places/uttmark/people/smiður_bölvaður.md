@@ -4,14 +4,14 @@
 > **Pronouns** he/him/they/them/she/her
 > **Species** []()
 > **Age** 46
-> **Family** [Slásverd af Fylkir](Slásverd%20af%20Fylkir.md) (Son)
-> **Affiliations** [Uthgar](../../Cosmology/Daemons/Apotheotes/Uthgar.md), Elk Tribe, Fylkiriate
+> **Family** [Slásverd af Fylkir](slásverd_af_fylkir) (Son)
+> **Affiliations** [Uthgar](../../cosmology/daemons/apotheotes/uthgar), Elk Tribe, Fylkiriate
 
 #### Ideals
-Ambitious, but more for his people than for himself. Smidur wants to see the Elk tribe thrive and sees the ascention of [Hæsta Þrumsdottr](Hæsta%20Þrumsdottr.md) as Fylkir as the best way to achieve that.
+Ambitious, but more for his people than for himself. Smidur wants to see the Elk tribe thrive and sees the ascention of [Hæsta Þrumsdottr](hæsta%20Þrumsdottr) as Fylkir as the best way to achieve that.
 
 #### Bonds
-Father to [Slásverd af Fylkir](Slásverd%20af%20Fylkir.md), Smidur is very proud of his son
+Father to [Slásverd af Fylkir](slásverd_af_fylkir), Smidur is very proud of his son
 
 #### Flaws
 Overly optimistic, assumes good intentions when they may not be present

@@ -1,11 +1,11 @@
 # Dionus
 /daɪəʊnʌs/
 
-![](Dionus.png)
+![](dionus.png)
 > **Pronouns** he/him
-> **Species** [Dracean](../../Species/Homonid/Dracean.md)
-> **[Age](../../Species/Ageing.md)** 204
-> **Affiliations** [Drace](../../Locations/Drace/Drace.md)
+> **Species** [Dracean](../../species/homonid/dracean)
+> **[Age](../../species/ageing)** 204
+> **Affiliations** [Drace](../../locations/drace/drace)
 
 #### Ideals
 Dionus is a stoic. He believes that true nobility is to be true to one's own nature and holds all "civilisation" as a perversion.

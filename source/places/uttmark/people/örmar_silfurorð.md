@@ -3,7 +3,7 @@
 ![](ormar-silfurord.png)
 
 > **Pronouns** he/him / they/them
-> **Species** [Human](../../Species/Homonid/Human.md) ([Uthgardt](../../index.md))
+> **Species** [Human (Uthgardt)](/lore/species/human#uthgardt-humans)
 > **Age** 29
 > **Affiliations** Black Tiger Tribe, Uthgardt Fylkiriate
 
@@ -11,7 +11,7 @@
 Ormar is a moderniser, he's somewhat disdainful of his native Uthgardt culture and so is keen to adopt more "civilised" southern culture. He's also a gifted and ambitious politician.
 
 #### Bonds
-Perhaps the only Uthgardt to have a good relationship with the [DIR](../../Locations/Dracean%20Intercoastal%20Republic/Dracean%20Intercoastal%20Republic.md), Ormar enjoys a cozy relationship with the southern states.
+Perhaps the only Uthgardt to have a good relationship with the [DIR](../../locations/dracean_intercoastal_republic/dracean_intercoastal_republic), Ormar enjoys a cozy relationship with the southern states.
 
 #### Flaws
 Sneaky, deceitful and duplicitous. Boundless ambition with very little loyalty.

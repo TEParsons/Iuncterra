@@ -1,12 +1,12 @@
 # Yapmak
 /jæpmæk/
 
-![Pasha Yapmak](Yapmak.png)
+![Pasha Yapmak](yapmak.png)
 
 > **Pronouns** he/him
-> **Species** [Human](../../Species/Homonid/Human.md) / [Elf](../../Species/Homonid/Elf.md)
-> **[Age](../../Species/Ageing.md)** ...
-> **Affiliations** [Kashar](../../Locations/Kashar/Kashar.md)
+> **Species** [Human](../../species/homonid/human) / [Elf](../../species/homonid/elf)
+> **[Age](../../species/ageing)** ...
+> **Affiliations** [Kashar](../../locations/kashar/kashar)
 
 #### Ideals
 ...

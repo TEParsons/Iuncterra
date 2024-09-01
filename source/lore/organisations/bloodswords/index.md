@@ -2,17 +2,17 @@
 
 The Bloodswords are a mercenary guild, operating world-wide. Its operatives are referred to as bloodswords, in lower case.
 
-![](Emblem.png)
+![](emblem.png)
 
 Notable bloodswords include:
-> - [Bertha Bloodletter](../../People/Pirates/Bertha%20Bloodletter.md)
-> - [Jondar Platinumfist](../../People/Pirates/Jondar%20Platinumfist.md)
-> - [Zhan Dou](../../People/Pirates/Zhan%20Dou.md)
-> - [Baal Adhikari](../../People/Pirates/Baal%20Adhikari.md)
-> - [Ventis](../../People/Pirates/Ventis.md)
-> - [Alys Goodlay](../../People/Pirates/Alys%20Goodlay.md)
-> - [Ishmael Kaine](../../People/Pirates/Ishmael%20Kaine.md)
-> - [Rurik Waxwing](../../People/Pirates/Rurik%20Waxwing.md)
+> - [Bertha Bloodletter](../../people/pirates/bertha_bloodletter)
+> - [Jondar Platinumfist](../../people/pirates/jondar_platinumfist)
+> - [Zhan Dou](../../people/pirates/zhan_dou)
+> - [Baal Adhikari](../../people/pirates/baal_adhikari)
+> - [Ventis](../../people/pirates/ventis)
+> - [Alys Goodlay](../../people/pirates/alys_goodlay)
+> - [Ishmael Kaine](../../people/pirates/ishmael_kaine)
+> - [Rurik Waxwing](../../people/pirates/rurik_waxwing)
 
 ## Divisions
 
@@ -24,7 +24,7 @@ The Bloodswords' bread and butter is its ground forces. It is among the largest 
 
 The Bloodswords' fastest growing division is its naval forces. Bloodswords warships function as privateers, taking payment from global powers seeking to weaken their rivals without risking all-out war in exchange for raiding particular vessels. 
 
-📑[Ships](Ships)
+📑[Ships](ships)
 
 ### Magic Arsenal
 

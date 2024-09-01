@@ -1,7 +1,7 @@
 # Janissary
 Elite infantry unit, the jewel of the Kashar army.
 
-![](../../../../_assets/mobs/Janissary.png)
+![](../../../../_assets/mobs/janissary.png)
 
 > **Armor Class** 10
 > **Hit Points** 32 (5d8 + 10)

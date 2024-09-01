@@ -24,7 +24,7 @@
 
 .
 
-> ### Pasha [Yapmak](../../../../People/Kasharites/Yapmak.md)
+> ### Pasha [Yapmak](../../../../people/kasharites/yapmak)
 > ---
 > 
 > | STR  | CON  | DEX  | INT  | WIS  | CHR  |
