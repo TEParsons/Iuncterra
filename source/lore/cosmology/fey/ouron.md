@@ -8,9 +8,9 @@ Ouron is the essence of the open sky - thunder, lightning, clouds and the air ar
 Ouron takes form on the mortal plane as a [Loxodon](/Species/Godtouched/Loxodon.md), the species being created from [Orc](/Species/Homonid/Orc.md) by His interference to exist in His image. Despite this, most Loxodon now follow the Kasharite faith, worshipping the Eternal Flame of the Kash dynasty.
 
 ### Aliases
-| Alias      | Pronunciation | Peoples |
+| Alias      | Pronunciation | Language(s) |
 | --- | --- | --- |
-| Ouron Teng | /oʊrɒn tɛŋg/  | Pre-elven [Kashar](/Locations/Kashar), [Ordo'Atkan](/Locations/Ordo_Atkan) |
-| Ötengr     | /øtɛŋgr/      | [Uthgardt](), Jotunnar  |
-| Pater Oura | /peɪtər oʊrə/ | [Drace](/Locations/Drace) |
-| Auro       | /aʊrø/        | [Kaiper](/Locations/Kaiper) |
+| Ouron Teng | /oʊrɒn tɛŋg/  | [Atkani](/lore/languages/atkani) |
+| Ötengr     | /øtɛŋgr/      | [Uttic](/lore/languages/uttic)  |
+| Pater Oura | /peɪtər oʊrə/ | [Dracean](/lore/languages/dracean) |
+| Auro       | /aʊrø/        | [Kypritic](/lore/languages/kypritic) |
