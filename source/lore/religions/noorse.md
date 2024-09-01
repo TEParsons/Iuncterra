@@ -1,9 +1,6 @@
 # Noorse
 
-The pre-Uthgardt religion of the cold north, remnants of Noorse survive in modern Uthgardt 
-religious practices, and Noorse is practived by people of 
-[Noordland](/places/dracean_intercoastal_republic#noord). Noorse followers worship a mixed pantheon 
-of daemons and fey:
+The pre-Uthgardt religion of the cold north, remnants of Noorse survive in modern Uthgardt religious practices, and Noorse is practived by people of [Noordland](/places/dracean_intercoastal_republic#noord). Noorse followers worship a mixed pantheon of daemons and fey:
 
 | Deity | Noorse Name |
 | ----- | ----------- |
@@ -19,6 +16,4 @@ of daemons and fey:
 
 ### Myths
 #### The death of Løga
-Noorse followers believe that Baluð (Ludon) is dead, killed by Veldr (Veldor). This most likely 
-stems from the cold winter weather driving the [Ataitha](/lore/species/halfling) out of 
-Iuncterra proper; the blessing of Ludon leaving with them.
+Noorse followers believe that Baluð (Ludon) is dead, killed by Veldr (Veldor). This most likely stems from the cold winter weather driving the [Ataitha](/lore/species/halfling) out of Iuncterra proper; the blessing of Ludon leaving with them.
