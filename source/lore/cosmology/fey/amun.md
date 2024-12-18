@@ -1,3 +1,0 @@
-# Amun
-
-![](amun.png)

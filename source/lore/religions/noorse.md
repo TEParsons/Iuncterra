@@ -4,14 +4,14 @@ The pre-Uthgardt religion of the cold north, remnants of Noorse survive in moder
 
 | Deity | Noorse Name |
 | ----- | ----------- |
-| [Ouron](/lore/cosmology/fey/ouron) | Ötengr /øtɛŋgr/ |
+| [Ouron](/lore/cosmology/fey/major_fey/ouron.md) | Ötengr /øtɛŋgr/ |
 | [Loga](/lore/cosmology/daemons/malefices/loga) | Løga /ləʊgə/ |
 | [Hestora](/lore/cosmology/daemons/seraphim/hestora) | Fresta /frəsta/ |
 | [Ludon](/lore/cosmology/daemons/seraphim/ludon) | Baluð /baluð/ |
 | [Veldor](/lore/cosmology/fey/veldor) | Veldr /veldʊr/ |
-| [Amun](/lore/cosmology/fey/amun) | Aimdr /aɪmdʊr/ |
+| [Amun](/lore/cosmology/fey/galactic_fey/amun.md) | Aimdr /aɪmdʊr/ |
 | [Surt](/lore/cosmology/daemons/malefices/surt) | Surtr /sɜtɜ/ |
-| [Jor](/lore/cosmology/fey/jor) | Njörr /ŋjöʊr/ |
+| [Jor](lore/cosmology/fey/regional_fey/jor.md) | Njörr /ŋjöʊr/ |
 | [Erodite](/lore/cosmology/daemons/erodite) | Frödi /fröʊdi/ |
 
 ### Myths

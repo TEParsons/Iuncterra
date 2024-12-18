@@ -1,4 +1,0 @@
-# Deia
-/deɪæ/
-
-![](deia.png)

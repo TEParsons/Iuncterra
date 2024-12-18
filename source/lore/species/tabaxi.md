@@ -1,7 +1,7 @@
 # Tabaxi
 /tæbæksi/
 
-Deep in the Parbat mountains, shrouded by an otherworldly mist, lies the valley of Nascut Deia, land of the chosen people [Deia](/lore/cosmology/fey/deia), carers of the sacred tree. Once, Tabaxi were like [elves](/lore/species/elf) in appearance, but as recognition of their service to Deia, She blessed them with her own visage. Tabaxi can now be found all around the Parbat mountain range. Though all hold a unique fondness for the natural world, many live metropolitan lives.
+Deep in the Parbat mountains, shrouded by an otherworldly mist, lies the valley of Nascut Deia, land of the chosen people [Deia](/lore/cosmology/fey/major_fey/deia.md), carers of the sacred tree. Once, Tabaxi were like [elves](/lore/species/elf) in appearance, but as recognition of their service to Deia, She blessed them with her own visage. Tabaxi can now be found all around the Parbat mountain range. Though all hold a unique fondness for the natural world, many live metropolitan lives.
 {: .full-width}
 
 ### Cultures
