@@ -23,31 +23,31 @@ The main source of food in the region; shallow capillary rivers split the land i
 
 #### Jami-Sonna
 
-![Flag of Jami-Sonna](/places/kashar/flag-jami-sonna.png){.torillic-no-splash}
+![Flag of Jami-Sonna](flag-jami-sonna.png){.torillic-no-splash}
 
 The trade hub of Kashar, Jami-Sonna has a very navigable western coast with a defensible delta at the river's bifurcated mouth. Jami-Sonna is absolutely essential to the Sultanate's maritime trade network.
 
 #### Jami-Satru
 
-![Flag of Jami-Satru](/places/kashar/flag-jami-satru.png){.torillic-no-splash}
+![Flag of Jami-Satru](flag-jami-satru.png){.torillic-no-splash}
 
 The first region colonised by [elves](/species/elf) during the nameless wars, Jami Satru covers the southeast border of the Sultanate and is a stronghold for royalists. Citizens of Jami-Satru man the outposts in the Satru mountain range, where their ancestors once crossed into the then-loxodon controlled region.
 
 #### Jami-Parbat
 
-![Flag of Jami-Parbat](/places/kashar/flag-jami-parbat.png){.torillic-no-splash}
+![Flag of Jami-Parbat](flag-jami-parbat.png){.torillic-no-splash}
 
 This isolated mountainous region is the ancestral homeland of Kashar's [tabaxi](/species/tabaxi) population. While its rocky slopes are near impossible to farm, it is excellent hunting ground and many of the Sultan's luxurious furs are sourced from this region.
 
 #### Jami-Marub
 
-![Flag of Jami-Marub](/places/kashar/flag-jami-marub.png){.torillic-no-splash}
+![Flag of Jami-Marub](flag-jami-marub.png){.torillic-no-splash}
 
 While the whole of Kashar was populated by [loxodon](/species/loxodon) when the elves arrived, Jami-Marub is believed to be the first land of the loxodon people, and holds great cultural and religious significance for them. Situated around a break in the Parbat mountains, this region is often called the "gateway to the desert" and is by far the most hospitable point of access to the desert from the south.
 
 #### Dhurga-Agun
 
-![Flag of Dhurga-Agun](/places/kashar/flag-dhurga-agun.png){.torillic-no-splash}
+![Flag of Dhurga-Agun](flag-dhurga-agun.png){.torillic-no-splash}
 
 The capital city of Kashar, Dhurga-Agun, functions as an autonomous region independent from the five Jami, governed directly by the Visir.
 
