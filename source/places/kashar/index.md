@@ -1,7 +1,7 @@
 # Kashar
 /kæʃɑ/
 
-![Flag of Kashar](/places/kashar/flag-Kashar.png){.torillic-no-splash}
+![Flag of Kashar](flag-kashar.png){.torillic-no-splash}
 
 The Kashar Sultanate is a major power in the southern continent, ruling over a vast area rich in spices, precious metals and fine silks. The ruling family of Kashar are the Kash dynasty, an elven family whose rule dates back to the nation's foundation.
 
