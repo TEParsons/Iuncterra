@@ -1,7 +1,7 @@
 # Surt
 /sɜt/
 
-_Malefix of Destrucive Intent_
+_Malefix of Destruction_
 
 ![](surt.png)
 

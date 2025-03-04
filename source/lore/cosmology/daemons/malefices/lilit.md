@@ -1,5 +1,5 @@
 # Lilit
-*Malefice of wrath*
+*Malefix of wrath*
 
 ![](lilit.png)
 
