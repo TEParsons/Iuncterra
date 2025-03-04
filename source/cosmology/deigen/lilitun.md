@@ -1,5 +1,5 @@
 # Lilitun
-/ipa/
+/lɪlɪtun/
 
 ![](lilitun.png)
 
