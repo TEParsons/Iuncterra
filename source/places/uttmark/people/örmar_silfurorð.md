@@ -3,7 +3,7 @@
 ![](ormar-silfurord.png)
 
 > **Pronouns** he/him / they/them
-> **Species** [Human (Uthgardt)](/lore/species/human#uthgardt-humans)
+> **Species** [Human (Uthgardt)](/species/human#uthgardt-humans)
 > **Age** 29
 > **Affiliations** Black Tiger Tribe, Uthgardt Fylkiriate
 

@@ -2,7 +2,7 @@
 /θɾeɪul/
 
 > **Pronouns** he/him
-> **Species** [Elf (Kasharite)](/lore/species/elf#kasharite-elves)
+> **Species** [Elf (Kasharite)](/species/elf#kasharite-elves)
 > **Age** 204
 > **Affiliations** [Uthgar](../../cosmology/daemons/apotheotes/uthgar), Sky Pony Tribe
 

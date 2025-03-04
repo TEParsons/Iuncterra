@@ -1,3 +1,0 @@
-# Galactic fey
-
-Galactic fey utterly dwarf all others. These towering collossi are manifest in the planets and stars about the cosmos, largely indifferent to the goings on of an insignificant little planet like Iuncterra. When they do exercise their power, they can turn counties to dust with barely a glance. When galactic fey go to war, entire solar systems are destroyed. [Amun](/lore/cosmology/fey/galactic_fey/amun.md), fey of the sun, is a glactic fey. The one time he interfered with Iuncterra, it led to the [fall of Nasruk](/stories/fall_of_nasruk.md).
