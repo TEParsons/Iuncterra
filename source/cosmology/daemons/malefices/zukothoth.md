@@ -8,7 +8,7 @@ Zukothoth is the desire we all keep buried to do dreadful and grevious harm to o
 
 Since the Uthgardt age, Zukothoth has been trapped in the material plane, at the base of Beorunna's Well. There at the cold edge of the world he whispers in the ears of any foolish enough to enter the haunted ruins, begging them to help him, to release him, to help him bring the end that all mortals secretly crave.
 
-## Names
+#### Names
 
 | Language | Name | Pronunciation |
 | ---      | ---  | ---           |

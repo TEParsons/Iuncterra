@@ -8,7 +8,7 @@ Loga The Deceiver is born from the will to deceive others. An unpopular figure e
 
 When manifesting in the physical world, he is always dressed in the height of fashion. He attempts to disguise his gleaming visage by heavily powdering his face, giving an uncanny valley effect. He appears roughly human, but not quite right.
 
-## Names
+#### Names
 
 | Language | Name | Pronunciation |
 | ---      | ---  | ---           |
