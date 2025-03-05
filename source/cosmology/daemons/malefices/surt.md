@@ -2,7 +2,7 @@
 
 ![](surt.png)
 
-# Malefix of destruction
+### Malefix of destruction
 
 Surt is, plain and simple, the will to destroy. Motives are irrelevant, whether the destruction comes from righteous anger, from vengeance, from greed... So long as there is a mortal who wishes to see some one or some thing in ruins, Surt will retain his power.
 
