@@ -1,7 +1,6 @@
 # Dragonborn
 
 The proud sons and daughters of [Drace](/places/drace) descend directly from the great dragon [Draconus](/cosmology/deigen/dragons/draconus) and thus embody many draconic features. They are a proud people with a strong sense of kinship, owing to their storied history.
-{: .full-width}
 
 ### Cultures
 

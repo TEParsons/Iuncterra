@@ -1,7 +1,6 @@
 # Orc
 
 Orc originate from the wide open planes of [Ordo'Atkan](/places/ordo-atkan), having adapted to first hunt and eventually ride horses. Even outside of their steppe homeland, horses and hunting hold a sacred significance in orcish culture. 
-{: .full-width}
 
 ### Cultures
 

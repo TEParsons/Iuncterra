@@ -1,7 +1,6 @@
 # Human
 
 The most diverse and widespread of sapient peoples, humans can be found most everywhere. They are recognisable by their rounded ears.
-{: .full-width}
 
 ### Cultures
 

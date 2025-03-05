@@ -2,7 +2,6 @@
 /lɒksəʊdɒn/
 
 Native to what is now the elven kingdom of Kashar, loxodon are the descendents of survivors from [Nasruk](/places/nasruk). In recognition of their martyrdom, the once human people were transformed in the likeness of [Ouron](/cosmology/fey/major_fey/ouron.md) and settled in Loxor, the region now known as Jami-Marub. Loxodon dwelt there long before it was settled by elves, but have since integrated well into Kasharite society.
-{: .full-width}
 
 ### Cultures
 

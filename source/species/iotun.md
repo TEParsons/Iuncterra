@@ -4,7 +4,6 @@
 ![](iotun.png)
 
 Sometimes known simply as "The First People", these giants were the parent species of all homonids in Iuncterra. Iotun are long since exinct, having been superceded by the various sapients descending from them.
-{: .full-width}
 
 ### Cultures
 

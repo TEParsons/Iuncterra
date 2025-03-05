@@ -1,7 +1,6 @@
 # Dwarf
 
 Dwarves originate from the copper-rich island of [Kaiper](/places/kaiper), having evolved in isolation under the benevolent eye of the copper dragon [Kypra](/cosmology/deigen/dragons/kypra). They are small in stature, but thick muscled and very strong. In [4700AD](/timeline#4700AD), the first Kaiprite ships touched down on the eastern coast of Iuncterra proper.
-{: .full-width}
 
 ### Cultures
 

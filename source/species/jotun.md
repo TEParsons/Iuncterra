@@ -1,7 +1,7 @@
 # Jotun
 /jəʊtʌn/
+
 The closest living relatives of the [Iotun](iotun) of old, the Jotun are by far the largest sapients on Iuncterra, standing between 8 and 10 feet tall. Generally preferring mountainous landscapes, Jotun tend to live in solitary homesteads or sometimes small villages. 
-{: .full-width}
 
 ### Cultures
 
