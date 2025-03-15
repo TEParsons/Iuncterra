@@ -11,13 +11,14 @@ flowchart LR
 subgraph celestials [<a href=/cosmology>Celestials</a>]
 ouron([<a href=/cosmology/fey/major_fey/ouron>Ouron</a>])
 deia([<a href=/cosmology/fey/major_fey/deia>Deia</a>])
+veldor([<a href=/cosmology/fey/regional_fey/veldor>Veldor</a>])
 hermet([<a href=/cosmology/daemons/seraphim/hermet>Hermet</a>])
 ludon([<a href=/cosmology/daemons/seraphim/ludon>Ludon</a>])
 avikath([<a href=/cosmology/daemons/malefices/avikath>Avikath</a>])
 zukothoth([<a href=/cosmology/daemons/malefices/zukothoth>Zukothoth</a>])
 end
 subgraph deigen [<a href=/cosmology/deigen>Deigen</a>]
-dragon[<a href=/cosmology/deigen/dragon>Dragon</a>]
+draconus[<a href=/cosmology/deigen/dragons/draconus>Draconus</a>]
 nymph[<a href=/cosmology/deigen/nymph>Nymph</a>]
 end
 subgraph sapients [Sapient species]
@@ -52,11 +53,12 @@ human --> tabaxi
 human --> loxodon
 human --> satyr
 
-avikath --> dragon
+avikath --> draconus
+veldor --> draconus
 ludon --> nymph
 deia --> nymph
 
-dragon --> dragonborn
+draconus --> dragonborn
 nymph --> elf
 
 ouron -.-> loxodon
