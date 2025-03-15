@@ -1,0 +1,3 @@
+# Fey Rhea
+
+Fey Rhea, sometimes called Faeries (singular: Faerie) or Fairies (singular: Fairy), are responsible for small, local phenomena. You might see a little green light dancing around a patch of moss, this is likely the fey associated with that patch of moss. They have limited power - sometimes granting minor boons like speeding up the growth of a vegetable patch or getting up to mischief like moving vines and roots to trip up adventurers, but never anything serious.

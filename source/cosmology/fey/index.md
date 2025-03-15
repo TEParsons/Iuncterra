@@ -12,8 +12,8 @@ Events in the fey realm affect the material plane, and events in the material pl
 Fey are not all equal in power, far from it, just as all elements of the natural world aren't equal in significance. The power of a small tree sprite, whose manifestation is a single shrub, pales in comparison to the fey manifesting as the forest. The forest fey in turn would seem insignificant beside [Amun](/cosmology/fey/galactic_fey/amun.md), fey of the sun.
 
 Fey can be roughly divided into five tiers:
-- [Minor](/cosmology/fey/minor_fey): Manifest as local phenomena; trees, hills, brooks, etc.
-- [Regional](/cosmology/fey/regional_fey): Manifest as entire biomes; rivers, deserts, mountains, etc.
-- [Major](/cosmology/fey/major_fey): Manifest as entire aspects of nature; the sky, the earth, the wind, etc.
-- [Galactic](/cosmology/fey/galactic_fey): Manifest as celestial bodies; planets, stars, etc.
-- [Fundamental](/cosmology/fey/fundamental_fey): Manifest as fundamental forces; gravity, time, space, etc.
+- [Rhea](/cosmology/fey/fey_rhea): Manifest as local phenomena; trees, hills, brooks, etc.
+- [Tíra](/cosmology/fey/fey_tira): Manifest as entire biomes; rivers, deserts, mountains, etc.
+- [Eilea](/cosmology/fey/fey_eilea): Manifest as entire aspects of nature; the sky, the earth, the wind, etc.
+- [Nova](/cosmology/fey/fey_nova): Manifest as celestial bodies; planets, stars, etc.
+- [Supra](/cosmology/fey/fey_supra): Manifest as fundamental forces; gravity, time, space, etc.
