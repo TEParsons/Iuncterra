@@ -8,9 +8,10 @@ nav:
   - ...
 
 extra_css:
-  - utils/extra.css
+  - extra.css
 
 hooks:
+  - utils/statblocks.py
   - utils/ipa.py
   - utils/links.py
   - utils/tables.py
