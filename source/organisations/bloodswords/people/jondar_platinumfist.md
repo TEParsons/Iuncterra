@@ -1,13 +1,13 @@
 # Jondar Platinumfist
 A gentle giant with a heart of gold, Jondar (who prefers to go by Johnny Platinum) is the ship's cook and unofficial counsellor. Although his military history and imposing stature make him a capable fighter, what he really brings to the team is experience, compassion and emotional intelligence. Always keen to seek out non-violent solutions, Johnny has defused many a ship's brawl and often acts as a surrogate father figure in the found family that pirate ships often offer.
 
-![](johnnyPlatinum.png)
+![](johnny_platinum.png)
 
 ## History
 
-For many years, Johnny served as a privateer with the [Bloodswords](../../organisations/bloodswords/bloodswords), captaining [The Gilded Shark](../../organisations/bloodswords/ships/the_gilded_shark). He doesn't talk much about this time, but rumour has it he was actually fairly high ranking. Then one day he just... dropped out. He went ashore, stopped talking to anyone from his old life, turned down every contract he was offered, started taking cooking classes and settled into a quiet retirement.
+For many years, Johnny served as a privateer with the [Bloodswords](/organisations/bloodswords/bloodswords), captaining [The Gilded Shark](/organisations/bloodswords/ships/the_gilded_shark). He doesn't talk much about this time, but rumour has it he was actually fairly high ranking. Then one day he just... dropped out. He went ashore, stopped talking to anyone from his old life, turned down every contract he was offered, started taking cooking classes and settled into a quiet retirement.
 
-![](jondarPlatinumfist.png)
+![](jondar_platinumfist.png)
 
 After a few years ashore, he was enjoying a quiet drink after a hard day's chefing, when he overheard a conversation between a young lad and two older thugs. From the sounds of things, they were all serving aboard a pirate ship, and the two thugs represented were pressuring the boy into joining a mutiny, but he was reluctant. Eventually they left him with an ultimatum: "you're with us or against us". Johnny approached the lad and asked to talk to the lead mutineer - somehow, he managed to gain an audience and, after a few minutes along together in a room, had talked the mutineer round to a non-violent solution.
 
@@ -17,7 +17,7 @@ He stayed aboard this ship for several years, taking a fairly active role in res
 
 ## Relationships
 
-Johnny was once married to [Bertha Bloodletter](bertha_bloodletter), a fellow [Jotun](../../species/homonid/jotun) and [Bloodsword](../../organisations/bloodswords/bloodswords). The two ended their marriage when Johnny retired from his mercenary life and took up cooking. The two remain on good terms.
+Johnny was once married to [Bertha Bloodletter](bertha_bloodletter), a fellow [Jotun](/species/jotun) and [Bloodsword](/organisations/bloodswords/bloodswords). The two ended their marriage when Johnny retired from his mercenary life and took up cooking. The two remain on good terms.
 
 ### _How Johnny Met Bertha_
 
