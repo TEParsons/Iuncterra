@@ -1,2 +1,1 @@
-# Átaitha
-/ætaiɑ/
+# Notable Átaithans
