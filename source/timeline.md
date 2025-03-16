@@ -8,7 +8,7 @@ The essence of the [fey](/cosmology/fey) coalesces to form the material realm.
 
 #### 120,000PD
 ##### First Iotun
-The first sapient species, the [Iotun](/species/iotun), begin to appear. With them, the first [daemons](/cosmology/daemons) are born of their thoughts and feelings.
+The first sapient species, the [Iotun](/species/sapient/iotun), begin to appear. With them, the first [daemons](/cosmology/daemons) are born of their thoughts and feelings.
 
 #### 80,000PD
 ##### First elves
@@ -20,7 +20,7 @@ See [Mathixa And The Dragon](/stories/mathixa_and_the_dragon).
 
 #### 600AD
 ##### Uthgar
-A charismatic warrior named [Uthgar](/places/uttmark/people/uthgar) unites the people of what is now Uttmark and the Northen DAR into a single polity, halting the epansion of the Dracean Empire northwards. He personally kills many of the last remaining [Deigen](/cosmology/deigen) in the north, including the dragon [Draconus](/cosmology/deigen/dragons/draconus). His cultural impact on the people of the region is so great that his heroic cult overtakes most deities in the proto-Uthgardt pentheon, causing his essence to manifest [as an Apotheote](/cosmology/daemons/apotheotes).
+A charismatic warrior named [Uthgar](/places/uttmark/people/uthgar) unites the people of what is now Uttmark and the Northen DAR into a single polity, halting the epansion of the Dracean Empire northwards. He personally kills many of the last remaining [Deigen](/species/deigen) in the north, including the dragon [Draconus](/species/deigen/dragons/draconus). His cultural impact on the people of the region is so great that his heroic cult overtakes most deities in the proto-Uthgardt pentheon, causing his essence to manifest [as an Apotheote](/cosmology/daemons/apotheotes).
 
 #### 2,400AD
 ##### Fall of Nasruk
@@ -28,11 +28,11 @@ The prosperous human kingdom of [Nasruk](/places/nasruk), in devotion to the [Sk
 
 #### 3,000AD
 ##### Kashar is founded
-The [T'Savonii](/places/tsavo) and [Dracean](/places/drace) armies carry out a combined campaign to expel the [Proto-Atkani](/places/ordo_atkan) from the eastern steppe, in order to safely establish trade routes and colonies between them. The attempt fails, and a regiment of [T'Savonii](/places/tsavo) lead by Barca Kash flee west, managing to hold out against constant raids long enough to reach the Satru mountain range. There they find a highly defensible mountain pass and construct a fort to hold off the Atkani. On further exploration west, they find a vast and fertile land, sparsely populated by [Loxodon](/species/loxodon) and [Tabaxi](/species/tabaxi). After sending word back to T'Savo of their discovery, the elven empire floods the region with military and settler caravans, fighting lengthy wars to subjugate the native peoples and creating what is now the [Sultanate of Kashar](/places/kashar).
+The [T'Savonii](/places/tsavo) and [Dracean](/places/drace) armies carry out a combined campaign to expel the [Proto-Atkani](/places/ordo_atkan) from the eastern steppe, in order to safely establish trade routes and colonies between them. The attempt fails, and a regiment of [T'Savonii](/places/tsavo) lead by Barca Kash flee west, managing to hold out against constant raids long enough to reach the Satru mountain range. There they find a highly defensible mountain pass and construct a fort to hold off the Atkani. On further exploration west, they find a vast and fertile land, sparsely populated by [Loxodon](/species/sapient/loxodon) and [Tabaxi](/species/sapient/tabaxi). After sending word back to T'Savo of their discovery, the elven empire floods the region with military and settler caravans, fighting lengthy wars to subjugate the native peoples and creating what is now the [Sultanate of Kashar](/places/kashar).
 
 #### 4,700AD
 ##### Kyprite migrations
-[Dwarves](/species/dwarf) from the island of [Kaiper](/places/kaiper) reach the eastern coast of Iuncterra Proper, fighting with the [Dracean](/places/drace) garrisons there to carve out several crucial niches for trading colonies.
+[Dwarves](/species/sapient/dwarf) from the island of [Kaiper](/places/kaiper) reach the eastern coast of Iuncterra Proper, fighting with the [Dracean](/places/drace) garrisons there to carve out several crucial niches for trading colonies.
 
 #### 5,000AD
 ##### Collapse of the Dracean Empire
@@ -44,7 +44,7 @@ A core set of tribes who were pivotal to bringing down the Dracean empire form a
 
 #### 5,400AD
 ##### Overthrow of the Kash dynasty
-[The lost prince](/stories/the_lost_prince), a half-djinn bastard of a Sultan's concubine and a [djinn](/cosmology/deigen/djinn) of the desert, returned to Kashar and led a rebellion against the wildly unpopular and despitic [Sultan Kash Pasanhara](/places/kashar/people/kash_pasanhara), ending the over 3000 year reign of the Kash dynasty
+[The lost prince](/stories/the_lost_prince), a half-djinn bastard of a Sultan's concubine and a [djinn](/species/deigen/djinn) of the desert, returned to Kashar and led a rebellion against the wildly unpopular and despitic [Sultan Kash Pasanhara](/places/kashar/people/kash_pasanhara), ending the over 3000 year reign of the Kash dynasty
 
 #### 5,420AD
 ##### Reformation of the Uthgardt faith

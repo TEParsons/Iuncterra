@@ -3,7 +3,7 @@
 ![](flugmaer-hrafndottr.png)
 
 > **Pronouns** she/her
-> **Species** [Human](../../species/homonid/human) ([Uthgardt](../../index))
+> **Species** [Human](../../species/sapient/homonid/human) ([Uthgardt](../../index))
 > **Age** 24
 > **Affiliations** [Uthgar](../../cosmology/daemons/apotheotes/uthgar), Uthgardt Rebellion, Great Raven Tribe
 

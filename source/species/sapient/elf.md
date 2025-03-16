@@ -21,7 +21,7 @@ Elves from the imperial capital tend to be somewhat disdainful of "lesser" cultu
 > **Languages** [Low Kushite](/languages/kushite#low-kushite), [Common](/languages/common), [High Kushite](/languages/kushite#high-kushite) (elites only)
 > **Accent** [🗣️](https://www.dialectsarchive.com/saudi-arabia-1)
 
-Elves of the Kasharite Sultanate are long removed from their Savonic kin, separated by the hostile [Atkani steppe](/places/ordo_atkan/). They speak a variety of different languages, worship the eternal flame of the Kash dynasty and culturally are strongly influenced by the [Loxodon](/species/loxodon) natives of the land they occupy.
+Elves of the Kasharite Sultanate are long removed from their Savonic kin, separated by the hostile [Atkani steppe](/places/ordo_atkan/). They speak a variety of different languages, worship the eternal flame of the Kash dynasty and culturally are strongly influenced by the [Loxodon](/species/sapient/loxodon) natives of the land they occupy.
 
 #### Wood Elves
 
@@ -33,4 +33,4 @@ Elves of the Kasharite Sultanate are long removed from their Savonic kin, separa
 Elves from the heavily forested south of [T'Savo](/places/tsavo) are a mysterious people, even to their Savonic kin little is known of their ways. They are hostile to most outsiders, but especially to imperials - viewing them as traitors to their nymphic heritage.
 
 ### Ageing
-|/species/aging.xlsx:Elf|
+|/species/sapient/aging.xlsx:Elf|

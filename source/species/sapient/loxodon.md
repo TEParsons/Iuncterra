@@ -27,4 +27,4 @@ The majority of loxodon live in Kashar, mostly in Jami-Marub, integrating with l
 Despite their appearance stemming from the devotion of ancient Nasruk to the [Ouron Teng](/cosmology/fey/major_fey/ouron.md), most Loxodon now practice the Kasharite faith. After the annexation of Loxor into Kashar, the incoming Kash rulers converted temples and sacred sites from the old faith into centers of worship for the Sacred Flame, converting the conquered Loxodon and recruiting them as clergy. Because of their proximity to major temple infrastructure, many Loxodon in the modern era continue to serve as clergy.
 
 ### Ageing
-|/species/aging.xlsx:Loxodon|
+|/species/sapient/aging.xlsx:Loxodon|

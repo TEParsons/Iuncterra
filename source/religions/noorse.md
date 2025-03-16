@@ -16,4 +16,4 @@ The pre-Uthgardt religion of the cold north, remnants of Noorse survive in moder
 
 ### Myths
 #### The death of Løga
-Noorse followers believe that Baluð (Ludon) is dead, killed by Veldr (Veldor). This most likely stems from the cold winter weather driving the [Ataitha](/species/halfling) out of Iuncterra proper; the blessing of Ludon leaving with them.
+Noorse followers believe that Baluð (Ludon) is dead, killed by Veldr (Veldor). This most likely stems from the cold winter weather driving the [Ataitha](/species/sapient/halfling) out of Iuncterra proper; the blessing of Ludon leaving with them.

@@ -4,7 +4,7 @@
 ![](strahd.png)
 
 > **Pronouns** he/him
-> **Species** [Human](/species/human) (Vampire)
+> **Species** [Human](/species/sapient/human) (Vampire)
 > **Age** Unknown
 > **Affiliations** None
 

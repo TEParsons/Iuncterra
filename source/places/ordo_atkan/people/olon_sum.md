@@ -3,8 +3,8 @@
 [![Olon Sum](OlonSumKhan.png)](https://www.heroforge.com/load_config%3D33944133/)
 
 > **Pronouns** he/him
-> **Species** [Orc](../../species/homonid/orc)
-> **[Age](../../species/ageing)** ...
+> **Species** [Orc](../../species/sapient/homonid/orc)
+> **[Age](../../species/sapient/ageing)** ...
 > **Affiliations** [Ordo'Atkan](../../locations/ordo'Atkan/ordo_atkan)
 
 #### Ideals

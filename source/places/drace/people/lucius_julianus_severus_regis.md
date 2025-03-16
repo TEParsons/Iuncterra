@@ -3,8 +3,8 @@
 
 ![](lucius Julianus Severus Regis.png)
 > **Pronouns** He/him
-> **Species** [Dracean](../../species/homonid/dracean)
-> **[Age](../../species/ageing)** 123
+> **Species** [Dracean](../../species/sapient/homonid/dracean)
+> **[Age](../../species/sapient/ageing)** 123
 > **Affiliations** [Drace](../../locations/drace/drace)
 
 #### Ideals

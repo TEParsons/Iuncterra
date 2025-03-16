@@ -17,7 +17,7 @@ The weapons wielded by Uthgar during his life each hold magical powers. All are 
 - Sword: Griffon
 - Greataxe: Treant
 - Warhammer: Thunderbeast
-- Spear: Dragon ([Draconus](/cosmology/deigen/dragons/draconus))
+- Spear: Dragon ([Draconus](/species/deigen/dragons/draconus))
 
 ### Valhol
 
@@ -25,4 +25,4 @@ Uthgardt believe that Uthgar, in his apotheotic incarnation, hosts the spirits o
 
 ### Great Blot
 
-Once every seven years, Uthgardt gather at the burial mound believed to house Uthgar's body along with his mythic hammer and the last [Thunderbeast](/cosmology/deigen/thunderbeast) - who Uthgar slayed, but whose limp body crushed him to death. The first night of the blot is a grand feast, with liberal psychadelic use and orgies. The second night hosts a series of sacrifices, including sapients, slain using Uthgar's own axe. Once the attendees have retired to the mead hall for more feasting, a great spectral raven will carry off the bodies of the sapient sacrifices.
+Once every seven years, Uthgardt gather at the burial mound believed to house Uthgar's body along with his mythic hammer and the last [Thunderbeast](/species/deigen/thunderbeast) - who Uthgar slayed, but whose limp body crushed him to death. The first night of the blot is a grand feast, with liberal psychadelic use and orgies. The second night hosts a series of sacrifices, including sapients, slain using Uthgar's own axe. Once the attendees have retired to the mead hall for more feasting, a great spectral raven will carry off the bodies of the sapient sacrifices.
