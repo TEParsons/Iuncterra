@@ -14,7 +14,7 @@ Orc originate from the wide open planes of [Ordo'Atkan](/places/ordo-atkan), hav
 
 Orc of the Atkani steppe live a nomadic pastoral lifestyle, migrating every few weeks to move their herds on to greener pastures. All Atkani, from warlord to shepherd, are trained in the saddle and bow from birth. When the Great Khan issues a dudakh, *all* Atkani who are of sound body and fighting age answer the call, regardless of gender or profession.
 
-The Atkani call their way of life "the way of the open sky", and to them the cultural traditions and nomadic lifestyle of their steppe are intimately tied with worship of [Ouron Teng](/cosmology/fey/major_fey/ouron.md), fey of the sky, whom they venerate above all others.
+The Atkani call their way of life "the way of the open sky", and to them the cultural traditions and nomadic lifestyle of their steppe are intimately tied with worship of [Ouron Teng](/cosmology/fey/fey_eilea/ouron.md), fey of the sky, whom they venerate above all others.
 
 #### Uthgardt Orc
 /ʊθɡɑdt/

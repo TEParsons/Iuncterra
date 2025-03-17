@@ -24,7 +24,7 @@ A charismatic warrior named [Uthgar](/places/uttmark/people/uthgar) unites the p
 
 #### 2,400AD
 ##### Fall of Nasruk
-The prosperous human kingdom of [Nasruk](/places/nasruk), in devotion to the [Skyfather](/cosmology/fey/major_fey/ouron.md), erect a tower taller than any sapient-made structure ever before, so tall that it pierced the clouds. This angered the sun god [Amun](/cosmology/fey/galactic_fey/amun.md), who saw it as a petty terrestrial fey challenging the vast powers of the galactic-level fey. Amun altered the rotation of the planet to place Nasruk at a key juncture between the planet's two suns, leading to intense drought and a total desertification of the region. Most Nasruki who did not perish during this period fled south to settle in Kashar. After this event, djinn began appearing in the desert - being born of the Skyfather's union with the fey of the region.
+The prosperous human kingdom of [Nasruk](/places/nasruk), in devotion to the [Skyfather](/cosmology/fey/fey_eilea/ouron.md), erect a tower taller than any sapient-made structure ever before, so tall that it pierced the clouds. This angered the sun god [Amun](/cosmology/fey/fey_nova/amun.md), who saw it as a petty terrestrial fey challenging the vast powers of the galactic-level fey. Amun altered the rotation of the planet to place Nasruk at a key juncture between the planet's two suns, leading to intense drought and a total desertification of the region. Most Nasruki who did not perish during this period fled south to settle in Kashar. After this event, djinn began appearing in the desert - being born of the Skyfather's union with the fey of the region.
 
 #### 3,000AD
 ##### Kashar is founded

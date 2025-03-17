@@ -10,9 +10,9 @@ flowchart LR
 
 %% define nodes
 subgraph celestials [<a href=/cosmology>Celestials</a>]
-ouron([<a href=/cosmology/fey/major_fey/ouron>Ouron</a>])
-deia([<a href=/cosmology/fey/major_fey/deia>Deia</a>])
-veldor([<a href=/cosmology/fey/regional_fey/veldor>Veldor</a>])
+ouron([<a href=/cosmology/fey/fey_eilea/ouron>Ouron</a>])
+deia([<a href=/cosmology/fey/fey_eilea/deia>Deia</a>])
+veldor([<a href=/cosmology/fey/fey_tira/veldor>Veldor</a>])
 hermet([<a href=/cosmology/daemons/seraphim/hermet>Hermet</a>])
 ludon([<a href=/cosmology/daemons/seraphim/ludon>Ludon</a>])
 avikath([<a href=/cosmology/daemons/malefices/avikath>Avikath</a>])
