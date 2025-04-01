@@ -1,0 +1,38 @@
+.ipa::before {
+    content: "/";
+}
+.ipa::after {
+    content: "/";
+}
+
+details.statblock {
+    column-span: all;
+    border-top: 3pt solid var(--red);
+    border-bottom: 3pt solid var(--red);
+}
+details.statblock[open]::details-content {
+    column-count: 2;
+    column-gap: 0.5cm;
+    column-width: 8cm;
+    padding: 1rem;
+    padding-bottom: 2rem;
+}
+details.statblock *:nth-child(2){
+    margin-top: 0;
+}
+details.statblock summary {
+    column-span: all;
+    background-color: var(--green);
+    padding: 1rem;
+    position: relative;
+}
+details.statblock[open] summary {
+    border-bottom: 1pt solid var(--yellow);
+}
+details.statblock summary::marker {
+    color: var(--red);
+    content: "⮞";
+}
+details.statblock[open] summary::marker {
+    content: "⮟";
+}
