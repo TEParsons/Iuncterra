@@ -37,5 +37,14 @@ Acting as something of a trade buffer between the rest of the [DIR](/places/drac
 
 Tabaxi in Kashar are an oppressed group, with Tabaxi settlements often denied support given to the other provinces of Kashar. They live mostly in the mountainous region of [Jami-Parbat](/places/kashar/geography#jami-parbat), trading furs and skins via the nominal (and heavily taxed) access the Kash state grants them to the ports of [Jami-Sonna](/places/kashar/geography#jami-sonna). Being separated from coastal tabaxi by the Parbat mountain range, Kasharite tabaxi are more a culture unto themselves, blending elements of Kasharite culture with more traditional tabaxi practices. They also differ greatly in appearance from other tabaxi, with much shorter and thinner fur, having adapted to the hotter climate of Kashar.
 
+#### Veldspine Tabaxi
+![](tabaxi-veldspine.png)
+
+> **Languages** [Tabax](/languages/parbati#tabax), [Parbati](/languages/parbati), [Uttic](/languages/uttic), [Common](/languages/common), [Kypritic](/languages/kypritic)
+> **Accent** [🗣️](https://www.dialectsarchive.com/algeria-1)
+
+Nascuti myths speak of a "third grove" of Deia, with the first two being [Nascut Deia](/places/nascut) and Sav Deia in [T'Savo](/places/tsavo), located far to the north. Several generations ago, a breakaway group left the grove in search of it, settling in the Veldspine mountains. Most Veldspine tabaxi make a living working in [dwarven](/species/sapient/dwarf#veldspine-dwarves) mines; the work is hard and the rewards are few, but it's a stable living if you can mine enough to trade with local [Uthgardt](/species/sapient/human#uthgardt-humans) for food and necessities. Some still keep up the faith that someday they'll find the third grove, but many have long since given up hope and consigned themselves to their cold, rough lives.
+
+
 ### Ageing
 |/species/sapient/aging.xlsx:Tabaxi|
