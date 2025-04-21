@@ -34,6 +34,7 @@ thunderbeast><a href=/species/deigen/thunderbeast>Thunderbeast</a>]
 lilitun[<a href=/species/deigen/lilitun>Lilitun</a>]
 pegasos>Pegasos]
 griffon>Griffon]
+hydra[<a href=/species/deigen/hydra>Hydra</a>]
 end
 
 %% define relations
