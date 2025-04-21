@@ -3,10 +3,10 @@
 
 ![](strahd.png)
 
-> **Pronouns** he/him
-> **Species** [Human](/species/sapient/human) (Vampire)
-> **Age** Unknown
-> **Affiliations** None
+**Pronouns** he/him
+**Species** [Human](/species/sapient/human) (Vampire)
+**Age** Unknown
+**Affiliations** None
 
 #### Ideals
 Above all else, Strahd lusts for power. Despite his utter dominion over all he surveys, he always wants more. His ultimate goal is to gain such notoriety on earth that he manifests as an [Apotheote](/cosmology/daemons/apotheotes/apotheotes), at which point he can usurp [Loga](/cosmology/daemons/malefices/loga) as the malefice of deception and gain his rightful place in the pantheon of gods.
@@ -28,23 +28,31 @@ Strahd was never first in line for his throne - he took it by force, murdering h
 
 
 ```statblock:5e
-# Strahd Drakul
+### Strahd Drakul
 *Medium undead (shapechanger), lawful evil*
 
-> **HP** 144 (17d8+68)
-> **Armour Class** 16 (natural armour)
-> **Speed** 30ft.
-> 
-> | STR  | CON  | DEX  | INT  | WIS  | CHA  |
-> | ---- | ---- | ---- | ---- | ---- | ---- |
-> | +4   | +4   | +4   | +5   | +2   | +4   |
-> | 18   | 18   | 18   | 20   | 15   | 18   |
->
-> **Damage Resistances** Necrotic, bludgeoning, piercing and slashing from nonmagical attacks
-> **Senses** Darkvision (120ft.)
-> **Skills** Arcana +15, Perception +12, Religion +10, Stealth +14
-> **Languages** Abyssal, Common, Draconic, Elvish, Giant, Infernal
-> **Challenge** 15
+---
+
+**HP** 144 (17d8+68)
+**Armour Class** 16 (natural armour)
+**Speed** 30ft.
+
+---
+
+| STR  | CON  | DEX  | INT  | WIS  | CHA  |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| +4   | +4   | +4   | +5   | +2   | +4   |
+| 18   | 18   | 18   | 20   | 15   | 18   |
+
+---
+
+**Damage Resistances** Necrotic, bludgeoning, piercing and slashing from nonmagical attacks
+**Senses** Darkvision (120ft.)
+**Skills** Arcana +15, Perception +12, Religion +10, Stealth +14
+**Languages** Abyssal, Common, Draconic, Elvish, Giant, Infernal
+**Challenge** 15
+
+---
 
 ***Shapechanger.*** If Strahd isn’t in running water or sunlight, he can use his action to polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back into his true form.
 
@@ -78,7 +86,7 @@ While he has 0 hit points in mist form, he can’t revert to his vampire form, a
 - Stake to the Heart: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.
 - Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
 
-### Actions
+#### Actions
 
 ***Multiattack (Vampire Form Only).*** Strahd makes two attacks, only one of which can be a bite attack.
 
@@ -92,7 +100,7 @@ Each time Strahd or his companions do anything harmful to the target, it can rep
 
 ***Children of the Night (1/day).\*** Strahd magically calls 2d4 swarms of bats or swarms rats, provided that the sun isn’t up. While outdoors, Strahd can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of Strahd and obeying his spoken commands. The beasts remain for 1 hour, until Strahd dies, or until he dismisses them as a bonus action.
 
-### Legendary Actions
+#### Legendary Actions
 
 Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature’s turn. Strahd regains spent legendary actions at the start of his turn.
 
