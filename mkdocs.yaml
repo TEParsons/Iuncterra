@@ -31,5 +31,5 @@ markdown_extensions:
 plugins:
   - awesome-pages
   - mermaid2
-  - torillic-statblocks
+  - torillic-statblock
   - torillic-ipa
