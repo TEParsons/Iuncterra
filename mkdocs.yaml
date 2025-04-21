@@ -14,8 +14,6 @@ extra_css:
   - extra.css
 
 hooks:
-  - utils/statblocks.py
-  - utils/ipa.py
   - utils/links.py
   - utils/tables.py
 
@@ -33,3 +31,5 @@ markdown_extensions:
 plugins:
   - awesome-pages
   - mermaid2
+  - torillic-statblocks
+  - torillic-ipa
