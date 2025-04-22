@@ -43,10 +43,13 @@ After a millenium of steady decline at its borders, the entire eastern portion o
 A core set of tribes who were pivotal to bringing down the Dracean empire form a confederacy in the interests of resisting any revival of Dracean power in the region. This confederacy would grow to become the dominant political force in the central continent, now called the [Dracean Intercoastal Republic](/places/dracean_intercoastal_republic).
 
 #### 5,400AD
+```spoiler
 ##### Overthrow of the Kash dynasty
 [The lost prince](/stories/the_lost_prince), a half-djinn bastard of a Sultan's concubine and a [djinn](/species/deigen/djinn) of the desert, returned to Kashar and led a rebellion against the wildly unpopular and despitic [Sultan Kash Pasanhara](/places/kashar/people/kash_pasanhara), ending the over 3000 year reign of the Kash dynasty
+```
 
 #### 5,420AD
+```spoiler
 ##### Reformation of the Uthgardt faith
 Following attempts by [Chancellor Wilhelm van Noord](/places/dracean_intercoastal_republic/people/wilhelm_van_noord) to exploit an internal civil war to expand the territory of the [DIR](/places/dracean_intercoastal_republic), the Uthgardt people united behind a single religious head: [Fylkir Haesta Thrumsdottr](/places/uttmark/people/hæsta_þrumsdottr), leading to a full reformation of the faith.
-
+```
