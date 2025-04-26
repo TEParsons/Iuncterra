@@ -21,6 +21,7 @@ hermet([<a href=/cosmology/daemons/seraphim/hermet>Hermet</a>])
 loga([<a href=/cosmology/daemons/malefices/loga>Loga</a>])
 lilit([<a href=/cosmology/daemons/malefices/lilit>Lilit</a>])
 surt([<a href=/cosmology/daemons/malefices/surt>Surt</a>])
+nomon([<a href=/cosmology/daemons/ambiguates/nomon>Nomon</a>])
 end
 subgraph deigen [<a href=/species/deigen>Deigen</a>]
 subgraph dragons[<a href=/species/deigen/dragons>Dragons</a>]
@@ -52,6 +53,8 @@ hermet --> pegasos
 hyron --> pegasos
 hermet --> griffon
 jor --> griffon
+nomon --> hydra
+hyron --> hydra
 
 %% legend
 subgraph legend [Legend]
