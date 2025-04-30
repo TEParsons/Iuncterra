@@ -21,3 +21,11 @@ Herbadi are keepers of the flame, who generally perform the day to day maintenan
 ![A mobad](mobad.png)
 
 Mobadi are trainee keepers of the flame, learning the ancient rituals from Herbadi.
+
+### Theological debate
+
+Sikarists disagree on the origin of the Eternal Flame. The official position of the Sultanate is that it was lit by the first Sultan, who was an accomplished sorceror. Many however, especially in Jami'Marub, believe it is the last remnant of the flame which destroyed [Nasruk](/stories/fall_of_nasruk). This disagreement is tolerated, but is a source of some political tension between the state and religious capitals.
+
+```spoiler
+The latter group are correct. While lost in the Parbat mountains, the first Sultan came to the border of [Nascut Deia](/places/nascut) and, through his skill as a sorceror, was able to extract a small section of root and keep it burning. When the first Kasharites came upon the land that is now Kashar, he transferred the flame first to a simple hearth, then constructed the tower where it now resides during his time as Sultan.
+```
