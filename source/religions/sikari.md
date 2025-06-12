@@ -16,11 +16,105 @@ The leader of the faith, advises the Sultan on spiritual matters and administers
 
 Herbadi are keepers of the flame, who generally perform the day to day maintenance such as adding oil and tower maintenance.
 
+```statblock
+### Herbad
+
+---
+
+**Armour Class** 16
+**Hit Points** 38 (6d8 + 11)
+**Speed** 45ft.
+**Ki** 5, save 13
+**Proficiency Bonus** +3
+
+---
+
+| STR  | CON  | DEX  | INT  | WIS  | CHR  |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| +0   | +1   | +3   | +0   | +3   | +0   |
+| 11   | 13   | 16   | 11   | 16   | 11   |
+
+---
+
+**Martial Arts** After an attack using no weapon or a monk weapon, the Herbad can perform an unarmed attack as a bonus action.
+
+- [ ] **Wholeness of Body** As an action, restore 15hp.
+
+---
+
+***Unarmed Strike** Melee Attack* +6 to hit, range 5ft., one target. *Hit:* 1d4 bludgeoning damage.
+
+***Chakram Hoop** Melee (Monk) Weapon Attack* +6 to hit, range 5ft., one target. *Hit:* 1d6 bludgeoning + 1d4 slashing damage.
+
+---
+
+***χ Flurry of Blows*** Immediately after an action, make two unarmed strikes as a bonus action. On hit, either:
+
+- Target must succeed on a Dexterity saving throw or be knocked prone.
+- Target must make a Strength saving throw or be pushed up to 15 feet away.
+- Target can't take reactions until the end of  the Herbad's next turn.
+
+**χ Patient Defense **Take the [Dodge](https://www.dndbeyond.com/sources/basic-rules/combat#Dodge) action as a bonus action on your turn.
+
+**χ Step of the Wind** Take the [Disengage](https://www.dndbeyond.com/sources/basic-rules/combat#Disengage) or [Dash](https://www.dndbeyond.com/sources/basic-rules/combat#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
+
+#### Spellcasting
+
+**Spellslots** None
+**Spell Save DC** 13
+
+0. [Sacred Flame](https://www.dndbeyond.com/spells/sacred-flame)
+
+```
+
 #### Mobad
 
 ![A mobad](mobad.png)
 
 Mobadi are trainee keepers of the flame, learning the ancient rituals from Herbadi.
+
+```statblock:5e
+### Mobad
+
+---
+
+**Armour Class** 12
+**Hit Points** 25 (3d8 + 11)
+**Speed** 30ft.
+**Ki** 3, save 15
+**Proficiency Bonus** +2
+
+---
+
+| STR  | CON  | DEX  | INT  | WIS  | CHR  |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| +0   | +0   | +2   | +0   | +2   | +0   |
+| 10   | 10   | 14   | 11   | 14   | 11   |
+
+---
+
+**Martial Arts** After an attack using no weapon or a monk weapon, the Mobad can perform an unarmed attack as a bonus action.
+
+- [ ] **Wholeness of Body** As an action, restore 6hp.
+
+---
+
+***Unarmed Strike** Melee Attack* +4 to hit, range 5ft., one target. *Hit:* 1d4 bludgeoning.
+
+***Chakram Hoop** Melee (Monk) Weapon Attack* +4 to hit, range 5ft., one target. *Hit:* 1d6 bludgeoning + 1d4 slashing.
+
+---
+
+**χ Flurry of Blows** Immediately after an action, make two unarmed strikes as a bonus action. On hit, either:
+
+- Target must succeed on a Dexterity saving throw or be knocked prone.
+- Target must make a Strength saving throw or be pushed up to 15 feet away.
+- Target can't take reactions until the end of  the Herbad's next turn.
+
+**χ Patient Defense** Take the [Dodge](https://www.dndbeyond.com/sources/basic-rules/combat#Dodge) action as a bonus action on your turn.
+
+**χ Step of the Wind** Take the [Disengage](https://www.dndbeyond.com/sources/basic-rules/combat#Disengage) or [Dash](https://www.dndbeyond.com/sources/basic-rules/combat#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
+```
 
 ### Theological debate
 
