@@ -4,6 +4,8 @@
 
 Guards who man the borders between the DIR and their hostile neighbours ([Ordo'Atkan](/places/ordo_atkan) to the south, [Uttmark](/places/uttmark) to the north), these soldiers are generally more weathered than the rest of the military having seen more action.
 
+#### Bodürgaard Axeman
+
 ```statblock:5e
 ### Bodürgaard Axeman
 *adapted from [Levy Axeman by u/_hofnar_](https://www.reddit.com/r/UnearthedArcana/comments/f3b70y/dogs_of_war_11_new_nonplayer_soldier_characters/)*
@@ -33,6 +35,8 @@ Guards who man the borders between the DIR and their hostile neighbours ([Ordo'A
 saving throw or be knocked prone.
 ```
 
+#### Bodürgaard Spearman
+
 ```statblock:5e
 ### Bodürgaard Spearman
 *adapted from [Levy Spearman by u/_hofnar_](https://www.reddit.com/r/UnearthedArcana/comments/f3b70y/dogs_of_war_11_new_nonplayer_soldier_characters/)*
@@ -60,6 +64,8 @@ saving throw or be knocked prone.
 
 ***Spear.** Melee or Ranged Weapon Attack*: +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 ```
+
+#### Bodürgaard Swordsman
 
 ```statblock:5e
 ### Bodürgaard Swordsman
