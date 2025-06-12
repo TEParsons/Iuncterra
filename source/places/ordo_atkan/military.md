@@ -31,11 +31,11 @@ Mounted archers, the key unit of the Ordo'Atkan horde. The shortbow sacrifices r
 
 ---
 
-🐎 ***Hooves**. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+🐎 ***Hooves**. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 2d6 + 4 bludgeoning damage.
 
 ***Multiattack***. The keshik makes two attacks with its recurve bow.
 
-***Recurve bow.** Ranged Weapon Attack*: +4 to hit, range 80/320 ft., one target. *Hit:* 9 (1d8 + 4) piercing damage. The keshik carries a quiver with 25 arrows.
+***Recurve bow.** Ranged Weapon Attack*: +4 to hit, range 80/320 ft., one target. *Hit:* 1d8 + 4 piercing damage. The keshik carries a quiver with 25 arrows.
 
 ### Warhorse
 
@@ -54,6 +54,6 @@ Mounted archers, the key unit of the Ordo'Atkan horde. The shortbow sacrifices r
 
 ---
 
-🐎 **Hooves**. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+**Hooves**. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 2d6 + 4 bludgeoning damage.
 
 ```

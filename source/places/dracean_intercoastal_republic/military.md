@@ -29,9 +29,9 @@ Guards who man the borders between the DIR and their hostile neighbours ([Ordo'A
 
 ---
 
-***Handaxe.** Melee or Ranged Weapon Attack*: +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
+***Handaxe.** Melee or Ranged Weapon Attack*: +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 1d6 + 2 slashing damage.
 
-***Shield Bash.** Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength
+***Shield Bash.** Melee Weapon Attack*: +4 to hit, reach 5 ft., one target. *Hit:* 1d4 + 2 bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 12 Strength
 saving throw or be knocked prone.
 ```
 
@@ -62,7 +62,7 @@ saving throw or be knocked prone.
 
 ---
 
-***Spear.** Melee or Ranged Weapon Attack*: +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+***Spear.** Melee or Ranged Weapon Attack*: +3 to hit, reach 10 ft. or range 20/60 ft., one target. *Hit:* 1d6 + 1 piercing damage, or 1d8 + 1 piercing damage if used with two hands to make a melee attack.
 ```
 
 #### Bodürgaard Swordsman
@@ -95,7 +95,7 @@ the end of its turn.
 
 **Multiattack.** The swordsman makes two attacks.
 
-***Shortsword.** Melee Weapon Attack*: +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
+***Shortsword.** Melee Weapon Attack*: +3 to hit, reach 5 ft., one target. *Hit:* 1d6 + 1 piercing damage.
 
-***Javelin.** Melee or Ranged Weapon Attack*: +3 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
+***Javelin.** Melee or Ranged Weapon Attack*: +3 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 1d6 + 1 piercing damage.
 ```
