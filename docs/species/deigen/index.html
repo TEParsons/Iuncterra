@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Deigenic species - Iuncterra</title>
+<link href="../../favicon.png" rel="icon" type="image/x-icon"/>
+<link href="../../css/torillic.css" rel="stylesheet"/>
+<style>
+    .torillic-background {
+      
+      background-image: url("../../bg.jpg");
+      
+    }
+  </style>
+<script>
+    function toggleSpoiler(element) {
+      // add/remove "hidden" class
+      if (element.classList.contains("hidden")) {
+        element.classList.remove("hidden");
+      } else {
+        element.classList.add("hidden");
+      }
+    }
+  </script>
+</head>
+<body class="torillic-background">
+<header class="torillic-header">
+<h1>Iuncterra</h1>
+<nav>
+<a class="" href="../..">Home</a>
+<a class="" href="../../timeline/">Timeline</a>
+<a class="" href="../../cosmology/">Cosmology</a>
+<a class="" href="../../languages/">Languages</a>
+<a class="" href="../../organisations/">Organisations</a>
+<a class="" href="../../places/">Places</a>
+<a class="" href="../../religions/">Religions</a>
+<a class="current" href="../">Species</a>
+<a class="" href="../../stories/">Stories</a>
+</nav>
+</header>
+<main class="torillic-page">
+<h1 id="deigenic-species">Deigenic species</h1>
+<p>Deigen are creatures born from the union of two celestials within the material world. They cannot produce offspring themselves, but can breed with <a href="../../species/sapient">sapient species</a>.</p>
+<div class="mermaid">---
+title: Pylogenic tree of the deigenic species of Iuncterra
+---
+flowchart LR
+
+%% define nodes
+subgraph celestials [&lt;a href=/cosmology&gt;Celestials&lt;/a&gt;]
+veldor([&lt;a href=/cosmology/fey/fey_tira/veldor&gt;Veldor&lt;/a&gt;])
+deia([&lt;a href=/cosmology/fey/fey_eilea/deia&gt;Deia&lt;/a&gt;])
+ouron([&lt;a href=/cosmology/fey/fey_eilea/ouron&gt;Ouron&lt;/a&gt;])
+jor([&lt;a href=/cosmology/fey/fey_tira/jor&gt;Jor&lt;/a&gt;])
+hyron([&lt;a href=/cosmology/fey_tira/hyron&gt;Hyron&lt;/a&gt;])
+avikath([&lt;a href=/cosmology/daemons/malefices/avikath&gt;Avikath&lt;/a&gt;])
+erodite([&lt;a href=/cosmology/daemons/erodite&gt;Erodite&lt;/a&gt;])
+hermet([&lt;a href=/cosmology/daemons/seraphim/hermet&gt;Hermet&lt;/a&gt;])
+loga([&lt;a href=/cosmology/daemons/malefices/loga&gt;Loga&lt;/a&gt;])
+lilit([&lt;a href=/cosmology/daemons/malefices/lilit&gt;Lilit&lt;/a&gt;])
+surt([&lt;a href=/cosmology/daemons/malefices/surt&gt;Surt&lt;/a&gt;])
+nomon([&lt;a href=/cosmology/daemons/ambiguates/nomon&gt;Nomon&lt;/a&gt;])
+end
+subgraph deigen [&lt;a href=/species/deigen&gt;Deigen&lt;/a&gt;]
+subgraph dragons[&lt;a href=/species/deigen/dragons&gt;Dragons&lt;/a&gt;]
+draconus&gt;&lt;a href=/species/deigen/dragons/draconus&gt;Draconus&lt;/a&gt;]
+kypra[&lt;a href=/species/deigen/dragons/kypra&gt;Kypra&lt;/a&gt;]
+end
+nymph[&lt;a href=/species/deigen/nymph&gt;Nymph&lt;/a&gt;]
+djinn[&lt;a href=/species/deigen/djinn&gt;Djinn&lt;/a&gt;]
+nymph[&lt;a href=/species/deigen/nymph&gt;Nymph&lt;/a&gt;]
+thunderbeast&gt;&lt;a href=/species/deigen/thunderbeast&gt;Thunderbeast&lt;/a&gt;]
+lilitun[&lt;a href=/species/deigen/lilitun&gt;Lilitun&lt;/a&gt;]
+pegasos&gt;Pegasos]
+griffon&gt;Griffon]
+hydra[&lt;a href=/species/deigen/hydra&gt;Hydra&lt;/a&gt;]
+end
+
+%% define relations
+avikath --&gt; draconus
+veldor --&gt; draconus
+avikath --&gt; kypra
+erodite --&gt; nymph
+deia --&gt; nymph
+loga --&gt; djinn
+deia --&gt; thunderbeast
+ouron --&gt; thunderbeast
+lilit --&gt; lilitun
+surt --&gt; lilitun
+hermet --&gt; pegasos
+hyron --&gt; pegasos
+hermet --&gt; griffon
+jor --&gt; griffon
+nomon --&gt; hydra
+hyron --&gt; hydra
+
+%% legend
+subgraph legend [Legend]
+  alive[Alive]
+  extinct&gt;Extinct]
+  immortal([Immortal])
+
+  parent[ ]
+  child[ ]
+  immortalparent([ ])
+
+  alive ~~~ extinct ~~~ immortal
+  immortalparent --&gt;|descent| child
+end
+</div>
+<h4>Contents</h4>
+<blockquote class="torillic-toc">
+<li class="torillic-toc-page">
+<a href="djinn/">Djinn</a>
+</li>
+<li class="torillic-toc-page">
+<a href="gandrite/">Gandrite</a>
+</li>
+<li class="torillic-toc-page">
+<a href="hydra/">Hydra</a>
+</li>
+<li class="torillic-toc-page">
+<a href="lilitun/">Lilitun</a>
+</li>
+<li class="torillic-toc-page">
+<a href="nymph/">Nymphs</a>
+</li>
+<li class="torillic-toc-page">
+<a href="thunderbeast/">Thunderbeast</a>
+</li>
+<li class="torillic-toc-section">
+<a href="dragons/">Dragons</a>
+</li>
+</blockquote>
+<a class="torillic-backlink" href="../">🡐 Species</a>
+</main>
+<script type="module">import mermaid from "https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs";
+mermaid.initialize({});</script></body>
+</html>
