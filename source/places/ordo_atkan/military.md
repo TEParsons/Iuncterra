@@ -48,9 +48,9 @@ Mounted archers, the key unit of the Ordo'Atkan horde. The shortbow sacrifices r
 
 ---
 
-***Pack Tactics.*** The keshik has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+**Pack Tactics.** The keshik has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-🐎 ***Encircle.*** One or more keshik uses their movement to continuously rides in a circle (radius 20ft. + 5ft. for each keshik circling) around a target. Circling keshik take their action together by attacking with the **recurve bow**, but rather than rolling to hit, each keshik rolls 1d4 for cardinal direction (clockwise with 1 as north) and all entities inside the circle who aren't behind cover are hit.
+🐎 **Encircle.** One or more keshik uses their movement to continuously ride in a circle (radius 20ft. + 5ft. for each keshik) around a target. Circling keshik take their action together by attacking with the **recurve bow**, but rather than rolling to hit, each keshik rolls 1d4 for cardinal direction (clockwise with 1 as north) and all entities inside the circle who aren't behind cover from that direction are hit.
 
 ---
 
@@ -58,6 +58,6 @@ Mounted archers, the key unit of the Ordo'Atkan horde. The shortbow sacrifices r
 
 ***Multiattack***. The keshik makes two attacks with its recurve bow.
 
-***Recurve bow.** Ranged Weapon Attack*: +4 to hit, range 80/320 ft., one target. Hit: 9 (1d8 + 4) piercing damage. The keshik carries a quiver with 25 arrows.
+***Recurve bow.** Ranged Weapon Attack*: +4 to hit, range 80/320 ft., one target. *Hit:* 9 (1d8 + 4) piercing damage. The keshik carries a quiver with 25 arrows.
 
 ```

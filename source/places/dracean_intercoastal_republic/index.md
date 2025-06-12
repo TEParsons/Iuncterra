@@ -7,15 +7,3 @@ Despite the name, the Dracean Intercoastal Republic (DIR) is neither dracean, in
 
 ## Geography
 The DIR is made up of 16 full member states, plus the associate member states of Zarovia, Drace, and the various Kaiprite trading colonies lining the east coast. See the [regions](regions) section for a full breakdown of the various states.
-
-
-
-
-
-
-
-
-
-
-
-
