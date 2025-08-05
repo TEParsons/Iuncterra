@@ -10,7 +10,7 @@ Ifrit are fey who manifest as highly combustable materials (like the proto-therm
 [Fey rhea](/cosmology/fey/fey_rhea#bonding)
 
 #### Idle effect
-If known, increases the size of the bonfire created by the cantrip [Gust](https://www.dndbeyond.com/spells/2383-gust) by 5ft³. If not known, grants the cantrip.
+If known, increases the size of the bonfire created by the cantrip [Create Bonfire](https://www.dndbeyond.com/spells/2373-create-bonfire) by 5ft³. If not known, grants the cantrip.
 
 #### Activation effect
 Cast [Searing Smite](https://www.dndbeyond.com/spells/2619009-searing-smite) for free, then make an attack.
