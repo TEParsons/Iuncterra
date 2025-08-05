@@ -7,7 +7,7 @@ Dervish are the fey of small swirling gusts of wind. They are playful in nature,
 
 ```statblock:5e
 ### Dervish
-[Fey rhea](/cosmology/fey/fey_rhea/index.md#bonding)
+[Fey rhea](/cosmology/fey/fey_rhea#bonding)
 
 #### Idle effect
 If known, increases the distance targets are pushed by the cantrip [Gust](https://www.dndbeyond.com/spells/2383-gust) by 5ft. If not known, grants the cantrip.

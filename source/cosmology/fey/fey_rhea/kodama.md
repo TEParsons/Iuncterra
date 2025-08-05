@@ -6,7 +6,7 @@ Kodama are benevolent fey which manifest as pinpoints of light refracted through
 
 ```statblock:5e
 ### Kodama
-[Fey rhea](/cosmology/fey/fey_rhea/index.md#bonding)
+[Fey rhea](/cosmology/fey/fey_rhea#bonding)
 
 #### Idle effect
 If known, increases the number of lights created by the cantrip [Dancing Lights](https://www.dndbeyond.com/spells/2619058-dancing-lights) by 1. If not known, grants the cantrip.
