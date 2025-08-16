@@ -116,6 +116,20 @@ Mobadi are trainee keepers of the flame, learning the ancient rituals from Herba
 **χ Step of the Wind** Take the [Disengage](https://www.dndbeyond.com/sources/basic-rules/combat#Disengage) or [Dash](https://www.dndbeyond.com/sources/basic-rules/combat#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
 ```
 
+#### Tetubad
+
+![A tetubad](tetubad.md)
+
+Sometimes called "wild herbadi" or "flame seekers", these monks reject the monastic lifestyle and choose to live in the ruins of [Nasruk](/places/nasruk) or in the wilds of the Parbati and Satru mountain ranges. Their mission is to seek out [amundi](/cosmology/fey/fey_rhea/amundi) and return them to Dhurga Agun to be unified with the eternal flame.
+
+The most well known tetubad was Sultan Kash Viratu who, after being ousted from power by his younger brother Ripu, roamed the Satru mountains seeking amundi for 14 years, returning with several and using the power granted by them to retake the throne before uniting them with the eternal flame. Some subsequent Sultans choose to relinquish power to a regent the first 14 years of their rule to spend time as a tetubad before ascending to the sultanate. 
+
+```statblock:5e
+All tetubadi above CR1 have the following ability:
+
+**Wild Monk** The tetubad can expend ki to upcast a fey summon.
+```
+
 ### Theological debate
 
 Sikarists disagree on the origin of the Eternal Flame. The official position of the Sultanate is that it was lit by the first Sultan, who was an accomplished sorceror. Many however, especially in Jami'Marub, believe it is the last remnant of the flame which destroyed [Nasruk](/stories/fall_of_nasruk). This disagreement is tolerated, but is a source of some political tension between the state and religious capitals.
