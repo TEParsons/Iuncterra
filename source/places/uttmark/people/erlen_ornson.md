@@ -4,7 +4,7 @@
 > **Pronouns** he/him
 > **Species** [Human (Uthgardt)](/species/sapient/human#uthgardt-humans)
 > **Age** 48
-> **Affiliations** ...
+> **Affiliations** [Uthgar](/cosmology/daemons/apotheotes/uthgar), [Griffon Tribe](/places/uttmark#griffon)
 
 #### Ideals
 Erlen is bitter towards the Elk tribe and wants to see them fail, but not as much as he wants to see his own tribe succeed.

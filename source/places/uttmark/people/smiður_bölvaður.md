@@ -1,17 +1,17 @@
 # Smiður Bölvaður
 /smiður bɒlvaður/
 
-> **Pronouns** he/him/they/them/she/her
-> **Species** []()
+> **Pronouns** he/him
+> **Species** [Human (Uthgardt)](/species/sapient/human#uthgardt-humans)
 > **Age** 46
-> **Family** [Slásverd af Fylkir](slásverd_af_fylkir) (Son)
-> **Affiliations** [Uthgar](../../cosmology/daemons/apotheotes/uthgar), Elk Tribe, Fylkiriate
+> **Family** [Slásverd af Fylkir](./slásverd_af_fylkir) (Son)
+> **Affiliations** [Uthgar](/cosmology/daemons/apotheotes/uthgar), [Elk Tribe](/places/uttmark#elk), Fylkiriate
 
 #### Ideals
-Ambitious, but more for his people than for himself. Smidur wants to see the Elk tribe thrive and sees the ascention of [Hæsta Þrumsdottr](hæsta%20Þrumsdottr) as Fylkir as the best way to achieve that.
+Ambitious, but more for his people than for himself. Smidur wants to see the Elk tribe thrive and sees the ascention of [Hæsta Þrumsdottr](./hæsta_Þrumsdottr) as Fylkir as the best way to achieve that.
 
 #### Bonds
-Father to [Slásverd af Fylkir](slásverd_af_fylkir), Smidur is very proud of his son
+Father to [Slásverd af Fylkir](./slásverd_af_fylkir), Smidur is very proud of his son
 
 #### Flaws
 Overly optimistic, assumes good intentions when they may not be present

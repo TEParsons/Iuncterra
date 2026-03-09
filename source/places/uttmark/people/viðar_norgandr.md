@@ -3,15 +3,15 @@
 ![](vidar-norgandr.png)
 
 > **Pronouns** he/him
-> **Species** [Human](/species/sapient/human) ([Uthgardt](/places/uttmark), Lycanthrope)
+> **Species** [Human](/species/sapient/human) ([Human (Uthgardt)](/species/sapient/human#uthgardt-humans), Lycanthrope)
 > **Age** 34
-> **Affiliations** [Uthgar](/cosmology/daemons/apotheotes/uthgar), Uthgardt Rebellion, Grey Wolf Tribe
+> **Affiliations** [Uthgar](/cosmology/daemons/apotheotes/uthgar), [Grey Wolf Tribe](/places/uttmark#grey-wolf), Uthgardt Rebellion
 
 #### Ideals
 Vidar is a devout follower of [Uthgar](/cosmology/daemons/apotheotes/uthgar), a traditionalist who very much keeps to the old ways. He believes that Uthgar is best revered by tribes adhering to the dogma of their totems, and that a central authority of the Uthgardt faith would fundamentally undermine its culture.
 
 #### Bonds
-Vidar is fiercely loyal to his kinsmen in the Grey Wolf tribe. His sexual relationship with [Flugmær Hrafndottr](./flugmær_hrafndottr.md) is also one of the worst kept secrets in the North.
+Vidar is fiercely loyal to his kinsmen in the Grey Wolf tribe. His sexual relationship with [Flugmær Hrafndottr](./flugmær_hrafndottr) is also one of the worst kept secrets in the North.
 
 #### Flaws
 He is stubborn, zealous and quick to anger. 

@@ -4,9 +4,9 @@
 ![](norn-alfursdottr.png)
 
 > **Pronouns** they/them
-> **Species** [Gandrite](../../species/sapient/godtouched/gandrite)
+> **Species** [Gandrite](/species/sapient/godtouched/gandrite)
 > **Age** 124
-> **Affiliations** [[Uthgar]], Great Tree Tribe, Uthgardt Rebellion
+> **Affiliations** [Uthgar](/cosmology/daemons/apotheotes/uthgar), [Great Tree Tribe](/places/uttmark#great-tree), Uthgardt Rebellion
 
 #### Ideals
 Norn's visions mostly pertain to the destruction wrought when her people leave their home to conquer the world below. She will do anything to prevent this and believes the spiritual beliefs of the Uthgardt are key to stopping them.

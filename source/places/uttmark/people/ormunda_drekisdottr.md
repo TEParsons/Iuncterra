@@ -4,14 +4,14 @@
 > **Pronouns** she/her
 > **Species** [Human (Uthgardt)](/species/sapient/human#uthgardt-humans)
 > **Age** 27
-> **Family** [Veida Vikinginn](veida_vikinginn) (Sister)
-> **Affiliations** [Uthgar](../../cosmology/daemons/apotheotes/uthgar), Great Worm Tribe
+> **Family** [Veida Vikinginn](./veida_vikinginn) (Sister)
+> **Affiliations** [Uthgar](/cosmology/daemons/apotheotes/uthgar), [Great Worm Tribe](/places/uttmark#great-worm)
 
 #### Ideals
 A staunch traditionalist, the strange ways of her people and the legacy of her dynasty is very important to Ormunda.
 
 #### Bonds
-Frosty relationship with her sister [Veida Vikinginn](veida_vikinginn)
+Frosty relationship with her sister [Veida Vikinginn](./veida_vikinginn)
 
 #### Flaws
 Snobbish and self important

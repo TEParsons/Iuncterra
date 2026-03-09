@@ -4,7 +4,7 @@
 > **Pronouns** he/him
 > **Species** [Elf (Kasharite)](/species/sapient/elf#kasharite-elves)
 > **Age** 204
-> **Affiliations** [Uthgar](../../cosmology/daemons/apotheotes/uthgar), Sky Pony Tribe
+> **Affiliations** [Uthgar](/cosmology/daemons/apotheotes/uthgar), [Sky Pony Tribe](/places/uttmark#sky-pony)
 
 #### Ideals
 Thraell values glory and spectacle, his connection to his adopted homeland is a mutual appreciation for glorious combat.
